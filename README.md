@@ -3,10 +3,9 @@
 
 
 Process:
-
 * Reads preprocessing: trimming + quality check (before and after)
 * Genome assembly with PacBio reads.
-● Assembly quality evaluation.
-● Structural and functional annotation.
-● Synteny comparison with a closely related genome.
-● Differential expression analyses
+* Assembly quality evaluation.
+* Structural and functional annotation.
+* Synteny comparison with a closely related genome.
+* Differential expression analyses
