@@ -2,7 +2,7 @@
 ### This project represents a reproduction of the publication under the name "RNA-seq and Tn-seq reveal fitness determinants of vancomycin-resistant Enterococcus faecium during growth in human serum".
 
 
-Basic analyses:
+Basic analysis:
 - [ ] Reads preprocessing: trimming + quality check (before and after)
 - [ ] Genome assembly with PacBio reads.
 - [ ] Assembly quality evaluation.
@@ -12,7 +12,7 @@ Basic analyses:
 - [ ] Differential expression analysis between rich medium and heat-inactivated serum conditions.
 
 
-Extra analyses:
+Extra analysis:
 - [ ] Genome assembly with Illumina and Nanopore reads.
 - [ ] Assembly evaluation (extra methods).
 - [ ] Plasmid identification.
