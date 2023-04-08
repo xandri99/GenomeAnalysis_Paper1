@@ -12,7 +12,7 @@
 
 # Variables
 INPUT_DIR="/domus/h1/xandri/GenomeAnalysis_Paper1/data/raw_data/genomics_data/Illumina"
-OUTPUT_DIR="/domus/h1/xandri/GenomeAnalysis_Paper1/working_directory/trimmomatic_work/results_trimm"
+OUTPUT_DIR="/home/xandri/GenomeAnalysis_Paper1/results/01_preprocessing/trimmed_data"
 
 
 
