@@ -1,9 +1,0 @@
-trimmomatic/0.39 loaded, see 'module help trimmomatic/0.39' for more information.
-/sw/bioinfo/trimmomatic/0.39/snowy/trimmomatic
-TrimmomaticPE: Started with arguments:
- -threads 2 /domus/h1/xandri/GenomeAnalysis_Paper1/data/raw_data/genomics_data/Illumina/E745-1.L500_SZAXPI015146-56_1_clean.fq.gz /domus/h1/xandri/GenomeAnalysis_Paper1/data/raw_data/genomics_data/Illumina/E745-1.L500_SZAXPI015146-56_2_clean.fq.gz /domus/h1/xandri/GenomeAnalysis_Paper1/working_directory/trimmomatic_work/results_trimm/E745-1.L500_SZAXPI015146-56_1P_clean.fq.gz /domus/h1/xandri/GenomeAnalysis_Paper1/working_directory/trimmomatic_work/results_trimm/E745-1.L500_SZAXPI015146-56_1U_clean.fq.gz /domus/h1/xandri/GenomeAnalysis_Paper1/working_directory/trimmomatic_work/results_trimm/E745-1.L500_SZAXPI015146-56_2P_clean.fq.gz /domus/h1/xandri/GenomeAnalysis_Paper1/working_directory/trimmomatic_work/results_trimm/E745-1.L500_SZAXPI015146-56_2U_clean.fq.gz ILLUMINACLIP:/sw/apps/bioinfo/trimmomatic/0.39/rackham/adapters/TruSeq3-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:20 MINLEN:30
-Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
-ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
-Quality encoding detected as phred64
-Input Read Pairs: 1666667 Both Surviving: 1546653 (92.80%) Forward Only Surviving: 116223 (6.97%) Reverse Only Surviving: 976 (0.06%) Dropped: 2815 (0.17%)
-TrimmomaticPE: Completed successfully
