@@ -3,8 +3,8 @@
 
 
 Basic analysis:
-- [ ] Reads preprocessing: trimming + quality check (before and after)
-- [ ] Genome assembly with PacBio reads.
+- [x] Reads preprocessing: trimming + quality check (before and after)
+- [x] Genome assembly with PacBio reads.
 - [ ] Assembly quality evaluation.
 - [ ] Structural and functional annotation.
 - [ ] RNA-Seq reads alignment against the assembled genome.
@@ -13,7 +13,7 @@ Basic analysis:
 
 
 Extra analysis:
-- [ ] Genome assembly with Illumina and Nanopore reads.
+- [x] Genome assembly with Illumina and Nanopore reads.
 - [ ] Assembly evaluation (extra methods).
 - [ ] Plasmid identification.
 - [ ] SNPs calling.
