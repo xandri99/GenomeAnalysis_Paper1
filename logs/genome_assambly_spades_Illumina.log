@@ -1,0 +1,141 @@
+
+
+== Warning ==  No assembly mode was specified! If you intend to assemble high-coverage multi-cell/isolate data, use '--isolate' option.
+
+
+Command line: /sw/bioinfo/spades/3.15.5/snowy/bin/spades.py	--threads	2	--pe1-1	/home/xandri/GenomeAnalysis_Paper1/data/raw_data/genomics_data/Illumina/E745-1.L500_SZAXPI015146-56_1_clean.fq.gz	--pe1-2	/home/xandri/GenomeAnalysis_Paper1/data/raw_data/genomics_data/Illumina/E745-1.L500_SZAXPI015146-56_2_clean.fq.gz	-o	/home/xandri/GenomeAnalysis_Paper1/analysis/02_genome_assembly/spades/Illumina	
+
+System information:
+  SPAdes version: 3.15.5
+  Python version: 2.7.5
+  OS: Linux-3.10.0-1160.88.1.el7.x86_64-x86_64-with-centos-7.9.2009-Core
+
+Output dir: /home/xandri/GenomeAnalysis_Paper1/analysis/02_genome_assembly/spades/Illumina
+Mode: read error correction and assembling
+Debug mode is turned OFF
+
+Dataset parameters:
+  Standard mode
+  For multi-cell/isolate data we recommend to use '--isolate' option; for single-cell MDA data use '--sc'; for metagenomic data use '--meta'; for RNA-Seq use '--rna'.
+  Reads:
+    Library number: 1, library type: paired-end
+      orientation: fr
+      left reads: ['/home/xandri/GenomeAnalysis_Paper1/data/raw_data/genomics_data/Illumina/E745-1.L500_SZAXPI015146-56_1_clean.fq.gz']
+      right reads: ['/home/xandri/GenomeAnalysis_Paper1/data/raw_data/genomics_data/Illumina/E745-1.L500_SZAXPI015146-56_2_clean.fq.gz']
+      interlaced reads: not specified
+      single reads: not specified
+      merged reads: not specified
+Read error correction parameters:
+  Iterations: 1
+  PHRED offset will be auto-detected
+  Corrected reads will be compressed
+Assembly parameters:
+  k: automatic selection based on read length
+  Repeat resolution is enabled
+  Mismatch careful mode is turned OFF
+  MismatchCorrector will be SKIPPED
+  Coverage cutoff is turned OFF
+Other parameters:
+  Dir for temp files: /home/xandri/GenomeAnalysis_Paper1/analysis/02_genome_assembly/spades/Illumina/tmp
+  Threads: 2
+  Memory limit (in Gb): 125
+
+
+======= SPAdes pipeline started. Log can be found here: /home/xandri/GenomeAnalysis_Paper1/analysis/02_genome_assembly/spades/Illumina/spades.log
+
+/home/xandri/GenomeAnalysis_Paper1/data/raw_data/genomics_data/Illumina/E745-1.L500_SZAXPI015146-56_2_clean.fq.gz: max reads length: 90
+/home/xandri/GenomeAnalysis_Paper1/data/raw_data/genomics_data/Illumina/E745-1.L500_SZAXPI015146-56_1_clean.fq.gz: max reads length: 90
+
+Reads length: 90
+
+
+===== Before start started. 
+
+
+===== Read error correction started. 
+
+
+===== Read error correction started. 
+
+
+== Running: /sw/bioinfo/spades/3.15.5/rackham/bin/spades-hammer /home/xandri/GenomeAnalysis_Paper1/analysis/02_genome_assembly/spades/Illumina/corrected/configs/config.info
+
+  0:00:00.000     1M / 11M   INFO    General                 (main.cpp                  :  75)   Starting BayesHammer, built from refs/heads/spades_3.15.5, git revision e757b8216f9a038fb616e9551a2d4891b2d19ad7
+  0:00:00.003     1M / 11M   INFO    General                 (main.cpp                  :  76)   Loading config from /home/xandri/GenomeAnalysis_Paper1/analysis/02_genome_assembly/spades/Illumina/corrected/configs/config.info
+  0:00:00.008     1M / 11M   INFO    General                 (main.cpp                  :  78)   Maximum # of threads to use (adjusted due to OMP capabilities): 2
+  0:00:00.012     1M / 11M   INFO    General                 (memory_limit.cpp          :  54)   Memory limit set to 125 Gb
+  0:00:00.015     1M / 11M   INFO    General                 (main.cpp                  :  86)   Trying to determine PHRED offset
+  0:00:00.020     1M / 11M   INFO    General                 (main.cpp                  :  92)   Determined value is 64
+  0:00:00.024     1M / 11M   INFO    General                 (hammer_tools.cpp          :  38)   Hamming graph threshold tau=1, k=21, subkmer positions = [ 0 10 ]
+  0:00:00.028     1M / 11M   INFO    General                 (main.cpp                  : 113)   Size of aux. kmer data 24 bytes
+     === ITERATION 0 begins ===
+  0:00:00.033     1M / 11M   INFO    General                 (kmer_index_builder.hpp    : 243)   Splitting kmer instances into 16 files using 2 threads. This might take a while.
+  0:00:00.037     1M / 11M   INFO    General                 (file_limit.hpp            :  42)   Open file limit set to 16384
+  0:00:00.044     1M / 11M   INFO    General                 (kmer_splitter.hpp         :  93)   Memory available for splitting buffers: 20.8333 Gb
+  0:00:00.048     1M / 11M   INFO    General                 (kmer_splitter.hpp         : 101)   Using cell size of 4194304
+  0:00:00.052  1153M / 1153M INFO   K-mer Splitting          (kmer_data.cpp             :  97)   Processing /home/xandri/GenomeAnalysis_Paper1/data/raw_data/genomics_data/Illumina/E745-1.L500_SZAXPI015146-56_1_clean.fq.gz
+  0:00:10.801  1153M / 1153M INFO   K-mer Splitting          (kmer_data.cpp             : 107)   Processed 478771 reads
+  0:00:20.497  1153M / 1153M INFO   K-mer Splitting          (kmer_data.cpp             : 107)   Processed 959214 reads
+  0:00:30.768  1153M / 1153M INFO   K-mer Splitting          (kmer_data.cpp             : 107)   Processed 1439054 reads
+  0:00:35.642  1153M / 1153M INFO   K-mer Splitting          (kmer_data.cpp             : 107)   Processed 1666667 reads
+  0:00:35.644  1153M / 1153M INFO   K-mer Splitting          (kmer_data.cpp             :  97)   Processing /home/xandri/GenomeAnalysis_Paper1/data/raw_data/genomics_data/Illumina/E745-1.L500_SZAXPI015146-56_2_clean.fq.gz
+  0:00:45.630  1153M / 1153M INFO   K-mer Splitting          (kmer_data.cpp             : 107)   Processed 2160993 reads
+  0:00:55.715  1153M / 1153M INFO   K-mer Splitting          (kmer_data.cpp             : 107)   Processed 2657789 reads
+  0:01:05.673  1153M / 1153M INFO   K-mer Splitting          (kmer_data.cpp             : 107)   Processed 3153217 reads
+  0:01:09.533  1153M / 1153M INFO   K-mer Splitting          (kmer_data.cpp             : 112)   Total 3333334 reads processed
+  0:01:09.534     1M / 581M  INFO    General                 (kmer_index_builder.hpp    : 249)   Starting k-mer counting.
+  0:01:12.736     1M / 581M  INFO    General                 (kmer_index_builder.hpp    : 260)   K-mer counting done. There are 15663048 kmers in total.
+  0:01:12.741     1M / 581M  INFO   K-mer Index Building     (kmer_index_builder.hpp    : 395)   Building perfect hash indices
+  0:01:13.710    12M / 581M  INFO   K-mer Index Building     (kmer_index_builder.hpp    : 431)   Index built. Total 15663048 kmers, 11324832 bytes occupied (5.78423 bits per kmer).
+  0:01:13.711    12M / 581M  INFO   K-mer Counting           (kmer_data.cpp             : 354)   Arranging kmers in hash map order
+  0:01:14.767   253M / 581M  INFO    General                 (main.cpp                  : 148)   Clustering Hamming graph.
+  0:02:42.543   253M / 581M  INFO    General                 (main.cpp                  : 155)   Extracting clusters:
+  0:02:42.543   253M / 581M  INFO    General                 (concurrent_dsu.cpp        :  18)   Connecting to root
+  0:02:42.784   253M / 581M  INFO    General                 (concurrent_dsu.cpp        :  34)   Calculating counts
+  0:02:48.378   525M / 581M  INFO    General                 (concurrent_dsu.cpp        :  63)   Writing down entries
+  0:02:55.756   253M / 738M  INFO    General                 (main.cpp                  : 167)   Clustering done. Total clusters: 8070245
+  0:02:55.773   132M / 738M  INFO   K-mer Counting           (kmer_data.cpp             : 371)   Collecting K-mer information, this takes a while.
+  0:02:56.023   493M / 738M  INFO   K-mer Counting           (kmer_data.cpp             : 377)   Processing /home/xandri/GenomeAnalysis_Paper1/data/raw_data/genomics_data/Illumina/E745-1.L500_SZAXPI015146-56_1_clean.fq.gz
+  0:05:23.136   493M / 738M  INFO   K-mer Counting           (kmer_data.cpp             : 377)   Processing /home/xandri/GenomeAnalysis_Paper1/data/raw_data/genomics_data/Illumina/E745-1.L500_SZAXPI015146-56_2_clean.fq.gz
+  0:07:31.480   493M / 738M  INFO   K-mer Counting           (kmer_data.cpp             : 384)   Collection done, postprocessing.
+  0:07:31.548   493M / 738M  INFO   K-mer Counting           (kmer_data.cpp             : 397)   There are 15663048 kmers in total. Among them 9561596 (61.0456%) are singletons.
+  0:07:31.549   493M / 738M  INFO    General                 (main.cpp                  : 173)   Subclustering Hamming graph
+  0:07:43.839   493M / 738M  INFO   Hamming Subclustering    (kmer_cluster.cpp          : 650)   Subclustering done. Total 8 non-read kmers were generated.
+  0:07:43.840   493M / 738M  INFO   Hamming Subclustering    (kmer_cluster.cpp          : 651)   Subclustering statistics:
+  0:07:43.840   493M / 738M  INFO   Hamming Subclustering    (kmer_cluster.cpp          : 652)     Total singleton hamming clusters: 4191924. Among them 2101676 (50.1363%) are good
+  0:07:43.841   493M / 738M  INFO   Hamming Subclustering    (kmer_cluster.cpp          : 653)     Total singleton subclusters: 34550. Among them 34357 (99.4414%) are good
+  0:07:43.841   493M / 738M  INFO   Hamming Subclustering    (kmer_cluster.cpp          : 654)     Total non-singleton subcluster centers: 3936977. Among them 1758459 (44.6652%) are good
+  0:07:43.841   493M / 738M  INFO   Hamming Subclustering    (kmer_cluster.cpp          : 655)     Average size of non-trivial subcluster: 2.91369 kmers
+  0:07:43.841   493M / 738M  INFO   Hamming Subclustering    (kmer_cluster.cpp          : 656)     Average number of sub-clusters per non-singleton cluster: 1.02403
+  0:07:43.842   493M / 738M  INFO   Hamming Subclustering    (kmer_cluster.cpp          : 657)     Total solid k-mers: 3894492
+  0:07:43.842   493M / 738M  INFO   Hamming Subclustering    (kmer_cluster.cpp          : 658)     Substitution probabilities: [4,4]((0.961392,0.00999078,0.0093316,0.0192861),(0.0363303,0.934423,0.00552387,0.0237232),(0.0236659,0.00551682,0.934453,0.0363645),(0.0192319,0.00930048,0.00996688,0.961501))
+  0:07:43.856   493M / 738M  INFO    General                 (main.cpp                  : 178)   Finished clustering.
+  0:07:43.857   493M / 738M  INFO    General                 (main.cpp                  : 197)   Starting solid k-mers expansion in 2 threads.
+  0:10:06.305   493M / 738M  INFO    General                 (main.cpp                  : 218)   Solid k-mers iteration 0 produced 30635 new k-mers.
+  0:12:50.947   493M / 738M  INFO    General                 (main.cpp                  : 218)   Solid k-mers iteration 1 produced 479 new k-mers.
+  0:15:29.925   493M / 738M  INFO    General                 (main.cpp                  : 218)   Solid k-mers iteration 2 produced 0 new k-mers.
+  0:15:29.929   493M / 738M  INFO    General                 (main.cpp                  : 222)   Solid k-mers finalized
+  0:15:29.932   493M / 738M  INFO    General                 (hammer_tools.cpp          : 222)   Starting read correction in 2 threads.
+  0:15:29.935   493M / 738M  INFO    General                 (hammer_tools.cpp          : 235)   Correcting pair of reads: /home/xandri/GenomeAnalysis_Paper1/data/raw_data/genomics_data/Illumina/E745-1.L500_SZAXPI015146-56_1_clean.fq.gz and /home/xandri/GenomeAnalysis_Paper1/data/raw_data/genomics_data/Illumina/E745-1.L500_SZAXPI015146-56_2_clean.fq.gz
+  0:15:31.151   636M / 738M  INFO    General                 (hammer_tools.cpp          : 170)   Prepared batch 0 of 200000 reads.
+  0:15:39.769   649M / 738M  INFO    General                 (hammer_tools.cpp          : 177)   Processed batch 0
+  0:15:40.150   649M / 738M  INFO    General                 (hammer_tools.cpp          : 187)   Written batch 0
+  0:15:41.135   649M / 738M  INFO    General                 (hammer_tools.cpp          : 170)   Prepared batch 1 of 200000 reads.
+  0:15:47.908   649M / 738M  INFO    General                 (hammer_tools.cpp          : 177)   Processed batch 1
+  0:15:48.283   649M / 738M  INFO    General                 (hammer_tools.cpp          : 187)   Written batch 1
+  0:15:49.282   649M / 738M  INFO    General                 (hammer_tools.cpp          : 170)   Prepared batch 2 of 200000 reads.
+  0:15:55.125   649M / 738M  INFO    General                 (hammer_tools.cpp          : 177)   Processed batch 2
+  0:15:55.506   649M / 738M  INFO    General                 (hammer_tools.cpp          : 187)   Written batch 2
+  0:15:56.489   649M / 738M  INFO    General                 (hammer_tools.cpp          : 170)   Prepared batch 3 of 200000 reads.
+  0:16:02.294   649M / 738M  INFO    General                 (hammer_tools.cpp          : 177)   Processed batch 3
+  0:16:02.673   649M / 738M  INFO    General                 (hammer_tools.cpp          : 187)   Written batch 3
+  0:16:03.700   649M / 738M  INFO    General                 (hammer_tools.cpp          : 170)   Prepared batch 4 of 200000 reads.
+  0:16:09.557   649M / 738M  INFO    General                 (hammer_tools.cpp          : 177)   Processed batch 4
+  0:16:09.944   649M / 738M  INFO    General                 (hammer_tools.cpp          : 187)   Written batch 4
+  0:16:10.927   649M / 738M  INFO    General                 (hammer_tools.cpp          : 170)   Prepared batch 5 of 200000 reads.
+  0:16:17.247   649M / 738M  INFO    General                 (hammer_tools.cpp          : 177)   Processed batch 5
+  0:16:20.389   649M / 738M  INFO    General                 (hammer_tools.cpp          : 187)   Written batch 5
+  0:16:21.372   649M / 738M  INFO    General                 (hammer_tools.cpp          : 170)   Prepared batch 6 of 200000 reads.
+  0:16:27.814   649M / 738M  INFO    General                 (hammer_tools.cpp          : 177)   Processed batch 6
+  0:16:28.212   649M / 738M  INFO    General                 (hammer_tools.cpp          : 187)   Written batch 6
+  0:16:29.207   649M / 738M  INFO    General                 (hammer_tools.cpp          : 170)   Prepared batch 7 of 200000 reads.
