@@ -1,0 +1,10 @@
+[M::mm_idx_gen::0.107*1.02] collected minimizers
+[M::mm_idx_gen::0.138*1.12] sorted minimizers
+[M::main::0.138*1.12] loaded/built the index for 2 target sequence(s)
+[M::mm_mapopt_update::0.143*1.11] mid_occ = 200
+[M::mm_idx_stat] kmer size: 19; skip: 19; is_hpc: 0; #seq: 2
+[M::mm_idx_stat::0.147*1.11] distinct minimizers: 271956 (97.39% are singletons); average occurrences: 1.073; average spacing: 10.005
+[M::worker_pipeline::1.180*1.10] mapped 9 sequences
+[M::main] Version: 2.11-r797
+[M::main] CMD: /sw/bioinfo/quast/5.0.2/rackham/lib/python3.7/site-packages/quast_libs/minimap2/minimap2 -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 --min-occ 200 -g 2500 --score-N 2 --cs -t 4 /home/xandri/GenomeAnalysis_Paper1/analysis/03_assembly_evaluation/quast_canu_assembly_evaluation/quast_corrected_input/Enterococcus_faecium_reference_genome.fasta /home/xandri/GenomeAnalysis_Paper1/analysis/03_assembly_evaluation/quast_canu_assembly_evaluation/quast_corrected_input/pacbio_contigs.fasta
+[M::main] Real time: 1.188 sec; CPU: 1.308 sec

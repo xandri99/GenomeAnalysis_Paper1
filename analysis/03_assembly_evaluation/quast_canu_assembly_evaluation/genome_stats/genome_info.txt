@@ -1,0 +1,15 @@
+reference chromosomes:
+	NZ_CP038996.1 (total length: 2796178 bp, total length without N's: 2796178 bp, maximal covered length: 2476954 bp)
+	NZ_CP038997.1 (total length: 123020 bp, total length without N's: 123020 bp, maximal covered length: 10489 bp)
+
+total genome size: 2919198
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+pacbio_contigs           | 85.210    | 1.039       | 91        | -         | -         | -         | -         |
