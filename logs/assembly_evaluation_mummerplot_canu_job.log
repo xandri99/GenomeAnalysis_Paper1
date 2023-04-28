@@ -1,4 +1,30 @@
-
-  USAGE: mummerplot  [options]  <match file>
-    
-Try '/sw/bioinfo/MUMmer/4.0.0rc1/snowy/bin/mummerplot -h' for more information.
+# reading input file "/domus/h1/xandri/GenomeAnalysis_Paper1/data/Enterococcus_faecium_reference_genome.fasta" of length 2919199
+# construct suffix tree for sequence of length 2919199
+# (maximum reference length is 2305843009213693948)
+# (maximum query length is 18446744073709551615)
+# process 29191 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME mummer /domus/h1/xandri/GenomeAnalysis_Paper1/data/Enterococcus_faecium_reference_genome.fasta 1.03
+# reading input file "/domus/h1/xandri/GenomeAnalysis_Paper1/analysis/02_genome_assembly/canu/pacbio.contigs.fasta" of length 3135581
+# matching query-file "/domus/h1/xandri/GenomeAnalysis_Paper1/analysis/02_genome_assembly/canu/pacbio.contigs.fasta"
+# against subject-file "/domus/h1/xandri/GenomeAnalysis_Paper1/data/Enterococcus_faecium_reference_genome.fasta"
+# COMPLETETIME mummer /domus/h1/xandri/GenomeAnalysis_Paper1/data/Enterococcus_faecium_reference_genome.fasta 3.34
+# SPACE mummer /domus/h1/xandri/GenomeAnalysis_Paper1/data/Enterococcus_faecium_reference_genome.fasta 5.84
+defined(%hash) is deprecated at /sw/bioinfo/MUMmer/3.23/snowy/mummerplot line 884.
+	(Maybe you should just omit the defined()?)
+defined(%hash) is deprecated at /sw/bioinfo/MUMmer/3.23/snowy/mummerplot line 894.
+	(Maybe you should just omit the defined()?)
+defined(%hash) is deprecated at /sw/bioinfo/MUMmer/3.23/snowy/mummerplot line 981.
+	(Maybe you should just omit the defined()?)
+defined(%hash) is deprecated at /sw/bioinfo/MUMmer/3.23/snowy/mummerplot line 991.
+	(Maybe you should just omit the defined()?)
+defined(%hash) is deprecated at /sw/bioinfo/MUMmer/3.23/snowy/mummerplot line 1034.
+	(Maybe you should just omit the defined()?)
+defined(%hash) is deprecated at /sw/bioinfo/MUMmer/3.23/snowy/mummerplot line 1044.
+	(Maybe you should just omit the defined()?)
+gnuplot 4.6 patchlevel 2
+Reading mummer file /domus/h1/xandri/GenomeAnalysis_Paper1/analysis/03_assembly_evaluation/mummerplot_canu_assembly_evaluation/canu_assembly.mum (use mummer -c)
+Writing plot files /domus/h1/xandri/GenomeAnalysis_Paper1/analysis/03_assembly_evaluation/mummerplot_canu_assembly_evaluation/canu_assembly_mummerplot.fplot, /domus/h1/xandri/GenomeAnalysis_Paper1/analysis/03_assembly_evaluation/mummerplot_canu_assembly_evaluation/canu_assembly_mummerplot.rplot
+WARNING: Multiple ref sequences overlaid, try -R or -r
+Writing gnuplot script /domus/h1/xandri/GenomeAnalysis_Paper1/analysis/03_assembly_evaluation/mummerplot_canu_assembly_evaluation/canu_assembly_mummerplot.gp
+Rendering plot /domus/h1/xandri/GenomeAnalysis_Paper1/analysis/03_assembly_evaluation/mummerplot_canu_assembly_evaluation/canu_assembly_mummerplot.png

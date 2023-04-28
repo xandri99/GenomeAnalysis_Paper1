@@ -11,16 +11,15 @@
 
 
 # Variables
-INPUT_DATA="/home/xandri/GenomeAnalysis_Paper1/analysis/02_genome_assembly/canu/pacbio.contigs.fasta"
-OUTPUT_DIR="/home/xandri/GenomeAnalysis_Paper1/analysis/03_assembly_evaluation/mummerplot_canu_assembly_evaluation"
+INPUT_DATA="/domus/h1/xandri/GenomeAnalysis_Paper1/analysis/02_genome_assembly/canu/pacbio.contigs.fasta"
+OUTPUT_DIR="/domus/h1/xandri/GenomeAnalysis_Paper1/analysis/03_assembly_evaluation/mummerplot_canu_assembly_evaluation"
 REFERENCE_GENOME="/domus/h1/xandri/GenomeAnalysis_Paper1/data/Enterococcus_faecium_reference_genome.fasta"
 
 # Load modules
 module load bioinfo-tools
-module load MUMmer
+module load MUMmer/3.23
 
 
 # Your commands
-mummer -mum -b -c ${REFERENCE_GENOME} ${INPUT_DATA} > ${OUTPUT_DIR}/canu_assembly_evaluation.mum
-mummerplot -R -Q ${INPUT_DATA} -t png -p ${OUTPUT_DIR}/canu_assembly_evaluation_mummerplot  ${OUTPUT_DIR}/canu_assembly_assembly.mum
-
+mummer -mum -b ${REFERENCE_GENOME} ${INPUT_DATA} > ${OUTPUT_DIR}/canu_assembly.mum
+mummerplot -Q ${INPUT_DATA} -t png -p ${OUTPUT_DIR}/canu_assembly_mummerplot  ${OUTPUT_DIR}/canu_assembly.mum
