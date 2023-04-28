@@ -1,0 +1,3208 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+EFEADKAH_00001	CDS	303				hypothetical protein
+EFEADKAH_00002	tmRNA	366	ssrA			transfer-messenger RNA, SsrA
+EFEADKAH_00003	CDS	774		3.1.3.-		Putative phosphatase
+EFEADKAH_00004	CDS	351				hypothetical protein
+EFEADKAH_00005	CDS	717	srrA_1		COG0745	Transcriptional regulatory protein SrrA
+EFEADKAH_00006	CDS	891				hypothetical protein
+EFEADKAH_00007	CDS	558	phoR_1	2.7.13.3	COG0642	Alkaline phosphatase synthesis sensor protein PhoR
+EFEADKAH_00008	CDS	510				hypothetical protein
+EFEADKAH_00009	CDS	726				hypothetical protein
+EFEADKAH_00010	CDS	2121	ltaS1_1		COG1368	Lipoteichoic acid synthase 1
+EFEADKAH_00011	CDS	1179	rlmI	2.1.1.191	COG1092	Ribosomal RNA large subunit methyltransferase I
+EFEADKAH_00012	CDS	759	aroD	4.2.1.10	COG0710	3-dehydroquinate dehydratase
+EFEADKAH_00013	CDS	486	ybaK_1	4.2.-.-	COG2606	Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK
+EFEADKAH_00014	CDS	1254	baiN	1.3.1.114	COG2081	3-dehydro-bile acid delta(4,6)-reductase
+EFEADKAH_00015	CDS	1350	gdh	1.4.1.4	COG0334	NADP-specific glutamate dehydrogenase
+EFEADKAH_00016	CDS	1347	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+EFEADKAH_00017	CDS	1296				ISL3 family transposase ISEfa11
+EFEADKAH_00018	CDS	387				hypothetical protein
+EFEADKAH_00019	CDS	1446				IS1182 family transposase ISEfa7
+EFEADKAH_00020	CDS	783				IS982 family transposase ISEfm1
+EFEADKAH_00021	CDS	960			COG2826	IS30 family transposase IS1062
+EFEADKAH_00022	CDS	150				hypothetical protein
+EFEADKAH_00023	CDS	213				hypothetical protein
+EFEADKAH_00024	CDS	111				hypothetical protein
+EFEADKAH_00025	CDS	1800				hypothetical protein
+EFEADKAH_00026	CDS	597				hypothetical protein
+EFEADKAH_00027	CDS	954			COG2826	IS30 family transposase IS1252
+EFEADKAH_00028	CDS	345				hypothetical protein
+EFEADKAH_00029	CDS	420				hypothetical protein
+EFEADKAH_00030	CDS	351				hypothetical protein
+EFEADKAH_00031	CDS	1332				hypothetical protein
+EFEADKAH_00032	CDS	567				hypothetical protein
+EFEADKAH_00033	tRNA	88				tRNA-Ser(cga)
+EFEADKAH_00034	CDS	1206	xerC_1			Tyrosine recombinase XerC
+EFEADKAH_00035	CDS	441				hypothetical protein
+EFEADKAH_00036	CDS	654				hypothetical protein
+EFEADKAH_00037	CDS	423				hypothetical protein
+EFEADKAH_00038	CDS	375				hypothetical protein
+EFEADKAH_00039	CDS	183				hypothetical protein
+EFEADKAH_00040	CDS	321				hypothetical protein
+EFEADKAH_00041	CDS	171				hypothetical protein
+EFEADKAH_00042	CDS	153				hypothetical protein
+EFEADKAH_00043	CDS	483				hypothetical protein
+EFEADKAH_00044	CDS	699				hypothetical protein
+EFEADKAH_00045	CDS	342				hypothetical protein
+EFEADKAH_00046	CDS	672				hypothetical protein
+EFEADKAH_00047	CDS	687				hypothetical protein
+EFEADKAH_00048	CDS	750				hypothetical protein
+EFEADKAH_00049	CDS	270				hypothetical protein
+EFEADKAH_00050	CDS	165				hypothetical protein
+EFEADKAH_00051	CDS	306				hypothetical protein
+EFEADKAH_00052	CDS	291				hypothetical protein
+EFEADKAH_00053	CDS	357				hypothetical protein
+EFEADKAH_00054	CDS	246				hypothetical protein
+EFEADKAH_00055	CDS	420				hypothetical protein
+EFEADKAH_00056	CDS	567				hypothetical protein
+EFEADKAH_00057	CDS	135				hypothetical protein
+EFEADKAH_00058	CDS	690				hypothetical protein
+EFEADKAH_00059	CDS	477				hypothetical protein
+EFEADKAH_00060	CDS	297	yjcQ			putative protein YjcQ
+EFEADKAH_00061	CDS	387				hypothetical protein
+EFEADKAH_00062	CDS	387				hypothetical protein
+EFEADKAH_00063	CDS	381				hypothetical protein
+EFEADKAH_00064	CDS	453				hypothetical protein
+EFEADKAH_00065	CDS	1728				hypothetical protein
+EFEADKAH_00066	CDS	1131				hypothetical protein
+EFEADKAH_00067	CDS	570				hypothetical protein
+EFEADKAH_00068	CDS	1362				hypothetical protein
+EFEADKAH_00069	CDS	279				hypothetical protein
+EFEADKAH_00070	CDS	327				hypothetical protein
+EFEADKAH_00071	CDS	339				hypothetical protein
+EFEADKAH_00072	CDS	366				hypothetical protein
+EFEADKAH_00073	CDS	627				hypothetical protein
+EFEADKAH_00074	CDS	465				hypothetical protein
+EFEADKAH_00075	CDS	2310				hypothetical protein
+EFEADKAH_00076	CDS	720				hypothetical protein
+EFEADKAH_00077	CDS	2706				hypothetical protein
+EFEADKAH_00078	CDS	1719				hypothetical protein
+EFEADKAH_00079	CDS	783				hypothetical protein
+EFEADKAH_00080	CDS	2067				hypothetical protein
+EFEADKAH_00081	CDS	447				hypothetical protein
+EFEADKAH_00082	CDS	138				hypothetical protein
+EFEADKAH_00083	CDS	294				hypothetical protein
+EFEADKAH_00084	CDS	198				hypothetical protein
+EFEADKAH_00085	CDS	1020				hypothetical protein
+EFEADKAH_00086	CDS	807				IS3 family transposase ISEnfa3
+EFEADKAH_00087	CDS	537				hypothetical protein
+EFEADKAH_00088	CDS	582	cbh_1	3.5.1.24		Choloylglycine hydrolase
+EFEADKAH_00089	CDS	1179				IS256 family transposase ISEf1
+EFEADKAH_00090	CDS	351	cbh_2	3.5.1.24		Choloylglycine hydrolase
+EFEADKAH_00091	CDS	1446				IS1182 family transposase ISEfa7
+EFEADKAH_00092	CDS	1896	asnB	6.3.5.4	COG0367	Asparagine synthetase [glutamine-hydrolyzing] 1
+EFEADKAH_00093	CDS	447				hypothetical protein
+EFEADKAH_00094	CDS	150	rpmGA_1			50S ribosomal protein L33 1
+EFEADKAH_00095	CDS	519	folA_1	1.5.1.3		Dihydrofolate reductase
+EFEADKAH_00096	CDS	957	yfiY		COG0614	putative siderophore-binding lipoprotein YfiY
+EFEADKAH_00097	CDS	807	fepC		COG1120	Ferric enterobactin transport ATP-binding protein FepC
+EFEADKAH_00098	CDS	990	feuB		COG0609	Iron-uptake system permease protein FeuB
+EFEADKAH_00099	CDS	1005	feuC		COG0609	Iron-uptake system permease protein FeuC
+EFEADKAH_00100	CDS	543	yqgN		COG0212	putative protein YqgN
+EFEADKAH_00101	CDS	699	gluP	3.4.21.105	COG0705	Rhomboid protease GluP
+EFEADKAH_00102	CDS	213	yqgQ		COG4483	putative protein YqgQ
+EFEADKAH_00103	CDS	963	glcK	2.7.1.2	COG1940	Glucokinase
+EFEADKAH_00104	CDS	396	yibN		COG0607	putative protein YibN
+EFEADKAH_00105	CDS	366				hypothetical protein
+EFEADKAH_00106	CDS	1812				hypothetical protein
+EFEADKAH_00107	CDS	168				hypothetical protein
+EFEADKAH_00108	CDS	990	galE	5.1.3.2	COG1087	UDP-glucose 4-epimerase
+EFEADKAH_00109	CDS	1485	galT	2.7.7.12		Galactose-1-phosphate uridylyltransferase
+EFEADKAH_00110	CDS	981	melR_1		COG1609	HTH-type transcriptional repressor MelR
+EFEADKAH_00111	CDS	825	tsaB		COG1214	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+EFEADKAH_00112	CDS	543				hypothetical protein
+EFEADKAH_00113	CDS	465	rimI	2.3.1.266	COG0456	[Ribosomal protein S18]-alanine N-acetyltransferase
+EFEADKAH_00114	CDS	1017	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+EFEADKAH_00115	CDS	702				hypothetical protein
+EFEADKAH_00116	CDS	1230	arcA	3.5.3.6		Arginine deiminase
+EFEADKAH_00117	CDS	1020	arcB	2.1.3.3		Ornithine carbamoyltransferase, catabolic
+EFEADKAH_00118	CDS	948	arcC1	2.7.2.2		Carbamate kinase 1
+EFEADKAH_00119	CDS	1692	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+EFEADKAH_00120	CDS	546	phnX_1	3.11.1.1		Phosphonoacetaldehyde hydrolase
+EFEADKAH_00121	CDS	129	phnX_2	3.11.1.1		Phosphonoacetaldehyde hydrolase
+EFEADKAH_00122	CDS	1092	phnW	2.6.1.37	COG0075	2-aminoethylphosphonate--pyruvate transaminase
+EFEADKAH_00123	CDS	480	argR_1			Arginine repressor
+EFEADKAH_00124	CDS	783	rpsB		COG0052	30S ribosomal protein S2
+EFEADKAH_00125	CDS	882	tsf		COG0264	Elongation factor Ts
+EFEADKAH_00126	CDS	723	pyrH	2.7.4.22	COG0528	Uridylate kinase
+EFEADKAH_00127	CDS	558	frr			Ribosome-recycling factor
+EFEADKAH_00128	CDS	813	uppS	2.5.1.31	COG0020	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+EFEADKAH_00129	CDS	801				hypothetical protein
+EFEADKAH_00130	CDS	1269	rasP	3.4.24.-	COG0750	Regulator of sigma-W protease RasP
+EFEADKAH_00131	CDS	1710	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+EFEADKAH_00132	CDS	4359	polC_1	2.7.7.7	COG2176	DNA polymerase III PolC-type
+EFEADKAH_00133	CDS	474	rimP		COG0779	Ribosome maturation factor RimP
+EFEADKAH_00134	CDS	1176	nusA		COG0195	Transcription termination/antitermination protein NusA
+EFEADKAH_00135	CDS	294				hypothetical protein
+EFEADKAH_00136	CDS	312	rplGA		COG1358	putative ribosomal protein YlxQ
+EFEADKAH_00137	CDS	2307	infB			Translation initiation factor IF-2
+EFEADKAH_00138	CDS	348	rbfA			Ribosome-binding factor A
+EFEADKAH_00139	CDS	468		4.1.2.-		phosphoketolase
+EFEADKAH_00140	CDS	990	xpkA_1	4.1.2.9		Xylulose-5-phosphate phosphoketolase
+EFEADKAH_00141	CDS	885	xpkA_2	4.1.2.9		Xylulose-5-phosphate phosphoketolase
+EFEADKAH_00142	CDS	924	truB	5.4.99.25	COG0130	tRNA pseudouridine synthase B
+EFEADKAH_00143	CDS	942	ribF		COG0196	Bifunctional riboflavin kinase/FMN adenylyltransferase
+EFEADKAH_00144	CDS	786	gdhIV	1.1.1.47	COG1028	Glucose 1-dehydrogenase 4
+EFEADKAH_00145	CDS	852	glcU_1		COG4975	Glucose uptake protein GlcU
+EFEADKAH_00146	CDS	453				hypothetical protein
+EFEADKAH_00147	CDS	369	fra		COG5646	Intracellular iron chaperone frataxin
+EFEADKAH_00148	CDS	483				hypothetical protein
+EFEADKAH_00149	CDS	1011	mccF			Microcin C7 self-immunity protein MccF
+EFEADKAH_00150	CDS	714				hypothetical protein
+EFEADKAH_00151	CDS	591	ydeA	3.2.-.-	COG0693	putative protease YdeA
+EFEADKAH_00152	CDS	228				hypothetical protein
+EFEADKAH_00153	CDS	1167	hemW		COG0635	Heme chaperone HemW
+EFEADKAH_00154	CDS	1044	hrcA		COG1420	Heat-inducible transcription repressor HrcA
+EFEADKAH_00155	CDS	564	grpE			Protein GrpE
+EFEADKAH_00156	CDS	1830	dnaK		COG0443	Chaperone protein DnaK
+EFEADKAH_00157	CDS	1167	dnaJ		COG0484	Chaperone protein DnaJ
+EFEADKAH_00158	CDS	630				hypothetical protein
+EFEADKAH_00159	CDS	738	artM_1		COG1126	Arginine transport ATP-binding protein ArtM
+EFEADKAH_00160	CDS	1503	mltF_1	4.2.2.-		Membrane-bound lytic murein transglycosylase F
+EFEADKAH_00161	CDS	1995	uvrB		COG0556	UvrABC system protein B
+EFEADKAH_00162	CDS	2817	uvrA			UvrABC system protein A
+EFEADKAH_00163	CDS	1266		6.3.1.12		D-aspartate ligase
+EFEADKAH_00164	CDS	732		5.1.1.13		Aspartate racemase
+EFEADKAH_00165	CDS	885	yvcJ		COG1660	Nucleotide-binding protein YvcJ
+EFEADKAH_00166	CDS	999			COG0391	Putative gluconeogenesis factor
+EFEADKAH_00167	CDS	936	whiA		COG1481	putative cell division protein WhiA
+EFEADKAH_00168	CDS	201				hypothetical protein
+EFEADKAH_00169	CDS	627				hypothetical protein
+EFEADKAH_00170	CDS	417				hypothetical protein
+EFEADKAH_00171	CDS	954			COG2826	IS30 family transposase IS1252
+EFEADKAH_00172	CDS	252				hypothetical protein
+EFEADKAH_00173	CDS	258				hypothetical protein
+EFEADKAH_00174	CDS	588				hypothetical protein
+EFEADKAH_00175	CDS	558				hypothetical protein
+EFEADKAH_00176	CDS	522				hypothetical protein
+EFEADKAH_00177	CDS	3693		1.2.7.1	COG0674	Pyruvate:ferredoxin oxidoreductase
+EFEADKAH_00178	CDS	888	cdaA	2.7.7.85	COG1624	Cyclic di-AMP synthase CdaA
+EFEADKAH_00179	CDS	1170				hypothetical protein
+EFEADKAH_00180	CDS	1356	glmM	5.4.2.10	COG1109	Phosphoglucosamine mutase
+EFEADKAH_00181	CDS	1806	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+EFEADKAH_00182	CDS	291				hypothetical protein
+EFEADKAH_00183	CDS	1026	sppA	3.4.21.-	COG0616	Putative signal peptide peptidase SppA
+EFEADKAH_00184	CDS	660				hypothetical protein
+EFEADKAH_00185	CDS	918				hypothetical protein
+EFEADKAH_00186	CDS	1290	tig	5.2.1.8	COG0544	Trigger factor
+EFEADKAH_00187	CDS	1251	clpX		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+EFEADKAH_00188	CDS	588	engB		COG0218	putative GTP-binding protein EngB
+EFEADKAH_00189	CDS	156				hypothetical protein
+EFEADKAH_00190	CDS	1329				hypothetical protein
+EFEADKAH_00191	CDS	210				hypothetical protein
+EFEADKAH_00192	CDS	753	glcR		COG1349	HTH-type transcriptional repressor GlcR
+EFEADKAH_00193	CDS	915	lacC_1	2.7.1.144	COG1105	Tagatose-6-phosphate kinase
+EFEADKAH_00194	CDS	1932	fruA_1		COG1299	PTS system fructose-specific EIIABC component
+EFEADKAH_00195	CDS	1560	clcA		COG0038	H(+)/Cl(-) exchange transporter ClcA
+EFEADKAH_00196	CDS	2235	pcrA	3.6.4.12	COG0210	ATP-dependent DNA helicase PcrA
+EFEADKAH_00197	CDS	2037	ligA_1	6.5.1.2	COG0272	DNA ligase
+EFEADKAH_00198	CDS	306	gatC_1	6.3.5.-		Glutamyl-tRNA(Gln) amidotransferase subunit C
+EFEADKAH_00199	CDS	1473	gatA_1	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+EFEADKAH_00200	CDS	1431	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+EFEADKAH_00201	CDS	1056	dagK_1	2.7.1.107	COG1597	Diacylglycerol kinase
+EFEADKAH_00202	CDS	1374		2.1.1.-	COG2265	putative RNA methyltransferase
+EFEADKAH_00203	CDS	129				hypothetical protein
+EFEADKAH_00204	CDS	1014	aes_1	3.1.1.-		Acetyl esterase
+EFEADKAH_00205	CDS	1035	melR_2		COG1609	HTH-type transcriptional repressor MelR
+EFEADKAH_00206	CDS	2226	melA	3.2.1.22	COG3345	Alpha-galactosidase Mel36A
+EFEADKAH_00207	CDS	1884	lacL	3.2.1.23	COG3250	Beta-galactosidase large subunit
+EFEADKAH_00208	CDS	975	lacM	3.2.1.23	COG3250	Beta-galactosidase small subunit
+EFEADKAH_00209	CDS	1023	aroF	2.5.1.54	COG2876	Phospho-2-dehydro-3-deoxyheptonate aldolase
+EFEADKAH_00210	CDS	1065	aroB	4.2.3.4	COG0337	3-dehydroquinate synthase
+EFEADKAH_00211	CDS	1167	aroC	4.2.3.5	COG0082	Chorismate synthase
+EFEADKAH_00212	CDS	1092				hypothetical protein
+EFEADKAH_00213	CDS	1296	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+EFEADKAH_00214	CDS	510	aroK	2.7.1.71	COG0703	Shikimate kinase
+EFEADKAH_00215	CDS	837	pheA			Bifunctional chorismate mutase/prephenate dehydratase
+EFEADKAH_00216	CDS	1737				hypothetical protein
+EFEADKAH_00217	CDS	876	rhaR_1			HTH-type transcriptional activator RhaR
+EFEADKAH_00218	CDS	579	cheB	3.5.1.44		Protein-glutamate methylesterase/protein-glutamine glutaminase
+EFEADKAH_00219	CDS	1287	lacE_1			Lactose-binding protein
+EFEADKAH_00220	CDS	870	lacF_1			Lactose transport system permease protein LacF
+EFEADKAH_00221	CDS	870	lacG_1			Lactose transport system permease protein LacG
+EFEADKAH_00222	CDS	672	umpB_1			Na(+), Li(+), K(+)/H(+) antiporter subunit B
+EFEADKAH_00223	CDS	756	umpB_2			Na(+), Li(+), K(+)/H(+) antiporter subunit B
+EFEADKAH_00224	CDS	399				hypothetical protein
+EFEADKAH_00225	CDS	672				hypothetical protein
+EFEADKAH_00226	CDS	441				hypothetical protein
+EFEADKAH_00227	CDS	669	gpmA_1	5.4.2.11		2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+EFEADKAH_00228	CDS	624	gph_1	3.1.3.18	COG0546	Phosphoglycolate phosphatase
+EFEADKAH_00229	CDS	387				hypothetical protein
+EFEADKAH_00230	CDS	1392	tcyP		COG1823	L-cystine uptake protein TcyP
+EFEADKAH_00231	CDS	369				hypothetical protein
+EFEADKAH_00232	CDS	132				hypothetical protein
+EFEADKAH_00233	CDS	942				hypothetical protein
+EFEADKAH_00234	CDS	732	pphA	3.1.3.16	COG0639	Serine/threonine-protein phosphatase 1
+EFEADKAH_00235	CDS	2181	yhgF		COG2183	Protein YhgF
+EFEADKAH_00236	CDS	483				Protein SprT-like protein
+EFEADKAH_00237	CDS	762	ydcF		COG1434	Protein YdcF
+EFEADKAH_00238	CDS	1335	murC	6.3.2.8		UDP-N-acetylmuramate--L-alanine ligase
+EFEADKAH_00239	CDS	486				hypothetical protein
+EFEADKAH_00240	CDS	684	ybhL		COG0670	Inner membrane protein YbhL
+EFEADKAH_00241	CDS	2646	polA	2.7.7.7		DNA polymerase I
+EFEADKAH_00242	CDS	837	mutM	3.2.2.23	COG0266	Formamidopyrimidine-DNA glycosylase
+EFEADKAH_00243	CDS	630	coaE	2.7.1.24		Dephospho-CoA kinase
+EFEADKAH_00244	CDS	333				hypothetical protein
+EFEADKAH_00245	CDS	492	nrdR		COG1327	Transcriptional repressor NrdR
+EFEADKAH_00246	CDS	1374	dnaB		COG3611	Replication initiation and membrane attachment protein
+EFEADKAH_00247	CDS	222	dnaI_1		COG1484	Primosomal protein DnaI
+EFEADKAH_00248	CDS	708	dnaI_2		COG1484	Primosomal protein DnaI
+EFEADKAH_00249	CDS	441				hypothetical protein
+EFEADKAH_00250	CDS	1296				ISL3 family transposase ISEfa5
+EFEADKAH_00251	CDS	702	trmK	2.1.1.217	COG2384	tRNA (adenine(22)-N(1))-methyltransferase
+EFEADKAH_00252	CDS	273			COG0327	GTP cyclohydrolase 1 type 2 
+EFEADKAH_00253	CDS	867			COG0327	GTP cyclohydrolase 1 type 2 
+EFEADKAH_00254	CDS	1233	pepT	3.4.11.4		Peptidase T
+EFEADKAH_00255	CDS	909	dagK_2	2.7.1.107	COG1597	Diacylglycerol kinase
+EFEADKAH_00256	CDS	273				hypothetical protein
+EFEADKAH_00257	CDS	1047				hypothetical protein
+EFEADKAH_00258	CDS	2610	clpB		COG0542	Chaperone protein ClpB
+EFEADKAH_00259	CDS	672				hypothetical protein
+EFEADKAH_00260	CDS	495				hypothetical protein
+EFEADKAH_00261	CDS	1221	eis_1	2.3.1.-		N-acetyltransferase Eis
+EFEADKAH_00262	CDS	1836	lepA	3.6.5.-		Elongation factor 4
+EFEADKAH_00263	CDS	1128	xerC_2			Tyrosine recombinase XerC
+EFEADKAH_00264	CDS	954			COG2826	IS30 family transposase IS1252
+EFEADKAH_00265	CDS	1179				IS256 family transposase ISEf1
+EFEADKAH_00266	CDS	414				hypothetical protein
+EFEADKAH_00267	CDS	486				hypothetical protein
+EFEADKAH_00268	CDS	216				hypothetical protein
+EFEADKAH_00269	CDS	801	fabG_1	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+EFEADKAH_00270	CDS	1869	licR_1		COG1762	putative licABCH operon regulator
+EFEADKAH_00271	CDS	492				hypothetical protein
+EFEADKAH_00272	CDS	555	srlA		COG3730	PTS system glucitol/sorbitol-specific EIIC component
+EFEADKAH_00273	CDS	996	srlE	2.7.1.198	COG3732	PTS system glucitol/sorbitol-specific EIIB component
+EFEADKAH_00274	CDS	1251				IS110 family transposase ISSpn10
+EFEADKAH_00275	CDS	399	srlB		COG3731	PTS system glucitol/sorbitol-specific EIIA component
+EFEADKAH_00276	CDS	711	fsaA	4.1.2.-	COG0176	Fructose-6-phosphate aldolase 1
+EFEADKAH_00277	CDS	888	prsA_1	5.2.1.8		Foldase protein PrsA
+EFEADKAH_00278	CDS	840				hypothetical protein
+EFEADKAH_00279	CDS	975				hypothetical protein
+EFEADKAH_00280	CDS	357				hypothetical protein
+EFEADKAH_00281	CDS	1158				hypothetical protein
+EFEADKAH_00282	CDS	441	spxA_1		COG1393	Regulatory protein Spx
+EFEADKAH_00283	CDS	507	sttH	3.5.2.19		Streptothricin hydrolase
+EFEADKAH_00284	CDS	1905				hypothetical protein
+EFEADKAH_00285	CDS	1002	aes_2	3.1.1.-		Acetyl esterase
+EFEADKAH_00286	CDS	207				hypothetical protein
+EFEADKAH_00287	CDS	849	murR_1		COG1737	HTH-type transcriptional regulator MurR
+EFEADKAH_00288	CDS	903		1.1.1.343	COG1023	6-phosphogluconate dehydrogenase, NAD(+)-dependent, decarboxylating
+EFEADKAH_00289	CDS	1002	fldH	1.1.1.-		Phenyllactate dehydrogenase
+EFEADKAH_00290	CDS	273				hypothetical protein
+EFEADKAH_00291	CDS	798	hcxA	1.1.1.-	COG0371	Hydroxycarboxylate dehydrogenase A
+EFEADKAH_00292	CDS	834				hypothetical protein
+EFEADKAH_00293	CDS	858	manZ_1		COG3716	PTS system mannose-specific EIID component
+EFEADKAH_00294	CDS	510	sorB_1	2.7.1.206	COG3444	PTS system sorbose-specific EIIB component
+EFEADKAH_00295	CDS	402				hypothetical protein
+EFEADKAH_00296	CDS	423				hypothetical protein
+EFEADKAH_00297	CDS	444	manX_1	2.7.1.191		PTS system mannose-specific EIIAB component
+EFEADKAH_00298	CDS	1086	uxuA_1	4.2.1.8	COG1312	Mannonate dehydratase
+EFEADKAH_00299	CDS	714	ppaX	3.6.1.1		Pyrophosphatase PpaX
+EFEADKAH_00300	CDS	150				hypothetical protein
+EFEADKAH_00301	CDS	201	cspL		COG1278	Cold shock protein 2
+EFEADKAH_00302	CDS	99				hypothetical protein
+EFEADKAH_00303	CDS	366				hypothetical protein
+EFEADKAH_00304	CDS	246				hypothetical protein
+EFEADKAH_00305	CDS	255				hypothetical protein
+EFEADKAH_00306	CDS	306				hypothetical protein
+EFEADKAH_00307	tRNA	76				tRNA-Met(cat)
+EFEADKAH_00308	CDS	498				hypothetical protein
+EFEADKAH_00309	CDS	810	yidA_1	3.1.3.23	COG0561	Sugar phosphatase YidA
+EFEADKAH_00310	CDS	858	gspA_1		COG1442	General stress protein A
+EFEADKAH_00311	CDS	903	gspA_2		COG1442	General stress protein A
+EFEADKAH_00312	CDS	351				hypothetical protein
+EFEADKAH_00313	CDS	939				hypothetical protein
+EFEADKAH_00314	CDS	894	yghA	1.-.-.-		putative oxidoreductase YghA
+EFEADKAH_00315	CDS	564				hypothetical protein
+EFEADKAH_00316	CDS	807				hypothetical protein
+EFEADKAH_00317	CDS	243				hypothetical protein
+EFEADKAH_00318	CDS	372				hypothetical protein
+EFEADKAH_00319	CDS	228				hypothetical protein
+EFEADKAH_00320	CDS	474				hypothetical protein
+EFEADKAH_00321	CDS	174				hypothetical protein
+EFEADKAH_00322	CDS	567				hypothetical protein
+EFEADKAH_00323	CDS	189				hypothetical protein
+EFEADKAH_00324	CDS	558				Stress response regulator gls24 
+EFEADKAH_00325	CDS	243				hypothetical protein
+EFEADKAH_00326	CDS	1296				ISL3 family transposase ISEfa11
+EFEADKAH_00327	CDS	1215	amt			Ammonia channel
+EFEADKAH_00328	CDS	1428	gadC_1		COG0531	Glutamate/gamma-aminobutyrate antiporter
+EFEADKAH_00329	CDS	927	glsA	3.5.1.2	COG2066	Glutaminase
+EFEADKAH_00330	CDS	1461				hypothetical protein
+EFEADKAH_00331	CDS	1764	dxs	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+EFEADKAH_00332	CDS	357				hypothetical protein
+EFEADKAH_00333	CDS	684	nanE_1	5.1.3.9		Putative N-acetylmannosamine-6-phosphate 2-epimerase
+EFEADKAH_00334	CDS	615				hypothetical protein
+EFEADKAH_00335	CDS	207				hypothetical protein
+EFEADKAH_00336	CDS	1164	ftsW_1	2.4.1.129	COG0772	putative peptidoglycan glycosyltransferase FtsW
+EFEADKAH_00337	CDS	756	msrR			Regulatory protein MsrR
+EFEADKAH_00338	CDS	366				hypothetical protein
+EFEADKAH_00339	CDS	1677	pbp		COG0768	Beta-lactam-inducible penicillin-binding protein
+EFEADKAH_00340	CDS	609	napA_1			Na(+)/H(+) antiporter
+EFEADKAH_00341	CDS	546	napA_2			Na(+)/H(+) antiporter
+EFEADKAH_00342	CDS	531				hypothetical protein
+EFEADKAH_00343	CDS	351				hypothetical protein
+EFEADKAH_00344	CDS	1530	ahpF	1.6.99.3		NADH dehydrogenase
+EFEADKAH_00345	CDS	564	ahpC	1.11.1.15	COG0450	Alkyl hydroperoxide reductase C
+EFEADKAH_00346	CDS	663	rspR_1		COG1802	HTH-type transcriptional repressor RspR
+EFEADKAH_00347	CDS	1986	uxuA_2	4.2.1.8		Mannonate dehydratase
+EFEADKAH_00348	CDS	774	uxuA_3	4.2.1.8	COG1312	Mannonate dehydratase
+EFEADKAH_00349	CDS	1554				hypothetical protein
+EFEADKAH_00350	CDS	588				hypothetical protein
+EFEADKAH_00351	CDS	591				hypothetical protein
+EFEADKAH_00352	CDS	1038				hypothetical protein
+EFEADKAH_00353	CDS	441	ohrR			Organic hydroperoxide resistance transcriptional regulator
+EFEADKAH_00354	CDS	411	ohrA		COG1764	Organic hydroperoxide resistance protein OhrA
+EFEADKAH_00355	CDS	435				hypothetical protein
+EFEADKAH_00356	CDS	771				hypothetical protein
+EFEADKAH_00357	CDS	1767	bbmA	3.2.1.-	COG0366	Intracellular maltogenic amylase
+EFEADKAH_00358	CDS	1260	mdxE		COG2182	Maltodextrin-binding protein MdxE
+EFEADKAH_00359	CDS	1302				hypothetical protein
+EFEADKAH_00360	CDS	852	malG		COG3833	Maltose/maltodextrin transport system permease protein MalG
+EFEADKAH_00361	CDS	816				hypothetical protein
+EFEADKAH_00362	CDS	1167	cfa	2.1.1.79	COG2230	Cyclopropane-fatty-acyl-phospholipid synthase
+EFEADKAH_00363	CDS	648				hypothetical protein
+EFEADKAH_00364	CDS	945	pyrDA	1.3.98.1	COG0167	Dihydroorotate dehydrogenase A (fumarate)
+EFEADKAH_00365	CDS	1452	nylA	3.5.2.12		6-aminohexanoate-cyclic-dimer hydrolase
+EFEADKAH_00366	CDS	837	yckB		COG0834	putative ABC transporter extracellular-binding protein YckB
+EFEADKAH_00367	CDS	660	yecS_1		COG0765	L-cystine transport system permease protein YecS
+EFEADKAH_00368	CDS	690				hypothetical protein
+EFEADKAH_00369	CDS	957				hypothetical protein
+EFEADKAH_00370	CDS	513				hypothetical protein
+EFEADKAH_00371	CDS	549	gmk_1	2.7.4.8	COG0194	Guanylate kinase
+EFEADKAH_00372	CDS	1182	nupC		COG1972	Nucleoside permease NupC
+EFEADKAH_00373	CDS	1509				hypothetical protein
+EFEADKAH_00374	CDS	192				hypothetical protein
+EFEADKAH_00375	CDS	918				hypothetical protein
+EFEADKAH_00376	CDS	1074				hypothetical protein
+EFEADKAH_00377	CDS	519				hypothetical protein
+EFEADKAH_00378	CDS	393				hypothetical protein
+EFEADKAH_00379	CDS	936				hypothetical protein
+EFEADKAH_00380	CDS	780	ygaZ_1		COG1296	Inner membrane protein YgaZ
+EFEADKAH_00381	CDS	318				hypothetical protein
+EFEADKAH_00382	CDS	1611	murJ_1		COG2244	Lipid II flippase MurJ
+EFEADKAH_00383	CDS	849	degV		COG1307	Protein DegV
+EFEADKAH_00384	CDS	480				hypothetical protein
+EFEADKAH_00385	CDS	2229				hypothetical protein
+EFEADKAH_00386	CDS	1644	malL_1	3.2.1.10	COG0366	Oligo-1,6-glucosidase
+EFEADKAH_00387	CDS	546				hypothetical protein
+EFEADKAH_00388	CDS	486	hmpT		COG4720	Thiamine precursor transporter HmpT
+EFEADKAH_00389	CDS	654	pdxK	2.7.1.35	COG0351	Pyridoxine kinase
+EFEADKAH_00390	CDS	1542	menE	6.2.1.26		2-succinylbenzoate--CoA ligase
+EFEADKAH_00391	CDS	1032	xerC_3			Tyrosine recombinase XerC
+EFEADKAH_00392	CDS	987	ysnF			Stress response protein YsnF
+EFEADKAH_00393	CDS	1341	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+EFEADKAH_00394	CDS	675	mprA			Response regulator MprA
+EFEADKAH_00395	CDS	1074			COG0577	putative ABC transporter permease
+EFEADKAH_00396	CDS	303	lolD_1	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+EFEADKAH_00397	CDS	237	hrtA_1	3.6.3.-	COG1136	Putative hemin import ATP-binding protein HrtA
+EFEADKAH_00398	CDS	648				hypothetical protein
+EFEADKAH_00399	CDS	1392				hypothetical protein
+EFEADKAH_00400	CDS	342				hypothetical protein
+EFEADKAH_00401	CDS	342				hypothetical protein
+EFEADKAH_00402	CDS	2559				hypothetical protein
+EFEADKAH_00403	CDS	843				hypothetical protein
+EFEADKAH_00404	CDS	564				hypothetical protein
+EFEADKAH_00405	CDS	1878				hypothetical protein
+EFEADKAH_00406	CDS	843				hypothetical protein
+EFEADKAH_00407	CDS	876	ybbH_1		COG1737	putative HTH-type transcriptional regulator YbbH
+EFEADKAH_00408	CDS	1032	yhhX	1.-.-.-	COG0673	putative oxidoreductase YhhX
+EFEADKAH_00409	CDS	291				hypothetical protein
+EFEADKAH_00410	CDS	2016				hypothetical protein
+EFEADKAH_00411	CDS	285				hypothetical protein
+EFEADKAH_00412	CDS	1374	ulaA_1		COG3037	Ascorbate-specific PTS system EIIC component
+EFEADKAH_00413	CDS	2016				hypothetical protein
+EFEADKAH_00414	CDS	1209				hypothetical protein
+EFEADKAH_00415	CDS	945	rhaS_1			HTH-type transcriptional activator RhaS
+EFEADKAH_00416	CDS	174				hypothetical protein
+EFEADKAH_00417	CDS	945	ldh_1	1.1.1.27		L-lactate dehydrogenase
+EFEADKAH_00418	CDS	399				hypothetical protein
+EFEADKAH_00419	CDS	237				hypothetical protein
+EFEADKAH_00420	CDS	318				hypothetical protein
+EFEADKAH_00421	CDS	2109	topB_1	5.6.2.1	COG0550	DNA topoisomerase 3
+EFEADKAH_00422	CDS	411				hypothetical protein
+EFEADKAH_00423	CDS	1164	tagU_1	2.7.8.-		Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+EFEADKAH_00424	CDS	855	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+EFEADKAH_00425	CDS	771	cmpD	3.6.3.-		Bicarbonate transport ATP-binding protein CmpD
+EFEADKAH_00426	CDS	882				hypothetical protein
+EFEADKAH_00427	CDS	1050				hypothetical protein
+EFEADKAH_00428	CDS	624				hypothetical protein
+EFEADKAH_00429	CDS	954			COG2826	IS30 family transposase IS1252
+EFEADKAH_00430	CDS	1707	rqcH		COG1293	Rqc2 RqcH
+EFEADKAH_00431	CDS	903	hdfR_1			HTH-type transcriptional regulator HdfR
+EFEADKAH_00432	CDS	705	cah	4.2.1.1	COG3338	Carbonic anhydrase
+EFEADKAH_00433	CDS	642	yfbR	3.1.3.89		5'-deoxynucleotidase YfbR
+EFEADKAH_00434	CDS	630	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+EFEADKAH_00435	CDS	717	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+EFEADKAH_00436	CDS	933	pyrDB	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+EFEADKAH_00437	CDS	354	pyrK_1		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+EFEADKAH_00438	CDS	447	pyrK_2		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+EFEADKAH_00439	CDS	3186	carB	6.3.5.5	COG0458	Carbamoyl-phosphate synthase large chain
+EFEADKAH_00440	CDS	1077	carA	6.3.5.5		Carbamoyl-phosphate synthase small chain
+EFEADKAH_00441	CDS	1281	pyrC	3.5.2.3		Dihydroorotase
+EFEADKAH_00442	CDS	927	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase
+EFEADKAH_00443	CDS	1284	pyrP			Uracil permease
+EFEADKAH_00444	CDS	540	pyrR			Bifunctional protein pyrR
+EFEADKAH_00445	CDS	912	rluD_1	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+EFEADKAH_00446	CDS	465	lspA	3.4.23.36	COG0597	Lipoprotein signal peptidase
+EFEADKAH_00447	CDS	699				hypothetical protein
+EFEADKAH_00448	CDS	387				hypothetical protein
+EFEADKAH_00449	CDS	1671	fhs1	6.3.4.3		Formate--tetrahydrofolate ligase 1
+EFEADKAH_00450	CDS	234				hypothetical protein
+EFEADKAH_00451	CDS	432				hypothetical protein
+EFEADKAH_00452	CDS	414	rnhA		COG0328	14.7 kDa ribonuclease H-like protein
+EFEADKAH_00453	CDS	1149	fieF			Ferrous-iron efflux pump FieF
+EFEADKAH_00454	CDS	597	panT_1			Pantothenate transporter PanT
+EFEADKAH_00455	CDS	2643	alaS	6.1.1.7		Alanine--tRNA ligase
+EFEADKAH_00456	CDS	432		2.3.1.-		Acetyltransferase
+EFEADKAH_00457	CDS	1350	cshB	3.6.4.13	COG0513	DEAD-box ATP-dependent RNA helicase CshB
+EFEADKAH_00458	CDS	1164				hypothetical protein
+EFEADKAH_00459	CDS	324				hypothetical protein
+EFEADKAH_00460	CDS	1350	steT_1		COG0531	Serine/threonine exchanger SteT
+EFEADKAH_00461	CDS	954				putative epimerase/dehydratase
+EFEADKAH_00462	CDS	1191		2.3.1.-		Putative pyridoxal phosphate-dependent acyltransferase
+EFEADKAH_00463	CDS	225				hypothetical protein
+EFEADKAH_00464	CDS	684	yedJ		COG1418	putative protein YedJ
+EFEADKAH_00465	CDS	1497	ypwA	3.4.17.19	COG2317	Carboxypeptidase 1
+EFEADKAH_00466	CDS	1167	rlmL	2.1.1.173	COG0116	Ribosomal RNA large subunit methyltransferase L
+EFEADKAH_00467	CDS	420	gpsB			Cell cycle protein GpsB
+EFEADKAH_00468	CDS	540				hypothetical protein
+EFEADKAH_00469	CDS	648	recU	3.1.22.4	COG3331	Holliday junction resolvase RecU
+EFEADKAH_00470	CDS	2382	ponA_1		COG0744	Penicillin-binding protein 1A
+EFEADKAH_00471	CDS	1296				ISL3 family transposase ISEfa5
+EFEADKAH_00472	CDS	498				hypothetical protein
+EFEADKAH_00473	CDS	678	nth	4.2.99.18	COG0177	Endonuclease III
+EFEADKAH_00474	CDS	699	dnaD		COG3935	DNA replication protein DnaD
+EFEADKAH_00475	CDS	1185	tetA			Tetracycline resistance protein, class C
+EFEADKAH_00476	CDS	444				hypothetical protein
+EFEADKAH_00477	CDS	288				hypothetical protein
+EFEADKAH_00478	CDS	1353	nox_1	1.6.99.3	COG0446	NADH oxidase
+EFEADKAH_00479	CDS	447	perR		COG0735	Peroxide operon regulator
+EFEADKAH_00480	CDS	927	cysK	2.5.1.47		Cysteine synthase
+EFEADKAH_00481	CDS	888		3.2.1.-	COG1388	Autolysin
+EFEADKAH_00482	CDS	954			COG2826	IS30 family transposase IS1252
+EFEADKAH_00483	CDS	1998	tkt	2.2.1.1		Transketolase
+EFEADKAH_00484	CDS	252				hypothetical protein
+EFEADKAH_00485	CDS	624	lexA	3.4.21.88	COG1974	LexA repressor
+EFEADKAH_00486	CDS	219				hypothetical protein
+EFEADKAH_00487	CDS	513	apt	2.4.2.7	COG0503	Adenine phosphoribosyltransferase
+EFEADKAH_00488	CDS	2298				hypothetical protein
+EFEADKAH_00489	CDS	435				hypothetical protein
+EFEADKAH_00490	CDS	789	hcaB	1.3.1.87		3-phenylpropionate-dihydrodiol/cinnamic acid-dihydrodiol dehydrogenase
+EFEADKAH_00491	CDS	942	rnz	3.1.26.11	COG1234	Ribonuclease Z
+EFEADKAH_00492	CDS	588				hypothetical protein
+EFEADKAH_00493	CDS	1314	obg	3.6.5.-	COG0536	GTPase Obg
+EFEADKAH_00494	CDS	1011	gap_1	1.2.1.12		Glyceraldehyde-3-phosphate dehydrogenase
+EFEADKAH_00495	CDS	936	menH_1	4.2.99.20		2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+EFEADKAH_00496	CDS	960			COG2826	IS30 family transposase IS6770
+EFEADKAH_00497	CDS	1095				hypothetical protein
+EFEADKAH_00498	CDS	762				hypothetical protein
+EFEADKAH_00499	CDS	441	fabZ_1	4.2.1.59	COG0764	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+EFEADKAH_00500	CDS	756	fabI	1.3.1.9	COG0623	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI
+EFEADKAH_00501	CDS	1014	ilvE	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+EFEADKAH_00502	CDS	921	ykuT		COG0668	putative MscS family protein YkuT
+EFEADKAH_00503	CDS	501				hypothetical protein
+EFEADKAH_00504	CDS	519				hypothetical protein
+EFEADKAH_00505	CDS	1356	rph	2.7.7.56		Ribonuclease PH
+EFEADKAH_00506	CDS	834	murI	5.1.1.3	COG0796	Glutamate racemase
+EFEADKAH_00507	CDS	657	glnP		COG0765	putative glutamine ABC transporter permease protein GlnP
+EFEADKAH_00508	CDS	648	glnM		COG0765	putative glutamine ABC transporter permease protein GlnM
+EFEADKAH_00509	CDS	816	glnH		COG0834	ABC transporter glutamine-binding protein GlnH
+EFEADKAH_00510	CDS	738	glnQ_1	3.6.3.-	COG1126	Glutamine transport ATP-binding protein GlnQ
+EFEADKAH_00511	CDS	1011	trpS2	6.1.1.2	COG0180	Tryptophan--tRNA ligase 2
+EFEADKAH_00512	CDS	2421	pheT	6.1.1.20		Phenylalanine--tRNA ligase beta subunit
+EFEADKAH_00513	CDS	1044	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+EFEADKAH_00514	CDS	342	yodB		COG1733	HTH-type transcriptional regulator YodB
+EFEADKAH_00515	CDS	3723	addA	3.1.-.-	COG1074	ATP-dependent helicase/nuclease subunit A
+EFEADKAH_00516	CDS	2586	addB_1	3.1.-.-	COG3857	ATP-dependent helicase/deoxyribonuclease subunit B
+EFEADKAH_00517	CDS	984	addB_2	3.1.-.-	COG3857	ATP-dependent helicase/deoxyribonuclease subunit B
+EFEADKAH_00518	CDS	1296				ISL3 family transposase ISEfa11
+EFEADKAH_00519	CDS	831	dtpT_1		COG3104	Di-/tripeptide transporter
+EFEADKAH_00520	CDS	432	dtpT_2		COG3104	Di-/tripeptide transporter
+EFEADKAH_00521	CDS	597				hypothetical protein
+EFEADKAH_00522	CDS	483				hypothetical protein
+EFEADKAH_00523	CDS	198				hypothetical protein
+EFEADKAH_00524	CDS	759				hypothetical protein
+EFEADKAH_00525	CDS	429				hypothetical protein
+EFEADKAH_00526	tRNA	73				tRNA-Gln(ctg)
+EFEADKAH_00527	CDS	372				hypothetical protein
+EFEADKAH_00528	CDS	186				hypothetical protein
+EFEADKAH_00529	CDS	189				hypothetical protein
+EFEADKAH_00530	CDS	264				hypothetical protein
+EFEADKAH_00531	CDS	258				hypothetical protein
+EFEADKAH_00532	CDS	192				hypothetical protein
+EFEADKAH_00533	CDS	321				hypothetical protein
+EFEADKAH_00534	CDS	435				Putative universal stress protein
+EFEADKAH_00535	CDS	639				hypothetical protein
+EFEADKAH_00536	tRNA	86				tRNA-Leu(cag)
+EFEADKAH_00537	CDS	501				hypothetical protein
+EFEADKAH_00538	CDS	345				hypothetical protein
+EFEADKAH_00539	CDS	939				hypothetical protein
+EFEADKAH_00540	CDS	492				hypothetical protein
+EFEADKAH_00541	CDS	2376	dinG_1	3.1.-.-		3'-5' exonuclease DinG
+EFEADKAH_00542	CDS	627		3.-.-.-		putative metallo-hydrolase
+EFEADKAH_00543	CDS	705	gpmA_2	5.4.2.11		2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+EFEADKAH_00544	CDS	834	uppP	3.6.1.27		Undecaprenyl-diphosphatase
+EFEADKAH_00545	CDS	1929	zosA	3.6.3.-	COG2217	Zinc-transporting ATPase
+EFEADKAH_00546	CDS	456				hypothetical protein
+EFEADKAH_00547	CDS	270				hypothetical protein
+EFEADKAH_00548	CDS	255	rpsT			30S ribosomal protein S20
+EFEADKAH_00549	CDS	1047	yqeN		COG1466	putative protein YqeN
+EFEADKAH_00550	CDS	2274	comEC		COG0658	ComE operon protein 3
+EFEADKAH_00551	CDS	540	tadA_1	3.5.4.33		tRNA-specific adenosine deaminase
+EFEADKAH_00552	CDS	219				hypothetical protein
+EFEADKAH_00553	CDS	246				hypothetical protein
+EFEADKAH_00554	CDS	618				hypothetical protein
+EFEADKAH_00555	CDS	1044	ylbL		COG3480	putative protein YlbL
+EFEADKAH_00556	CDS	492	coaD	2.7.7.3	COG0669	Phosphopantetheine adenylyltransferase
+EFEADKAH_00557	CDS	561	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+EFEADKAH_00558	CDS	339				hypothetical protein
+EFEADKAH_00559	CDS	447				hypothetical protein
+EFEADKAH_00560	CDS	1125				hypothetical protein
+EFEADKAH_00561	CDS	3429	pycA	6.4.1.1		Pyruvate carboxylase
+EFEADKAH_00562	CDS	1164	ftsW_2	2.4.1.129	COG0772	putative peptidoglycan glycosyltransferase FtsW
+EFEADKAH_00563	CDS	303				hypothetical protein
+EFEADKAH_00564	CDS	1773	recQ_1	3.6.4.12	COG0514	ATP-dependent DNA helicase RecQ
+EFEADKAH_00565	CDS	1830	typA		COG1217	GTP-binding protein TypA/BipA
+EFEADKAH_00566	CDS	759	cysQ	3.1.3.7		3'(2'),5'-bisphosphate nucleotidase CysQ
+EFEADKAH_00567	CDS	276				hypothetical protein
+EFEADKAH_00568	CDS	1407	pdhD	1.8.1.4		Dihydrolipoyl dehydrogenase
+EFEADKAH_00569	CDS	1644				hypothetical protein
+EFEADKAH_00570	CDS	978	pdhB	1.2.4.1		Pyruvate dehydrogenase E1 component subunit beta
+EFEADKAH_00571	CDS	1110	pdhA	1.2.4.1		Pyruvate dehydrogenase E1 component subunit alpha
+EFEADKAH_00572	CDS	1425	norG		COG1167	HTH-type transcriptional regulator NorG
+EFEADKAH_00573	CDS	978	guaC	1.7.1.7	COG0516	GMP reductase
+EFEADKAH_00574	CDS	1206	xylH		COG4214	Xylose transport system permease protein XylH
+EFEADKAH_00575	CDS	1527	xylG	7.5.2.10	COG1129	Xylose import ATP-binding protein XylG
+EFEADKAH_00576	CDS	1089	chvE		COG4213	Multiple sugar-binding periplasmic receptor ChvE
+EFEADKAH_00577	CDS	1017	ytfQ			ABC transporter periplasmic-binding protein YtfQ
+EFEADKAH_00578	CDS	1452				hypothetical protein
+EFEADKAH_00579	CDS	1566	rhaR_2			HTH-type transcriptional activator RhaR
+EFEADKAH_00580	CDS	915	ydhF	1.-.-.-	COG4989	Oxidoreductase YdhF
+EFEADKAH_00581	CDS	1275	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+EFEADKAH_00582	CDS	1536	purH			Bifunctional purine biosynthesis protein PurH
+EFEADKAH_00583	CDS	579	purN	2.1.2.2		Phosphoribosylglycinamide formyltransferase
+EFEADKAH_00584	CDS	1053	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+EFEADKAH_00585	CDS	1440	purF	2.4.2.14		Amidophosphoribosyltransferase
+EFEADKAH_00586	CDS	2223	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase subunit PurL
+EFEADKAH_00587	CDS	672	purQ	6.3.5.3	COG0047	Phosphoribosylformylglycinamidine synthase subunit PurQ
+EFEADKAH_00588	CDS	255	purS	6.3.5.3	COG1828	Phosphoribosylformylglycinamidine synthase subunit PurS
+EFEADKAH_00589	CDS	729	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+EFEADKAH_00590	CDS	378				hypothetical protein
+EFEADKAH_00591	CDS	1296	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+EFEADKAH_00592	CDS	1125	purK	6.3.4.18		N5-carboxyaminoimidazole ribonucleotide synthase
+EFEADKAH_00593	CDS	489	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+EFEADKAH_00594	CDS	1308				Nucleobase transporter PlUacP
+EFEADKAH_00595	CDS	582	xpt	2.4.2.22	COG0503	Xanthine phosphoribosyltransferase
+EFEADKAH_00596	CDS	1293	yteT	1.-.-.-	COG0673	Putative oxidoreductase YteT
+EFEADKAH_00597	CDS	624				hypothetical protein
+EFEADKAH_00598	CDS	837	araQ_1		COG0395	L-arabinose transport system permease protein AraQ
+EFEADKAH_00599	CDS	888	lacF_2			Lactose transport system permease protein LacF
+EFEADKAH_00600	CDS	1284	yesO		COG1653	Putative ABC transporter substrate-binding protein YesO
+EFEADKAH_00601	CDS	684				hypothetical protein
+EFEADKAH_00602	CDS	618	lytG	3.2.1.-	COG1705	Exo-glucosaminidase LytG
+EFEADKAH_00603	CDS	825				hypothetical protein
+EFEADKAH_00604	CDS	561				hypothetical protein
+EFEADKAH_00605	CDS	948	iolU_1	1.1.1.371	COG0673	scyllo-inositol 2-dehydrogenase (NADP(+)) IolU
+EFEADKAH_00606	CDS	957				hypothetical protein
+EFEADKAH_00607	CDS	603				hypothetical protein
+EFEADKAH_00608	CDS	1500	yqiK		COG2268	Inner membrane protein YqiK
+EFEADKAH_00609	CDS	525	yuaF			putative membrane protein YuaF
+EFEADKAH_00610	CDS	873	dcuS_1	2.7.13.3	COG3290	Sensor histidine kinase DcuS
+EFEADKAH_00611	CDS	786	dcuS_2	2.7.13.3	COG3290	Sensor histidine kinase DcuS
+EFEADKAH_00612	CDS	717	dcuR		COG4565	Transcriptional regulatory protein DcuR
+EFEADKAH_00613	CDS	1020	hgdH	1.1.1.399	COG1052	(R)-2-hydroxyglutarate dehydrogenase
+EFEADKAH_00614	CDS	1059				hypothetical protein
+EFEADKAH_00615	CDS	1149	agaA_1	3.5.1.-	COG1820	N-acetylgalactosamine-6-phosphate deacetylase
+EFEADKAH_00616	CDS	837				hypothetical protein
+EFEADKAH_00617	CDS	1221	alaA	2.6.1.2	COG0436	Glutamate-pyruvate aminotransferase AlaA
+EFEADKAH_00618	CDS	162				hypothetical protein
+EFEADKAH_00619	tRNA	85				tRNA-Leu(gag)
+EFEADKAH_00620	CDS	579				hypothetical protein
+EFEADKAH_00621	CDS	387				hypothetical protein
+EFEADKAH_00622	CDS	1179				IS256 family transposase ISEf1
+EFEADKAH_00623	CDS	327				hypothetical protein
+EFEADKAH_00624	CDS	243	fosX		COG0346	Fosfomycin resistance protein FosX
+EFEADKAH_00625	CDS	291				hypothetical protein
+EFEADKAH_00626	CDS	693	smc_1			Chromosome partition protein Smc
+EFEADKAH_00627	CDS	624				hypothetical protein
+EFEADKAH_00628	CDS	723	ycfH	3.1.-.-	COG0084	putative metal-dependent hydrolase YcfH
+EFEADKAH_00629	CDS	738	ssuB	3.6.3.-	COG1116	Aliphatic sulfonates import ATP-binding protein SsuB
+EFEADKAH_00630	CDS	993	thiY		COG0715	Formylaminopyrimidine-binding protein
+EFEADKAH_00631	CDS	744	ribX			Riboflavin transport system permease protein RibX
+EFEADKAH_00632	CDS	1323	garB	1.8.1.16		Glutathione amide reductase
+EFEADKAH_00633	CDS	309				hypothetical protein
+EFEADKAH_00634	CDS	693	opuCA_1	7.6.2.9	COG1125	Carnitine transport ATP-binding protein OpuCA
+EFEADKAH_00635	CDS	1539				hypothetical protein
+EFEADKAH_00636	CDS	288				hypothetical protein
+EFEADKAH_00637	CDS	669				hypothetical protein
+EFEADKAH_00638	CDS	741				hypothetical protein
+EFEADKAH_00639	CDS	948	exuR_1		COG1609	putative HTH-type transcriptional repressor ExuR
+EFEADKAH_00640	CDS	765				hypothetical protein
+EFEADKAH_00641	CDS	390				hypothetical protein
+EFEADKAH_00642	CDS	543				hypothetical protein
+EFEADKAH_00643	CDS	615				hypothetical protein
+EFEADKAH_00644	CDS	894				hypothetical protein
+EFEADKAH_00645	CDS	927	ppaC	3.6.1.1	COG1227	putative manganese-dependent inorganic pyrophosphatase
+EFEADKAH_00646	CDS	762	pflA	1.97.1.4		Pyruvate formate-lyase-activating enzyme
+EFEADKAH_00647	CDS	2232	pflB	2.3.1.54		Formate acetyltransferase
+EFEADKAH_00648	CDS	2451	parC	5.6.2.2	COG0188	DNA topoisomerase 4 subunit A
+EFEADKAH_00649	CDS	2046	parE	5.6.2.2	COG0187	DNA topoisomerase 4 subunit B
+EFEADKAH_00650	CDS	435	yccU		COG1832	putative protein YccU
+EFEADKAH_00651	CDS	639	plsY	2.3.1.275	COG0344	Glycerol-3-phosphate acyltransferase
+EFEADKAH_00652	CDS	876	lacX			Protein LacX, plasmid
+EFEADKAH_00653	CDS	792	codY		COG4465	GTP-sensing transcriptional pleiotropic repressor CodY
+EFEADKAH_00654	CDS	1401	clpY		COG1220	ATP-dependent protease ATPase subunit ClpY
+EFEADKAH_00655	CDS	549	hslV	3.4.25.2	COG5405	ATP-dependent protease subunit HslV
+EFEADKAH_00656	CDS	906	xerC_4		COG4974	Tyrosine recombinase XerC
+EFEADKAH_00657	CDS	1326	trmFO	2.1.1.74	COG1206	Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO
+EFEADKAH_00658	CDS	2079	topA	5.6.2.1		DNA topoisomerase 1
+EFEADKAH_00659	CDS	858	dprA		COG0758	DNA processing protein DprA
+EFEADKAH_00660	CDS	768	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+EFEADKAH_00661	CDS	861	rbgA		COG1161	Ribosome biogenesis GTPase A
+EFEADKAH_00662	CDS	399				hypothetical protein
+EFEADKAH_00663	CDS	543	folT_1			Folate transporter FolT
+EFEADKAH_00664	CDS	552	sipV	3.4.21.89	COG0681	Signal peptidase I V
+EFEADKAH_00665	CDS	228				hypothetical protein
+EFEADKAH_00666	CDS	519	msrA_1	1.8.4.11	COG0225	Peptide methionine sulfoxide reductase MsrA
+EFEADKAH_00667	CDS	714				hypothetical protein
+EFEADKAH_00668	CDS	897				hypothetical protein
+EFEADKAH_00669	CDS	843			COG1307	DegV domain-containing protein
+EFEADKAH_00670	CDS	654				hypothetical protein
+EFEADKAH_00671	CDS	528	folA_2	1.5.1.3		Dihydrofolate reductase
+EFEADKAH_00672	CDS	948	thyA	2.1.1.45	COG0207	Thymidylate synthase
+EFEADKAH_00673	CDS	1887	ettA		COG0488	Energy-dependent translational throttle protein EttA
+EFEADKAH_00674	CDS	2079				hypothetical protein
+EFEADKAH_00675	CDS	276				hypothetical protein
+EFEADKAH_00676	CDS	456				hypothetical protein
+EFEADKAH_00677	CDS	1209	cca	2.7.7.72		CCA-adding enzyme
+EFEADKAH_00678	CDS	333	ypjD		COG1694	putative protein YpjD
+EFEADKAH_00679	CDS	876				hypothetical protein
+EFEADKAH_00680	CDS	582				hypothetical protein
+EFEADKAH_00681	CDS	1260	bepA	3.4.-.-		Beta-barrel assembly-enhancing protease
+EFEADKAH_00682	CDS	1047				hypothetical protein
+EFEADKAH_00683	CDS	276	hupA		COG0776	DNA-binding protein HU 1
+EFEADKAH_00684	CDS	1311	der		COG1160	GTPase Der
+EFEADKAH_00685	CDS	1230	ypfD		COG0539	30S ribosomal protein S1 
+EFEADKAH_00686	CDS	681	cmk	2.7.4.25	COG0283	Cytidylate kinase
+EFEADKAH_00687	CDS	636				hypothetical protein
+EFEADKAH_00688	CDS	1404	recQ_2	3.6.4.12	COG0514	ATP-dependent DNA helicase RecQ
+EFEADKAH_00689	CDS	1032				hypothetical protein
+EFEADKAH_00690	CDS	222				hypothetical protein
+EFEADKAH_00691	CDS	738				hypothetical protein
+EFEADKAH_00692	CDS	1341		3.4.13.-		Putative dipeptidase
+EFEADKAH_00693	CDS	1524				hypothetical protein
+EFEADKAH_00694	CDS	612	fmnP		COG3601	Riboflavin transporter FmnP
+EFEADKAH_00695	CDS	717	rluB_1	5.4.99.22	COG1187	Ribosomal large subunit pseudouridine synthase B
+EFEADKAH_00696	CDS	570	scpB			Segregation and condensation protein B
+EFEADKAH_00697	CDS	798	scpA		COG1354	Segregation and condensation protein A
+EFEADKAH_00698	CDS	372	ribT	2.3.1.-		Protein RibT
+EFEADKAH_00699	CDS	888	xerD			Tyrosine recombinase XerD
+EFEADKAH_00700	CDS	171				hypothetical protein
+EFEADKAH_00701	CDS	468	fur		COG0735	Ferric uptake regulation protein
+EFEADKAH_00702	CDS	864	cvfB			Conserved virulence factor B
+EFEADKAH_00703	CDS	2103	mapZ			Mid-cell-anchored protein Z
+EFEADKAH_00704	CDS	1296				ISL3 family transposase ISEfa11
+EFEADKAH_00705	CDS	1110	sigA		COG0568	RNA polymerase sigma factor SigA
+EFEADKAH_00706	CDS	1842	dnaG	2.7.7.-	COG0358	DNA primase
+EFEADKAH_00707	CDS	2316	ctpE_1	7.2.2.10	COG0474	Calcium-transporting ATPase CtpE
+EFEADKAH_00708	CDS	861				hypothetical protein
+EFEADKAH_00709	CDS	342				hypothetical protein
+EFEADKAH_00710	CDS	720	ydjP	3.-.-.-	COG0596	AB hydrolase superfamily protein YdjP
+EFEADKAH_00711	CDS	2592	mprF_1	2.3.2.3		Phosphatidylglycerol lysyltransferase
+EFEADKAH_00712	CDS	1188	tuf_1			Elongation factor Tu
+EFEADKAH_00713	CDS	357				hypothetical protein
+EFEADKAH_00714	CDS	1005				hypothetical protein
+EFEADKAH_00715	CDS	852	yvgN	1.1.1.-	COG0656	Glyoxal reductase
+EFEADKAH_00716	CDS	246				hypothetical protein
+EFEADKAH_00717	CDS	705				hypothetical protein
+EFEADKAH_00718	CDS	1263	mvaA	1.1.1.88		3-hydroxy-3-methylglutaryl-coenzyme A reductase
+EFEADKAH_00719	CDS	1221	thlA	2.3.1.9	COG0183	Acetyl-CoA acetyltransferase
+EFEADKAH_00720	CDS	1155	mvaS	2.3.3.10	COG3425	Hydroxymethylglutaryl-CoA synthase
+EFEADKAH_00721	CDS	753				hypothetical protein
+EFEADKAH_00722	CDS	2667		7.2.2.10	COG0474	Calcium-transporting ATPase
+EFEADKAH_00723	CDS	1452	clsA_1	2.7.8.-	COG1502	Major cardiolipin synthase ClsA
+EFEADKAH_00724	CDS	816	thiD	2.7.1.49		Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+EFEADKAH_00725	CDS	276				hypothetical protein
+EFEADKAH_00726	CDS	456	spxA_2		COG1393	Regulatory protein Spx
+EFEADKAH_00727	CDS	750				hypothetical protein
+EFEADKAH_00728	CDS	327				hypothetical protein
+EFEADKAH_00729	CDS	441				Putative universal stress protein
+EFEADKAH_00730	CDS	1398	gmuD_1	3.2.1.86	COG2723	6-phospho-beta-glucosidase GmuD
+EFEADKAH_00731	CDS	1272	gmuC_1		COG1455	PTS system oligo-beta-mannoside-specific EIIC component
+EFEADKAH_00732	CDS	720	gmuR		COG2188	HTH-type transcriptional regulator GmuR
+EFEADKAH_00733	CDS	975	mhqA	1.13.11.-	COG0346	Putative ring-cleaving dioxygenase MhqA
+EFEADKAH_00734	CDS	606	mhqD	3.1.-.-	COG0400	Putative hydrolase MhqD
+EFEADKAH_00735	CDS	753	mtnB	4.2.1.109		Methylthioribulose-1-phosphate dehydratase
+EFEADKAH_00736	CDS	261				hypothetical protein
+EFEADKAH_00737	CDS	1362	gatC_2		COG3775	PTS system galactitol-specific EIIC component
+EFEADKAH_00738	CDS	300				hypothetical protein
+EFEADKAH_00739	CDS	459	gatA_2		COG1762	PTS system galactitol-specific EIIA component
+EFEADKAH_00740	CDS	792	lacR_1			Lactose phosphotransferase system repressor
+EFEADKAH_00741	CDS	954	lacC_2	2.7.1.144	COG1105	Tagatose-6-phosphate kinase
+EFEADKAH_00742	CDS	975			COG1073	putative protein
+EFEADKAH_00743	CDS	435			COG0789	putative HTH-type transcriptional regulator
+EFEADKAH_00744	CDS	1023				hypothetical protein
+EFEADKAH_00745	CDS	423	arsC	1.20.4.4	COG0394	Arsenate reductase
+EFEADKAH_00746	CDS	1923	manR_1		COG1762	Transcriptional regulator ManR
+EFEADKAH_00747	CDS	921	manP_1		COG1299	PTS system mannose-specific EIIBCA component
+EFEADKAH_00748	CDS	972	manP_2		COG1299	PTS system mannose-specific EIIBCA component
+EFEADKAH_00749	CDS	741	dgaF	4.1.2.14		2-dehydro-3-deoxy-phosphogluconate aldolase
+EFEADKAH_00750	CDS	1092	dgaE	4.3.1.29		D-glucosaminate-6-phosphate ammonia lyase
+EFEADKAH_00751	CDS	1107		3.1.1.-	COG3964	Deacetylase
+EFEADKAH_00752	CDS	678				hypothetical protein
+EFEADKAH_00753	CDS	780				hypothetical protein
+EFEADKAH_00754	CDS	351				hypothetical protein
+EFEADKAH_00755	CDS	357				hypothetical protein
+EFEADKAH_00756	CDS	1251				IS110 family transposase ISSpn10
+EFEADKAH_00757	CDS	333				hypothetical protein
+EFEADKAH_00758	CDS	1863				hypothetical protein
+EFEADKAH_00759	CDS	954			COG2826	IS30 family transposase IS1252
+EFEADKAH_00760	CDS	195				hypothetical protein
+EFEADKAH_00761	CDS	300				hypothetical protein
+EFEADKAH_00762	CDS	435				hypothetical protein
+EFEADKAH_00763	CDS	711	araD	5.1.3.4	COG0235	L-ribulose-5-phosphate 4-epimerase AraD
+EFEADKAH_00764	CDS	861	ulaE	5.1.3.22	COG3623	L-ribulose-5-phosphate 3-epimerase UlaE
+EFEADKAH_00765	CDS	639	sgbH	4.1.1.85	COG0269	3-keto-L-gulonate-6-phosphate decarboxylase SgbH
+EFEADKAH_00766	CDS	300				hypothetical protein
+EFEADKAH_00767	CDS	1485	ulaA_2		COG3037	Ascorbate-specific PTS system EIIC component
+EFEADKAH_00768	CDS	462				hypothetical protein
+EFEADKAH_00769	CDS	1068	ulaG	3.1.1.-	COG2220	putative L-ascorbate-6-phosphate lactonase UlaG
+EFEADKAH_00770	CDS	771	srlR		COG1349	Glucitol operon repressor
+EFEADKAH_00771	CDS	828				hypothetical protein
+EFEADKAH_00772	CDS	1236				hypothetical protein
+EFEADKAH_00773	CDS	261				hypothetical protein
+EFEADKAH_00774	CDS	1302	licC_1		COG1455	Lichenan permease IIC component
+EFEADKAH_00775	CDS	459	ptsG_1	2.7.1.199		PTS system glucose-specific EIICBA component
+EFEADKAH_00776	CDS	1329	malH	3.2.1.122	COG1486	Maltose-6'-phosphate glucosidase MalH
+EFEADKAH_00777	CDS	1413	gamP		COG2190	Putative PTS system glucosamine-specific EIICBA component
+EFEADKAH_00778	CDS	765		3.5.1.-	COG3394	Carbohydrate deacetylase
+EFEADKAH_00779	CDS	876	licT_1		COG3711	Transcription antiterminator LicT
+EFEADKAH_00780	tRNA	87				tRNA-Leu(caa)
+EFEADKAH_00781	tRNA	74				tRNA-Gln(ttg)
+EFEADKAH_00782	tRNA	74				tRNA-His(gtg)
+EFEADKAH_00783	tRNA	87				tRNA-Leu(caa)
+EFEADKAH_00784	tRNA	71				tRNA-Cys(gca)
+EFEADKAH_00785	tRNA	74				tRNA-Gln(ttg)
+EFEADKAH_00786	tRNA	74				tRNA-His(gtg)
+EFEADKAH_00787	tRNA	74				tRNA-Trp(cca)
+EFEADKAH_00788	tRNA	83				tRNA-Tyr(gta)
+EFEADKAH_00789	tRNA	76				tRNA-Phe(gaa)
+EFEADKAH_00790	tRNA	76				tRNA-Asp(gtc)
+EFEADKAH_00791	tRNA	75				tRNA-Val(tac)
+EFEADKAH_00792	tRNA	74				tRNA-Glu(ttc)
+EFEADKAH_00793	tRNA	92				tRNA-Ser(gga)
+EFEADKAH_00794	tRNA	76				tRNA-Asn(gtt)
+EFEADKAH_00795	rRNA	111				5S ribosomal RNA
+EFEADKAH_00796	rRNA	2911				23S ribosomal RNA
+EFEADKAH_00797	tRNA	73				tRNA-Ala(tgc)
+EFEADKAH_00798	rRNA	1558				16S ribosomal RNA
+EFEADKAH_00799	CDS	1506	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+EFEADKAH_00800	CDS	687	arlR_1		COG0745	Response regulator ArlR
+EFEADKAH_00801	CDS	1422	gnd	1.1.1.44	COG0362	6-phosphogluconate dehydrogenase, decarboxylating
+EFEADKAH_00802	CDS	180	rpmF_1			50S ribosomal protein L32
+EFEADKAH_00803	CDS	570				hypothetical protein
+EFEADKAH_00804	CDS	903	gltC_1			HTH-type transcriptional regulator GltC
+EFEADKAH_00805	CDS	1785	pyk	2.7.1.40	COG0469	Pyruvate kinase
+EFEADKAH_00806	CDS	963	pfkA	2.7.1.11		ATP-dependent 6-phosphofructokinase
+EFEADKAH_00807	CDS	3315	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+EFEADKAH_00808	CDS	186				hypothetical protein
+EFEADKAH_00809	CDS	1197	sbnD_1			Staphyloferrin B transporter
+EFEADKAH_00810	CDS	1296				ISL3 family transposase ISEfa5
+EFEADKAH_00811	CDS	1545	pbuO		COG2252	Guanine/hypoxanthine permease PbuO
+EFEADKAH_00812	CDS	810	yitU	3.1.3.104	COG0561	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YitU
+EFEADKAH_00813	CDS	1296				ISL3 family transposase IS1251
+EFEADKAH_00814	CDS	2154	penA		COG0768	Penicillin-binding protein 2B
+EFEADKAH_00815	CDS	849	ybbH_2		COG1737	putative HTH-type transcriptional regulator YbbH
+EFEADKAH_00816	CDS	1941	thrS	6.1.1.3	COG0441	Threonine--tRNA ligase
+EFEADKAH_00817	CDS	180		5.3.2.-		putative tautomerase
+EFEADKAH_00818	CDS	1824	ziaA	7.2.2.12		Zinc-transporting ATPase
+EFEADKAH_00819	CDS	2280	helD_1	3.6.4.12	COG3973	DNA helicase IV
+EFEADKAH_00820	CDS	648				hypothetical protein
+EFEADKAH_00821	CDS	990				ISL3 family transposase ISEfa11
+EFEADKAH_00822	CDS	720	yeeN		COG0217	putative transcriptional regulatory protein YeeN
+EFEADKAH_00823	CDS	1152	tmcAL	6.3.4.-	COG1323	tRNA(Met) cytidine acetate ligase
+EFEADKAH_00824	CDS	741	COQ5_1	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+EFEADKAH_00825	CDS	261	rsfS		COG0799	Ribosomal silencing factor RsfS
+EFEADKAH_00826	CDS	594				hypothetical protein
+EFEADKAH_00827	CDS	651	nadD	2.7.7.18	COG1057	Nicotinate-nucleotide adenylyltransferase
+EFEADKAH_00828	CDS	312			COG1534	RNA-binding protein
+EFEADKAH_00829	CDS	1110	yqeH		COG1161	putative protein YqeH
+EFEADKAH_00830	CDS	528				hypothetical protein
+EFEADKAH_00831	CDS	786	accA	2.1.3.15	COG0825	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+EFEADKAH_00832	CDS	870	accD	2.1.3.15	COG0777	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+EFEADKAH_00833	CDS	1380	cfiB	6.4.1.7	COG0439	2-oxoglutarate carboxylase small subunit
+EFEADKAH_00834	CDS	420	fabZ_2	4.2.1.59	COG0764	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+EFEADKAH_00835	CDS	477	accB			Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+EFEADKAH_00836	CDS	1236	fabF	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+EFEADKAH_00837	CDS	738	fabG_2	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+EFEADKAH_00838	CDS	918	fabD	2.3.1.39	COG0331	Malonyl CoA-acyl carrier protein transacylase
+EFEADKAH_00839	CDS	225	acpA		COG0236	Acyl carrier protein
+EFEADKAH_00840	CDS	963	fabH	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3
+EFEADKAH_00841	CDS	441				hypothetical protein
+EFEADKAH_00842	CDS	966	uvrC_1			UvrABC system protein C
+EFEADKAH_00843	CDS	231	ykuJ		COG4703	putative protein YkuJ
+EFEADKAH_00844	CDS	888	glxR	1.1.1.60	COG2084	2-hydroxy-3-oxopropionate reductase
+EFEADKAH_00845	CDS	1224		2.4.1.337	COG0438	Alpha-monoglucosyldiacylglycerol synthase
+EFEADKAH_00846	CDS	1047	dgs	2.4.1.208	COG0438	Processive diacylglycerol alpha-glucosyltransferase
+EFEADKAH_00847	CDS	1728	ptsI	2.7.3.9	COG1080	Phosphoenolpyruvate-protein phosphotransferase
+EFEADKAH_00848	CDS	267	ptsH		COG1925	Phosphocarrier protein HPr
+EFEADKAH_00849	CDS	2235	clpE		COG0542	ATP-dependent Clp protease ATP-binding subunit ClpE
+EFEADKAH_00850	CDS	321				hypothetical protein
+EFEADKAH_00851	CDS	225				hypothetical protein
+EFEADKAH_00852	CDS	1581	prfC			Peptide chain release factor 3
+EFEADKAH_00853	CDS	1377				hypothetical protein
+EFEADKAH_00854	CDS	1119	yhhT		COG0628	Putative transport protein YhhT
+EFEADKAH_00855	CDS	435		2.3.1.-		Acetyltransferase
+EFEADKAH_00856	CDS	534				hypothetical protein
+EFEADKAH_00857	CDS	1179	mutY	3.2.2.31		Adenine DNA glycosylase
+EFEADKAH_00858	CDS	711	recX			Regulatory protein RecX
+EFEADKAH_00859	CDS	1383	rlmCD	2.1.1.189	COG2265	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+EFEADKAH_00860	CDS	579		1.14.99.53	COG3397	Lytic chitin monooxygenase
+EFEADKAH_00861	CDS	471	crtK-2		COG3476	Tryptophan-rich protein TspO
+EFEADKAH_00862	CDS	1227	tagU_2	2.7.8.-		Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+EFEADKAH_00863	CDS	201	cspD		COG1278	Cold shock protein CspD
+EFEADKAH_00864	CDS	609	sodA	1.15.1.1		Superoxide dismutase [Mn]
+EFEADKAH_00865	CDS	471				hypothetical protein
+EFEADKAH_00866	CDS	900	czcD		COG1230	Cadmium, cobalt and zinc/H(+)-K(+) antiporter
+EFEADKAH_00867	CDS	804				hypothetical protein
+EFEADKAH_00868	CDS	948	ghrB_1	1.1.1.79	COG1052	Glyoxylate/hydroxypyruvate reductase B
+EFEADKAH_00869	CDS	1548				IS66 family transposase ISRob1
+EFEADKAH_00870	CDS	354				hypothetical protein
+EFEADKAH_00871	CDS	195				hypothetical protein
+EFEADKAH_00872	CDS	294				hypothetical protein
+EFEADKAH_00873	CDS	543	ktrA		COG0569	Ktr system potassium uptake protein A
+EFEADKAH_00874	CDS	633	vraR			Response regulator protein VraR
+EFEADKAH_00875	CDS	1068	liaS	2.7.13.3	COG4585	Sensor histidine kinase LiaS
+EFEADKAH_00876	CDS	732				hypothetical protein
+EFEADKAH_00877	CDS	480	greA		COG0782	Transcription elongation factor GreA
+EFEADKAH_00878	CDS	1176	mltG	4.2.2.-		Endolytic murein transglycosylase
+EFEADKAH_00879	CDS	1161	pbpX_1		COG1680	Putative penicillin-binding protein PbpX
+EFEADKAH_00880	CDS	1446				IS1182 family transposase ISEfa7
+EFEADKAH_00881	CDS	948	wbgU_1	5.1.3.7		UDP-N-acetylglucosamine 4-epimerase
+EFEADKAH_00882	CDS	1416				hypothetical protein
+EFEADKAH_00883	CDS	1149	pglH_1	2.4.1.292	COG0438	GalNAc-alpha-(1->4)-GalNAc-alpha-(1->3)-diNAcBac-PP-undecaprenol alpha-1,4-N-acetyl-D-galactosaminyltransferase
+EFEADKAH_00884	CDS	1536				hypothetical protein
+EFEADKAH_00885	CDS	684				hypothetical protein
+EFEADKAH_00886	CDS	207	glyG			Glycosyltransferase GlyG
+EFEADKAH_00887	CDS	1008	arnC_1	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+EFEADKAH_00888	CDS	1068	rfbB	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+EFEADKAH_00889	CDS	702	ispD	2.7.7.60	COG1211	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+EFEADKAH_00890	CDS	390				hypothetical protein
+EFEADKAH_00891	CDS	342				hypothetical protein
+EFEADKAH_00892	CDS	543	wbbD_1	2.4.1.303	COG0463	UDP-Gal:alpha-D-GlcNAc-diphosphoundecaprenol beta-1,3-galactosyltransferase
+EFEADKAH_00893	CDS	240	wbbD_2	2.4.1.303	COG0463	UDP-Gal:alpha-D-GlcNAc-diphosphoundecaprenol beta-1,3-galactosyltransferase
+EFEADKAH_00894	CDS	1392				hypothetical protein
+EFEADKAH_00895	CDS	960			COG2826	IS30 family transposase IS6770
+EFEADKAH_00896	CDS	2139	arnC_2	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+EFEADKAH_00897	CDS	1587				hypothetical protein
+EFEADKAH_00898	CDS	1221	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+EFEADKAH_00899	CDS	807	tagG		COG1682	Teichoic acid translocation permease protein TagG
+EFEADKAH_00900	CDS	1281				hypothetical protein
+EFEADKAH_00901	CDS	2034				hypothetical protein
+EFEADKAH_00902	CDS	852	rmlD	1.1.1.133		dTDP-4-dehydrorhamnose reductase
+EFEADKAH_00903	CDS	1029	rmlB	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+EFEADKAH_00904	CDS	573	rfbC	5.1.3.13	COG1898	dTDP-4-dehydrorhamnose 3,5-epimerase
+EFEADKAH_00905	CDS	867	rfbA	2.7.7.24	COG1209	Glucose-1-phosphate thymidylyltransferase 1
+EFEADKAH_00906	CDS	708				hypothetical protein
+EFEADKAH_00907	CDS	828				hypothetical protein
+EFEADKAH_00908	CDS	801				hypothetical protein
+EFEADKAH_00909	CDS	1140	tagO	2.7.8.33	COG0472	putative undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase
+EFEADKAH_00910	CDS	924				hypothetical protein
+EFEADKAH_00911	CDS	765	map	3.4.11.18	COG0024	Methionine aminopeptidase 1
+EFEADKAH_00912	CDS	441				Flavodoxin
+EFEADKAH_00913	CDS	570				hypothetical protein
+EFEADKAH_00914	CDS	1233	pepS	3.4.11.-	COG2309	Aminopeptidase PepS
+EFEADKAH_00915	CDS	180				hypothetical protein
+EFEADKAH_00916	CDS	372				hypothetical protein
+EFEADKAH_00917	CDS	402				hypothetical protein
+EFEADKAH_00918	CDS	408				hypothetical protein
+EFEADKAH_00919	CDS	495				IS3 family transposase ISEnfa3
+EFEADKAH_00920	CDS	837				IS3 family transposase ISEfa8
+EFEADKAH_00921	CDS	291				IS3 family transposase ISEfa8
+EFEADKAH_00922	tRNA	74				tRNA-Met(cat)
+EFEADKAH_00923	CDS	1026				hypothetical protein
+EFEADKAH_00924	CDS	225				hypothetical protein
+EFEADKAH_00925	CDS	294				hypothetical protein
+EFEADKAH_00926	CDS	138				hypothetical protein
+EFEADKAH_00927	CDS	447				hypothetical protein
+EFEADKAH_00928	CDS	2067				hypothetical protein
+EFEADKAH_00929	CDS	783				hypothetical protein
+EFEADKAH_00930	CDS	1719				hypothetical protein
+EFEADKAH_00931	CDS	2832				hypothetical protein
+EFEADKAH_00932	CDS	792				hypothetical protein
+EFEADKAH_00933	CDS	3120				hypothetical protein
+EFEADKAH_00934	CDS	288				hypothetical protein
+EFEADKAH_00935	CDS	369				hypothetical protein
+EFEADKAH_00936	CDS	513				hypothetical protein
+EFEADKAH_00937	CDS	393				hypothetical protein
+EFEADKAH_00938	CDS	372				hypothetical protein
+EFEADKAH_00939	CDS	327				hypothetical protein
+EFEADKAH_00940	CDS	339				hypothetical protein
+EFEADKAH_00941	CDS	207				hypothetical protein
+EFEADKAH_00942	CDS	1008				hypothetical protein
+EFEADKAH_00943	CDS	354				hypothetical protein
+EFEADKAH_00944	CDS	642				hypothetical protein
+EFEADKAH_00945	CDS	174				hypothetical protein
+EFEADKAH_00946	CDS	954				hypothetical protein
+EFEADKAH_00947	CDS	264				hypothetical protein
+EFEADKAH_00948	CDS	231				hypothetical protein
+EFEADKAH_00949	CDS	1635				hypothetical protein
+EFEADKAH_00950	CDS	1302				hypothetical protein
+EFEADKAH_00951	CDS	456				hypothetical protein
+EFEADKAH_00952	CDS	225				hypothetical protein
+EFEADKAH_00953	CDS	180				hypothetical protein
+EFEADKAH_00954	CDS	414				hypothetical protein
+EFEADKAH_00955	CDS	276				hypothetical protein
+EFEADKAH_00956	CDS	153				hypothetical protein
+EFEADKAH_00957	CDS	414				hypothetical protein
+EFEADKAH_00958	CDS	297				hypothetical protein
+EFEADKAH_00959	CDS	558				hypothetical protein
+EFEADKAH_00960	CDS	396				hypothetical protein
+EFEADKAH_00961	CDS	174				hypothetical protein
+EFEADKAH_00962	CDS	312				hypothetical protein
+EFEADKAH_00963	CDS	291				hypothetical protein
+EFEADKAH_00964	CDS	312				hypothetical protein
+EFEADKAH_00965	CDS	162				hypothetical protein
+EFEADKAH_00966	CDS	303				hypothetical protein
+EFEADKAH_00967	CDS	165				hypothetical protein
+EFEADKAH_00968	CDS	270				hypothetical protein
+EFEADKAH_00969	CDS	852				hypothetical protein
+EFEADKAH_00970	CDS	516				hypothetical protein
+EFEADKAH_00971	CDS	693				hypothetical protein
+EFEADKAH_00972	CDS	672				hypothetical protein
+EFEADKAH_00973	CDS	342				hypothetical protein
+EFEADKAH_00974	CDS	147				hypothetical protein
+EFEADKAH_00975	CDS	174				hypothetical protein
+EFEADKAH_00976	CDS	189				hypothetical protein
+EFEADKAH_00977	CDS	285				hypothetical protein
+EFEADKAH_00978	CDS	300				hypothetical protein
+EFEADKAH_00979	CDS	204				hypothetical protein
+EFEADKAH_00980	CDS	747				hypothetical protein
+EFEADKAH_00981	CDS	252				hypothetical protein
+EFEADKAH_00982	CDS	156				hypothetical protein
+EFEADKAH_00983	CDS	189				hypothetical protein
+EFEADKAH_00984	CDS	159				hypothetical protein
+EFEADKAH_00985	CDS	321				hypothetical protein
+EFEADKAH_00986	CDS	423				hypothetical protein
+EFEADKAH_00987	CDS	306				hypothetical protein
+EFEADKAH_00988	CDS	1140	xerC_5			Tyrosine recombinase XerC
+EFEADKAH_00989	CDS	1626	groL		COG0459	60 kDa chaperonin
+EFEADKAH_00990	CDS	285	groS		COG0234	10 kDa chaperonin
+EFEADKAH_00991	CDS	663	MroQ	3.4.22.-		Membrane-embedded CAAX protease MroQ
+EFEADKAH_00992	CDS	1293	gmuC_2		COG1455	PTS system oligo-beta-mannoside-specific EIIC component
+EFEADKAH_00993	CDS	630				hypothetical protein
+EFEADKAH_00994	CDS	810	yycJ	3.-.-.-	COG1235	Putative metallo-hydrolase YycJ
+EFEADKAH_00995	CDS	870				hypothetical protein
+EFEADKAH_00996	CDS	1317				hypothetical protein
+EFEADKAH_00997	CDS	1836	walK_1	2.7.13.3		Sensor histidine kinase WalK
+EFEADKAH_00998	CDS	705	walR_1		COG0745	Transcriptional regulatory protein WalR
+EFEADKAH_00999	CDS	861				DegV domain-containing protein
+EFEADKAH_01000	CDS	570				hypothetical protein
+EFEADKAH_01001	tRNA	73				tRNA-Lys(ctt)
+EFEADKAH_01002	CDS	318			COG2826	IS30 family transposase IS1252
+EFEADKAH_01003	CDS	585			COG2826	IS30 family transposase IS1252
+EFEADKAH_01004	CDS	147				hypothetical protein
+EFEADKAH_01005	CDS	339				hypothetical protein
+EFEADKAH_01006	CDS	198	pisA			Bacteriocin piscicolin-126
+EFEADKAH_01007	CDS	1728				hypothetical protein
+EFEADKAH_01008	CDS	1194	opuAA	7.6.2.9	COG4175	Glycine betaine transport ATP-binding protein OpuAA
+EFEADKAH_01009	CDS	645				hypothetical protein
+EFEADKAH_01010	CDS	135				hypothetical protein
+EFEADKAH_01011	CDS	2133	feoB		COG0370	Fe(2+) transporter FeoB
+EFEADKAH_01012	CDS	474				hypothetical protein
+EFEADKAH_01013	CDS	225	nrdH		COG0695	Glutaredoxin-like protein NrdH
+EFEADKAH_01014	CDS	2160	nrdE2	1.17.4.1	COG0209	Ribonucleoside-diphosphate reductase subunit alpha 2
+EFEADKAH_01015	CDS	966	nrdF	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase 2 subunit beta
+EFEADKAH_01016	CDS	1140				hypothetical protein
+EFEADKAH_01017	CDS	714	sapB		COG1285	Protein SapB
+EFEADKAH_01018	CDS	702	nagB	3.5.99.6	COG0363	Glucosamine-6-phosphate deaminase
+EFEADKAH_01019	CDS	1533	ybiT_1		COG0488	putative ABC transporter ATP-binding protein YbiT
+EFEADKAH_01020	CDS	909				IS982 family transposase ISEfm1
+EFEADKAH_01021	CDS	1050				putative transporter
+EFEADKAH_01022	CDS	690				hypothetical protein
+EFEADKAH_01023	CDS	369	rplL		COG0222	50S ribosomal protein L7/L12
+EFEADKAH_01024	CDS	504	rplJ			50S ribosomal protein L10
+EFEADKAH_01025	CDS	690	rplA			50S ribosomal protein L1
+EFEADKAH_01026	CDS	423	rplK			50S ribosomal protein L11
+EFEADKAH_01027	CDS	669	sdhB	4.3.1.17		L-serine dehydratase, beta chain
+EFEADKAH_01028	CDS	873	sdhA	4.3.1.17		L-serine dehydratase, alpha chain
+EFEADKAH_01029	CDS	1020		1.13.12.4	COG1304	Lactate 2-monooxygenase
+EFEADKAH_01030	CDS	888				hypothetical protein
+EFEADKAH_01031	CDS	546	nusG			Transcription termination/antitermination protein NusG
+EFEADKAH_01032	CDS	171	secE			Protein translocase subunit SecE
+EFEADKAH_01033	CDS	153	rpmG3		COG0267	50S ribosomal protein L33 3
+EFEADKAH_01034	CDS	645				hypothetical protein
+EFEADKAH_01035	CDS	504	queT_1		COG4708	Queuosine precursor transporter QueT
+EFEADKAH_01036	CDS	966	ytlR	2.7.1.-	COG1597	Putative lipid kinase YtlR
+EFEADKAH_01037	CDS	1173				hypothetical protein
+EFEADKAH_01038	CDS	1146				hypothetical protein
+EFEADKAH_01039	CDS	933	lnrL	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+EFEADKAH_01040	CDS	1080				hypothetical protein
+EFEADKAH_01041	CDS	630	lnrK		COG2197	Transcriptional regulatory protein LnrK
+EFEADKAH_01042	CDS	228				hypothetical protein
+EFEADKAH_01043	CDS	2589	recD2	3.6.4.12		ATP-dependent RecD-like DNA helicase
+EFEADKAH_01044	CDS	660	pspA	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+EFEADKAH_01045	CDS	504	trmL	2.1.1.207	COG0219	tRNA (cytidine(34)-2'-O)-methyltransferase
+EFEADKAH_01046	CDS	867	rlmA	2.1.1.187	COG0500	23S rRNA (guanine(745)-N(1))-methyltransferase
+EFEADKAH_01047	CDS	642	cutC		COG3142	Copper homeostasis protein CutC
+EFEADKAH_01048	CDS	1362	mgtE		COG2239	Magnesium transporter MgtE
+EFEADKAH_01049	CDS	900				hypothetical protein
+EFEADKAH_01050	CDS	798	ppnKA	2.7.1.23	COG0061	NAD kinase 1
+EFEADKAH_01051	CDS	705	yjbM	2.7.6.5	COG2357	GTP pyrophosphokinase YjbM
+EFEADKAH_01052	CDS	576	yjbK	3.6.1.-	COG4116	Putative triphosphatase YjbK
+EFEADKAH_01053	CDS	678				hypothetical protein
+EFEADKAH_01054	CDS	912				ISL3 family transposase IS1251
+EFEADKAH_01055	CDS	387				ISL3 family transposase IS1251
+EFEADKAH_01056	CDS	1809	pepF1_1	3.4.24.-		Oligoendopeptidase F, plasmid
+EFEADKAH_01057	CDS	999				hypothetical protein
+EFEADKAH_01058	CDS	654	mecA		COG4862	Adapter protein MecA 1
+EFEADKAH_01059	CDS	399	spxA_3		COG1393	Regulatory protein Spx
+EFEADKAH_01060	CDS	708	yfnB_1	3.-.-.-	COG1011	Putative HAD-hydrolase YfnB
+EFEADKAH_01061	CDS	3195	rapA	3.6.4.-		RNA polymerase-associated protein RapA
+EFEADKAH_01062	CDS	762				hypothetical protein
+EFEADKAH_01063	CDS	2223				hypothetical protein
+EFEADKAH_01064	CDS	1122	sbcD			Nuclease SbcCD subunit D
+EFEADKAH_01065	CDS	624	plsC	2.3.1.-	COG0204	1-acyl-sn-glycerol-3-phosphate acyltransferase
+EFEADKAH_01066	CDS	735	yfiC	2.1.1.223		tRNA1(Val) (adenine(37)-N6)-methyltransferase
+EFEADKAH_01067	CDS	285				hypothetical protein
+EFEADKAH_01068	CDS	1884	oatA	2.3.1.-		O-acetyltransferase OatA
+EFEADKAH_01069	CDS	876				hypothetical protein
+EFEADKAH_01070	CDS	1770	aspS	6.1.1.12		Aspartate--tRNA ligase
+EFEADKAH_01071	CDS	1293	hisS	6.1.1.21		Histidine--tRNA ligase
+EFEADKAH_01072	CDS	948	iolS	1.1.1.-	COG0667	Aldo-keto reductase IolS
+EFEADKAH_01073	CDS	1260	cypC	1.11.2.4		Fatty-acid peroxygenase
+EFEADKAH_01074	CDS	447	dtd	3.1.1.96	COG1490	D-aminoacyl-tRNA deacylase
+EFEADKAH_01075	CDS	2214	relA	2.7.6.5	COG0317	GTP pyrophosphokinase
+EFEADKAH_01076	CDS	765	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+EFEADKAH_01077	CDS	948	prmA	2.1.1.-	COG2264	Ribosomal protein L11 methyltransferase
+EFEADKAH_01078	CDS	489				hypothetical protein
+EFEADKAH_01079	CDS	672		3.2.2.-		Putative 3-methyladenine DNA glycosylase
+EFEADKAH_01080	CDS	1287			COG2256	putative AAA domain-containing protein
+EFEADKAH_01081	CDS	285				hypothetical protein
+EFEADKAH_01082	CDS	480				Putative universal stress protein
+EFEADKAH_01083	CDS	129				hypothetical protein
+EFEADKAH_01084	CDS	1584	ybiT_2		COG0488	putative ABC transporter ATP-binding protein YbiT
+EFEADKAH_01085	CDS	1185	ackA	2.7.2.1	COG0282	Acetate kinase
+EFEADKAH_01086	CDS	1008				hypothetical protein
+EFEADKAH_01087	CDS	360				hypothetical protein
+EFEADKAH_01088	CDS	426				hypothetical protein
+EFEADKAH_01089	CDS	303				hypothetical protein
+EFEADKAH_01090	CDS	495				hypothetical protein
+EFEADKAH_01091	CDS	279				hypothetical protein
+EFEADKAH_01092	CDS	1050				hypothetical protein
+EFEADKAH_01093	CDS	930	comGA		COG2804	ComG operon protein 1
+EFEADKAH_01094	CDS	1755	adeC	3.5.4.2		Adenine deaminase
+EFEADKAH_01095	CDS	663	trmB	2.1.1.33	COG0220	tRNA (guanine-N(7)-)-methyltransferase
+EFEADKAH_01096	CDS	783	thiK	2.7.1.89		Thiamine kinase
+EFEADKAH_01097	CDS	1212				hypothetical protein
+EFEADKAH_01098	CDS	738	ecsA		COG1131	ABC-type transporter ATP-binding protein EcsA
+EFEADKAH_01099	CDS	435	hit		COG0537	Protein hit
+EFEADKAH_01100	CDS	345				hypothetical protein
+EFEADKAH_01101	CDS	1011	prsA_2	5.2.1.8		Foldase protein PrsA
+EFEADKAH_01102	CDS	945	yhaM	3.1.-.-	COG3481	3'-5' exoribonuclease YhaM
+EFEADKAH_01103	CDS	2721				hypothetical protein
+EFEADKAH_01104	CDS	1221				hypothetical protein
+EFEADKAH_01105	CDS	837	ywpJ_1	3.1.3.-	COG0561	Phosphatase YwpJ
+EFEADKAH_01106	rRNA	111				5S ribosomal RNA
+EFEADKAH_01107	rRNA	2911				23S ribosomal RNA
+EFEADKAH_01108	rRNA	1558				16S ribosomal RNA
+EFEADKAH_01109	CDS	1311				hypothetical protein
+EFEADKAH_01110	CDS	1419	yjmB		COG2211	putative symporter YjmB
+EFEADKAH_01111	CDS	1569	xynB	3.2.1.37		Beta-xylosidase
+EFEADKAH_01112	CDS	411				hypothetical protein
+EFEADKAH_01113	CDS	924	pemA	3.1.1.11	COG4677	Pectinesterase A
+EFEADKAH_01114	CDS	909				hypothetical protein
+EFEADKAH_01115	CDS	1338				hypothetical protein
+EFEADKAH_01116	CDS	1104	yteR	3.2.1.172	COG4225	Unsaturated rhamnogalacturonyl hydrolase YteR
+EFEADKAH_01117	CDS	1509	lipO		COG1653	Lipoprotein LipO
+EFEADKAH_01118	CDS	693				hypothetical protein
+EFEADKAH_01119	CDS	975	yteP_1		COG4209	putative multiple-sugar transport system permease YteP
+EFEADKAH_01120	CDS	375				hypothetical protein
+EFEADKAH_01121	CDS	501	araQ_2		COG0395	L-arabinose transport system permease protein AraQ
+EFEADKAH_01122	CDS	2199	yesS		COG2207	HTH-type transcriptional regulator YesS
+EFEADKAH_01123	CDS	993	exuR_2		COG1609	putative HTH-type transcriptional repressor ExuR
+EFEADKAH_01124	CDS	1422	uxaB	1.1.1.58	COG0246	Altronate oxidoreductase
+EFEADKAH_01125	CDS	1500	uxaA	4.2.1.7	COG2721	Altronate dehydratase
+EFEADKAH_01126	CDS	1395	uxaC	5.3.1.12	COG1904	Uronate isomerase
+EFEADKAH_01127	CDS	684	rhgT	3.1.1.-	COG2755	Rhamnogalacturonan acetylesterase RhgT
+EFEADKAH_01128	CDS	837				hypothetical protein
+EFEADKAH_01129	CDS	1755		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+EFEADKAH_01130	CDS	342				hypothetical protein
+EFEADKAH_01131	CDS	2172	pbpF		COG0744	Penicillin-binding protein 1F
+EFEADKAH_01132	CDS	858	rluD_2	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+EFEADKAH_01133	CDS	858	gmuE_1	2.7.1.4	COG1940	Putative fructokinase
+EFEADKAH_01134	CDS	2703	mngB	3.2.1.-	COG0383	Mannosylglycerate hydrolase
+EFEADKAH_01135	CDS	1290				hypothetical protein
+EFEADKAH_01136	CDS	1047	araR_1		COG1609	Arabinose metabolism transcriptional repressor
+EFEADKAH_01137	CDS	2154				hypothetical protein
+EFEADKAH_01138	CDS	1446	rhaR_3			HTH-type transcriptional activator RhaR
+EFEADKAH_01139	CDS	1725				hypothetical protein
+EFEADKAH_01140	CDS	615				hypothetical protein
+EFEADKAH_01141	CDS	1458				hypothetical protein
+EFEADKAH_01142	CDS	921	araQ_3		COG0395	L-arabinose transport system permease protein AraQ
+EFEADKAH_01143	CDS	948	yteP_2		COG4209	putative multiple-sugar transport system permease YteP
+EFEADKAH_01144	CDS	720	rluB_2	5.4.99.22	COG1187	Ribosomal large subunit pseudouridine synthase B
+EFEADKAH_01145	CDS	1647	murJ_2		COG2244	Lipid II flippase MurJ
+EFEADKAH_01146	CDS	591				hypothetical protein
+EFEADKAH_01147	CDS	1506	murE	6.3.2.7	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--L-lysine ligase
+EFEADKAH_01148	CDS	1353	licC_2		COG1455	Lichenan permease IIC component
+EFEADKAH_01149	CDS	519				hypothetical protein
+EFEADKAH_01150	CDS	327	licA_1		COG1447	Lichenan-specific phosphotransferase enzyme IIA component
+EFEADKAH_01151	CDS	1980	licR_2		COG1762	putative licABCH operon regulator
+EFEADKAH_01152	CDS	315				hypothetical protein
+EFEADKAH_01153	CDS	294				hypothetical protein
+EFEADKAH_01154	CDS	1071				hypothetical protein
+EFEADKAH_01155	CDS	1020				hypothetical protein
+EFEADKAH_01156	CDS	2793				hypothetical protein
+EFEADKAH_01157	CDS	225				hypothetical protein
+EFEADKAH_01158	CDS	762				hypothetical protein
+EFEADKAH_01159	CDS	1722			COG1132	putative ABC transporter ATP-binding protein
+EFEADKAH_01160	CDS	1785			COG1132	putative ABC transporter ATP-binding protein
+EFEADKAH_01161	CDS	1554				hypothetical protein
+EFEADKAH_01162	CDS	2415	leuS	6.1.1.4		Leucine--tRNA ligase
+EFEADKAH_01163	CDS	2019		3.2.1.17		Muramidase-2
+EFEADKAH_01164	CDS	657				hypothetical protein
+EFEADKAH_01165	CDS	957				hypothetical protein
+EFEADKAH_01166	CDS	567				hypothetical protein
+EFEADKAH_01167	CDS	1770			COG1132	putative ABC transporter ATP-binding protein
+EFEADKAH_01168	CDS	1713			COG1132	putative ABC transporter ATP-binding protein
+EFEADKAH_01169	CDS	669				hypothetical protein
+EFEADKAH_01170	CDS	789				hypothetical protein
+EFEADKAH_01171	CDS	1473	bmr3			Multidrug resistance protein 3
+EFEADKAH_01172	CDS	1296				ISL3 family transposase ISEfa5
+EFEADKAH_01173	CDS	1194	metK	2.5.1.6		S-adenosylmethionine synthase
+EFEADKAH_01174	tRNA	74				tRNA-Glu(ttc)
+EFEADKAH_01175	tRNA	76				tRNA-Ile(gat)
+EFEADKAH_01176	tRNA	71				tRNA-Gly(tcc)
+EFEADKAH_01177	tRNA	75				tRNA-Phe(gaa)
+EFEADKAH_01178	tRNA	75				tRNA-Asp(gtc)
+EFEADKAH_01179	tRNA	76				tRNA-Met(cat)
+EFEADKAH_01180	tRNA	90				tRNA-Ser(tga)
+EFEADKAH_01181	tRNA	74				tRNA-Glu(ttc)
+EFEADKAH_01182	tRNA	90				tRNA-Ser(gct)
+EFEADKAH_01183	tRNA	76				tRNA-Ile(gat)
+EFEADKAH_01184	tRNA	71				tRNA-Gly(tcc)
+EFEADKAH_01185	tRNA	76				tRNA-Asp(gtc)
+EFEADKAH_01186	tRNA	76				tRNA-Met(cat)
+EFEADKAH_01187	tRNA	90				tRNA-Ser(tga)
+EFEADKAH_01188	tRNA	76				tRNA-Met(cat)
+EFEADKAH_01189	tRNA	76				tRNA-Met(cat)
+EFEADKAH_01190	tRNA	73				tRNA-Ala(tgc)
+EFEADKAH_01191	tRNA	74				tRNA-Pro(tgg)
+EFEADKAH_01192	tRNA	76				tRNA-Arg(acg)
+EFEADKAH_01193	tRNA	86				tRNA-Leu(taa)
+EFEADKAH_01194	tRNA	72				tRNA-Gly(gcc)
+EFEADKAH_01195	tRNA	76				tRNA-Thr(tgt)
+EFEADKAH_01196	tRNA	84				tRNA-Leu(tag)
+EFEADKAH_01197	tRNA	75				tRNA-Lys(ttt)
+EFEADKAH_01198	tRNA	75				tRNA-Val(tac)
+EFEADKAH_01199	rRNA	111				5S ribosomal RNA
+EFEADKAH_01200	rRNA	2911				23S ribosomal RNA
+EFEADKAH_01201	tRNA	73				tRNA-Ala(tgc)
+EFEADKAH_01202	rRNA	1557				16S ribosomal RNA
+EFEADKAH_01203	CDS	1296				ISL3 family transposase ISEfa11
+EFEADKAH_01204	CDS	1497	lysS	6.1.1.6	COG1190	Lysine--tRNA ligase
+EFEADKAH_01205	CDS	1005	dusB	1.3.1.-	COG0042	tRNA-dihydrouridine synthase B
+EFEADKAH_01206	CDS	888	hslO		COG1281	33 kDa chaperonin
+EFEADKAH_01207	CDS	2112	ftsH	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+EFEADKAH_01208	CDS	546	hpt	2.4.2.8		Hypoxanthine-guanine phosphoribosyltransferase
+EFEADKAH_01209	CDS	1455	tilS	6.3.4.19		tRNA(Ile)-lysidine synthase
+EFEADKAH_01210	CDS	471	pnp_1	2.7.7.8		Polyribonucleotide nucleotidyltransferase
+EFEADKAH_01211	CDS	426				hypothetical protein
+EFEADKAH_01212	CDS	270				hypothetical protein
+EFEADKAH_01213	CDS	1596	murJ_3		COG2244	Lipid II flippase MurJ
+EFEADKAH_01214	CDS	3522	mfd	3.6.4.-		Transcription-repair-coupling factor
+EFEADKAH_01215	CDS	561	pth	3.1.1.29		Peptidyl-tRNA hydrolase
+EFEADKAH_01216	CDS	975	ldh_2	1.1.1.27	COG0039	L-lactate dehydrogenase
+EFEADKAH_01217	CDS	1401				hypothetical protein
+EFEADKAH_01218	CDS	723			COG0217	putative transcriptional regulatory protein
+EFEADKAH_01219	CDS	507				hypothetical protein
+EFEADKAH_01220	CDS	1800	pepF1_2	3.4.24.-		Oligoendopeptidase F, plasmid
+EFEADKAH_01221	CDS	1575				hypothetical protein
+EFEADKAH_01222	CDS	510				hypothetical protein
+EFEADKAH_01223	CDS	855	mreC		COG1792	Cell shape-determining protein MreC
+EFEADKAH_01224	CDS	639	thiN	2.7.6.2	COG1564	Thiamine pyrophosphokinase
+EFEADKAH_01225	CDS	651	rpe_1	5.1.3.1		Ribulose-phosphate 3-epimerase
+EFEADKAH_01226	CDS	900	rsgA	3.6.1.-	COG1162	Small ribosomal subunit biogenesis GTPase RsgA
+EFEADKAH_01227	CDS	2070	prkC	2.7.11.1	COG0515	Serine/threonine-protein kinase PrkC
+EFEADKAH_01228	CDS	741	stp	3.1.3.16	COG0631	Serine/threonine phosphatase stp
+EFEADKAH_01229	CDS	1359	rsmB	2.1.1.176	COG0144	Ribosomal RNA small subunit methyltransferase B
+EFEADKAH_01230	CDS	939	fmt	2.1.2.9		Methionyl-tRNA formyltransferase
+EFEADKAH_01231	CDS	492	def_1	3.5.1.88		Peptide deformylase
+EFEADKAH_01232	CDS	2409	priA	3.6.4.-		primosomal protein N'
+EFEADKAH_01233	CDS	306	rpoZ	2.7.7.6		DNA-directed RNA polymerase subunit omega
+EFEADKAH_01234	CDS	615	gmk_2	2.7.4.8	COG0194	Guanylate kinase
+EFEADKAH_01235	CDS	285				hypothetical protein
+EFEADKAH_01236	CDS	891				hypothetical protein
+EFEADKAH_01237	CDS	219				hypothetical protein
+EFEADKAH_01238	CDS	1701				hypothetical protein
+EFEADKAH_01239	CDS	774				hypothetical protein
+EFEADKAH_01240	CDS	570	thiT			Thiamine transporter ThiT
+EFEADKAH_01241	CDS	972	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+EFEADKAH_01242	CDS	1374	glmU		COG1207	Bifunctional protein GlmU
+EFEADKAH_01243	CDS	819	purR_1		COG0503	Pur operon repressor
+EFEADKAH_01244	CDS	825	znuB		COG1108	High-affinity zinc uptake system membrane protein ZnuB
+EFEADKAH_01245	CDS	681	znuC	7.2.2.-	COG1121	High-affinity zinc uptake system ATP-binding protein ZnuC
+EFEADKAH_01246	CDS	939	znuA		COG0803	High-affinity zinc uptake system binding-protein ZnuA
+EFEADKAH_01247	CDS	846	ispE	2.7.1.148	COG1947	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+EFEADKAH_01248	CDS	2574	mprF_2	2.3.2.3		Phosphatidylglycerol lysyltransferase
+EFEADKAH_01249	CDS	807	proC	1.5.1.2	COG0345	Pyrroline-5-carboxylate reductase
+EFEADKAH_01250	CDS	1557	rny	3.1.-.-	COG1418	Ribonuclease Y
+EFEADKAH_01251	CDS	1050	recA		COG0468	Protein RecA
+EFEADKAH_01252	CDS	1242	cinA		COG1058	Putative competence-damage inducible protein
+EFEADKAH_01253	CDS	579	pgsA	2.7.8.5		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+EFEADKAH_01254	CDS	885				hypothetical protein
+EFEADKAH_01255	CDS	1287				hypothetical protein
+EFEADKAH_01256	CDS	1269				hypothetical protein
+EFEADKAH_01257	CDS	462	mscL		COG1970	Large-conductance mechanosensitive channel
+EFEADKAH_01258	CDS	447	elaA		COG2153	Protein ElaA
+EFEADKAH_01259	CDS	246	veg		COG4466	Protein Veg
+EFEADKAH_01260	CDS	579	sigH		COG1595	RNA polymerase sigma-H factor
+EFEADKAH_01261	CDS	531				hypothetical protein
+EFEADKAH_01262	CDS	861		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+EFEADKAH_01263	CDS	396	mrnC	3.1.26.-	COG1939	Mini-ribonuclease 3
+EFEADKAH_01264	CDS	1413	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+EFEADKAH_01265	CDS	537	cysE	2.3.1.30	COG1045	Serine acetyltransferase
+EFEADKAH_01266	CDS	1461	gltX	6.1.1.17		Glutamate--tRNA ligase
+EFEADKAH_01267	CDS	1158	yacL	3.1.-.-	COG4956	putative PIN and TRAM-domain containing protein YacL
+EFEADKAH_01268	CDS	1371	radA	3.6.4.-	COG1066	DNA repair protein RadA
+EFEADKAH_01269	CDS	528	dut	3.6.1.23	COG0756	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+EFEADKAH_01270	CDS	807	proB	2.7.2.11	COG0263	Glutamate 5-kinase 1
+EFEADKAH_01271	CDS	1248	proA	1.2.1.41	COG0014	Gamma-glutamyl phosphate reductase
+EFEADKAH_01272	CDS	345				hypothetical protein
+EFEADKAH_01273	CDS	327				hypothetical protein
+EFEADKAH_01274	CDS	933	yfmO_1			Multidrug efflux protein YfmO
+EFEADKAH_01275	CDS	270	yfmO_2			Multidrug efflux protein YfmO
+EFEADKAH_01276	CDS	516				hypothetical protein
+EFEADKAH_01277	CDS	447				hypothetical protein
+EFEADKAH_01278	CDS	1479	msr(C)			ABC-F type ribosomal protection protein Msr(C)
+EFEADKAH_01279	CDS	240	yodC_1	1.-.-.-	COG0778	Putative NAD(P)H nitroreductase YodC
+EFEADKAH_01280	CDS	393	yodC_2	1.-.-.-	COG0778	Putative NAD(P)H nitroreductase YodC
+EFEADKAH_01281	CDS	465				hypothetical protein
+EFEADKAH_01282	CDS	1269				hypothetical protein
+EFEADKAH_01283	CDS	738		1.-.-.-		putative oxidoreductase
+EFEADKAH_01284	CDS	570		2.3.1.-		Putative acetyltransferase
+EFEADKAH_01285	CDS	873	hdfR_2			HTH-type transcriptional regulator HdfR
+EFEADKAH_01286	CDS	873	sacY		COG3711	Levansucrase and sucrase synthesis operon antiterminator
+EFEADKAH_01287	CDS	1959	ptsG_2	2.7.1.199	COG1263	PTS system glucose-specific EIICBA component
+EFEADKAH_01288	CDS	99				hypothetical protein
+EFEADKAH_01289	CDS	852	qorB	1.6.5.2	COG0702	Quinone oxidoreductase 2
+EFEADKAH_01290	CDS	468	ywnA		COG1959	Putative HTH-type transcriptional regulator YwnA
+EFEADKAH_01291	CDS	483				hypothetical protein
+EFEADKAH_01292	CDS	864				hypothetical protein
+EFEADKAH_01293	CDS	849				hypothetical protein
+EFEADKAH_01294	CDS	342	xylB_1	2.7.1.17	COG1070	Xylulose kinase
+EFEADKAH_01295	CDS	708	ygaZ_2		COG1296	Inner membrane protein YgaZ
+EFEADKAH_01296	CDS	324				hypothetical protein
+EFEADKAH_01297	CDS	1038				Zinc-type alcohol dehydrogenase-like protein
+EFEADKAH_01298	CDS	984	dus	1.3.1.-		putative tRNA-dihydrouridine synthase
+EFEADKAH_01299	CDS	771	yadH		COG0842	Inner membrane transport permease YadH
+EFEADKAH_01300	CDS	936	yadG		COG1131	putative ABC transporter ATP-binding protein YadG
+EFEADKAH_01301	CDS	108				hypothetical protein
+EFEADKAH_01302	CDS	1650	mutS_1			DNA mismatch repair protein MutS
+EFEADKAH_01303	CDS	897	phoR_2	2.7.13.3	COG0642	Alkaline phosphatase synthesis sensor protein PhoR
+EFEADKAH_01304	CDS	660	arlR_2		COG0745	Response regulator ArlR
+EFEADKAH_01305	CDS	783				hypothetical protein
+EFEADKAH_01306	CDS	918	bcrA_1			Bacitracin transport ATP-binding protein BcrA
+EFEADKAH_01307	CDS	216				hypothetical protein
+EFEADKAH_01308	CDS	3228				hypothetical protein
+EFEADKAH_01309	CDS	315				hypothetical protein
+EFEADKAH_01310	CDS	375				hypothetical protein
+EFEADKAH_01311	CDS	336				hypothetical protein
+EFEADKAH_01312	CDS	1146				hypothetical protein
+EFEADKAH_01313	CDS	1860				hypothetical protein
+EFEADKAH_01314	CDS	240				hypothetical protein
+EFEADKAH_01315	CDS	675				hypothetical protein
+EFEADKAH_01316	CDS	165				hypothetical protein
+EFEADKAH_01317	CDS	435	hhaIM	2.1.1.37		Modification methylase HhaI
+EFEADKAH_01318	CDS	708				hypothetical protein
+EFEADKAH_01319	CDS	291				hypothetical protein
+EFEADKAH_01320	CDS	1185				hypothetical protein
+EFEADKAH_01321	CDS	138				hypothetical protein
+EFEADKAH_01322	CDS	1911				hypothetical protein
+EFEADKAH_01323	CDS	504				hypothetical protein
+EFEADKAH_01324	CDS	390				hypothetical protein
+EFEADKAH_01325	CDS	2448				hypothetical protein
+EFEADKAH_01326	CDS	2124				hypothetical protein
+EFEADKAH_01327	CDS	1005				hypothetical protein
+EFEADKAH_01328	CDS	912				hypothetical protein
+EFEADKAH_01329	CDS	216				hypothetical protein
+EFEADKAH_01330	CDS	1440	ribZ_1			Riboflavin transporter RibZ
+EFEADKAH_01331	CDS	633				hypothetical protein
+EFEADKAH_01332	CDS	1452				hypothetical protein
+EFEADKAH_01333	CDS	1344	noxE	1.6.99.3	COG0446	NADH oxidase
+EFEADKAH_01334	CDS	5928				hypothetical protein
+EFEADKAH_01335	CDS	435				hypothetical protein
+EFEADKAH_01336	CDS	1206	rhaR_4			HTH-type transcriptional activator RhaR
+EFEADKAH_01337	CDS	387				hypothetical protein
+EFEADKAH_01338	CDS	192				hypothetical protein
+EFEADKAH_01339	CDS	195				hypothetical protein
+EFEADKAH_01340	CDS	189				hypothetical protein
+EFEADKAH_01341	CDS	1128				ISL3 family transposase IS1251
+EFEADKAH_01342	CDS	1617				hypothetical protein
+EFEADKAH_01343	CDS	219				hypothetical protein
+EFEADKAH_01344	CDS	240				hypothetical protein
+EFEADKAH_01345	CDS	1524				hypothetical protein
+EFEADKAH_01346	CDS	984	yjiA	3.6.-.-	COG0523	P-loop guanosine triphosphatase YjiA
+EFEADKAH_01347	CDS	150	rpmGA_2			50S ribosomal protein L33 1
+EFEADKAH_01348	CDS	378				hypothetical protein
+EFEADKAH_01349	CDS	180	rpmF_2		COG0333	50S ribosomal protein L32
+EFEADKAH_01350	CDS	270	rpsN2_1		COG0199	Alternate 30S ribosomal protein S14
+EFEADKAH_01351	CDS	1743	ndvA	7.5.2.3	COG1132	Beta-(1-->2)glucan export ATP-binding/permease protein NdvA
+EFEADKAH_01352	CDS	1755	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+EFEADKAH_01353	CDS	570				hypothetical protein
+EFEADKAH_01354	CDS	447	btuD_3	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+EFEADKAH_01355	CDS	966	ykoD	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+EFEADKAH_01356	CDS	582				hypothetical protein
+EFEADKAH_01357	CDS	519				hypothetical protein
+EFEADKAH_01358	CDS	93				hypothetical protein
+EFEADKAH_01359	CDS	234				hypothetical protein
+EFEADKAH_01360	CDS	951	ssaB_1		COG0803	Manganese ABC transporter substrate-binding lipoprotein
+EFEADKAH_01361	CDS	408	mntD		COG1108	Manganese transport system membrane protein MntD
+EFEADKAH_01362	CDS	228				hypothetical protein
+EFEADKAH_01363	CDS	1188				IS110 family transposase ISBth13
+EFEADKAH_01364	CDS	741	scaC_1	7.2.2.5	COG1121	Manganese import ATP-binding protein ScaC
+EFEADKAH_01365	CDS	1227	xerC_6			Tyrosine recombinase XerC
+EFEADKAH_01366	CDS	393	rpsI		COG0103	30S ribosomal protein S9
+EFEADKAH_01367	CDS	444	rplM			50S ribosomal protein L13
+EFEADKAH_01368	CDS	468	dps	1.16.-.-	COG0783	DNA protection during starvation protein
+EFEADKAH_01369	CDS	1539	xylB_2	2.7.1.17	COG1070	Xylulose kinase
+EFEADKAH_01370	CDS	687	comC			Type 4 prepilin-like proteins leader peptide-processing enzyme
+EFEADKAH_01371	CDS	528	msrA_2	1.8.4.11	COG0225	Peptide methionine sulfoxide reductase MsrA
+EFEADKAH_01372	CDS	678	yvdM_1	5.4.2.6	COG0637	Beta-phosphoglucomutase
+EFEADKAH_01373	CDS	1131	glxK	2.7.1.31		Glycerate kinase
+EFEADKAH_01374	CDS	2184	ycjT	2.4.1.230	COG1554	Kojibiose phosphorylase
+EFEADKAH_01375	CDS	1026	rifL	1.1.1.-		Putative UDP-kanosamine synthase oxidoreductase subunit
+EFEADKAH_01376	CDS	828				hypothetical protein
+EFEADKAH_01377	CDS	1068	tdh	1.1.1.103		L-threonine 3-dehydrogenase
+EFEADKAH_01378	CDS	837	ycjP		COG0395	Inner membrane ABC transporter permease protein YcjP
+EFEADKAH_01379	CDS	870	ycjO		COG1175	Inner membrane ABC transporter permease protein YcjO
+EFEADKAH_01380	CDS	1284				hypothetical protein
+EFEADKAH_01381	CDS	1686	ycjM	2.4.1.352	COG0366	Glucosylglycerate phosphorylase
+EFEADKAH_01382	CDS	1026	purR_2		COG1609	HTH-type transcriptional repressor PurR
+EFEADKAH_01383	CDS	3654	rpoC	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+EFEADKAH_01384	CDS	3618	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+EFEADKAH_01385	CDS	969				hypothetical protein
+EFEADKAH_01386	CDS	906				hypothetical protein
+EFEADKAH_01387	CDS	807	yxdL_1		COG1136	ABC transporter ATP-binding protein YxdL
+EFEADKAH_01388	CDS	969	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+EFEADKAH_01389	CDS	525				hypothetical protein
+EFEADKAH_01390	CDS	1983				hypothetical protein
+EFEADKAH_01391	CDS	987	hepT	2.5.1.30	COG0142	Heptaprenyl diphosphate synthase component 2
+EFEADKAH_01392	CDS	567				hypothetical protein
+EFEADKAH_01393	CDS	417				hypothetical protein
+EFEADKAH_01394	CDS	1935	norW	1.18.1.-		Nitric oxide reductase FlRd-NAD(+) reductase
+EFEADKAH_01395	CDS	957				hypothetical protein
+EFEADKAH_01396	CDS	1104	apbE	2.7.1.180	COG1477	FAD:protein FMN transferase
+EFEADKAH_01397	CDS	954	menA	2.5.1.74		1,4-dihydroxy-2-naphthoate octaprenyltransferase
+EFEADKAH_01398	CDS	1347	gor	1.8.1.7	COG1249	Glutathione reductase
+EFEADKAH_01399	CDS	1251				hypothetical protein
+EFEADKAH_01400	CDS	924	rlhA		COG0826	23S rRNA 5-hydroxycytidine synthase
+EFEADKAH_01401	CDS	2493	clpC		COG0542	Negative regulator of genetic competence ClpC/MecB
+EFEADKAH_01402	CDS	468	ctsR		COG4463	Transcriptional regulator CtsR
+EFEADKAH_01403	tRNA	77				tRNA-Arg(acg)
+EFEADKAH_01404	tRNA	74				tRNA-Pro(tgg)
+EFEADKAH_01405	tRNA	76				tRNA-Arg(acg)
+EFEADKAH_01406	tRNA	86				tRNA-Leu(taa)
+EFEADKAH_01407	tRNA	72				tRNA-Gly(gcc)
+EFEADKAH_01408	tRNA	76				tRNA-Thr(tgt)
+EFEADKAH_01409	tRNA	84				tRNA-Leu(tag)
+EFEADKAH_01410	tRNA	75				tRNA-Lys(ttt)
+EFEADKAH_01411	tRNA	75				tRNA-Val(tac)
+EFEADKAH_01412	rRNA	111				5S ribosomal RNA
+EFEADKAH_01413	rRNA	2911				23S ribosomal RNA
+EFEADKAH_01414	rRNA	1558				16S ribosomal RNA
+EFEADKAH_01415	CDS	690	srrA_2		COG0745	Transcriptional regulatory protein SrrA
+EFEADKAH_01416	CDS	1209	rcsC	2.7.13.3		Sensor histidine kinase RcsC
+EFEADKAH_01417	CDS	1272	serS	6.1.1.11		Serine--tRNA ligase
+EFEADKAH_01418	CDS	1485	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+EFEADKAH_01419	CDS	696				hypothetical protein
+EFEADKAH_01420	CDS	1101	ychF		COG0012	Ribosome-binding ATPase YchF
+EFEADKAH_01421	CDS	192				hypothetical protein
+EFEADKAH_01422	CDS	891	spo0J		COG1475	Stage 0 sporulation protein J
+EFEADKAH_01423	CDS	768	soj_1	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+EFEADKAH_01424	CDS	714	rsmG	2.1.1.-	COG0357	Ribosomal RNA small subunit methyltransferase G
+EFEADKAH_01425	CDS	1902	mnmG			tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+EFEADKAH_01426	CDS	528	mnmE_1	3.6.5.-	COG0486	tRNA modification GTPase MnmE
+EFEADKAH_01427	CDS	837	mnmE_2	3.6.-.-	COG0486	tRNA modification GTPase MnmE
+EFEADKAH_01428	CDS	339				hypothetical protein
+EFEADKAH_01429	CDS	759				hypothetical protein
+EFEADKAH_01430	CDS	819	misCA		COG0706	Membrane protein insertase MisCA
+EFEADKAH_01431	CDS	357	rnpA	3.1.26.5	COG0594	Ribonuclease P protein component
+EFEADKAH_01432	CDS	135	rpmH			50S ribosomal protein L34
+EFEADKAH_01433	CDS	1335	dnaA		COG0593	Chromosomal replication initiator protein DnaA
+EFEADKAH_01434	CDS	1131	dnaN		COG0592	Beta sliding clamp
+EFEADKAH_01435	CDS	309				hypothetical protein
+EFEADKAH_01436	CDS	1125	recF		COG1195	DNA replication and repair protein RecF
+EFEADKAH_01437	CDS	1947	gyrB	5.6.2.2	COG0187	DNA gyrase subunit B
+EFEADKAH_01438	CDS	2472	gyrA	5.6.2.2	COG0188	DNA gyrase subunit A
+EFEADKAH_01439	CDS	300	rpsF		COG0360	30S ribosomal protein S6
+EFEADKAH_01440	CDS	513	ssb_1		COG0629	Single-stranded DNA-binding protein
+EFEADKAH_01441	CDS	237	rpsR		COG0238	30S ribosomal protein S18
+EFEADKAH_01442	CDS	105				hypothetical protein
+EFEADKAH_01443	CDS	1974	gdpP	3.1.4.59	COG3887	Cyclic-di-AMP phosphodiesterase GdpP
+EFEADKAH_01444	CDS	453	rplI			50S ribosomal protein L9
+EFEADKAH_01445	CDS	1368	dnaC	3.6.4.12	COG0305	Replicative DNA helicase
+EFEADKAH_01446	CDS	1293	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+EFEADKAH_01447	CDS	864				DegV domain-containing protein
+EFEADKAH_01448	CDS	1623	ybiT_3		COG0488	putative ABC transporter ATP-binding protein YbiT
+EFEADKAH_01449	CDS	522				hypothetical protein
+EFEADKAH_01450	CDS	1731	pox5	1.2.3.3	COG0028	Pyruvate oxidase
+EFEADKAH_01451	CDS	819	zupT		COG0428	Zinc transporter ZupT
+EFEADKAH_01452	CDS	198				hypothetical protein
+EFEADKAH_01453	CDS	579				Potassium channel
+EFEADKAH_01454	CDS	138				hypothetical protein
+EFEADKAH_01455	CDS	504				hypothetical protein
+EFEADKAH_01456	CDS	1026				hypothetical protein
+EFEADKAH_01457	CDS	864				hypothetical protein
+EFEADKAH_01458	CDS	378				hypothetical protein
+EFEADKAH_01459	CDS	231				hypothetical protein
+EFEADKAH_01460	CDS	207				hypothetical protein
+EFEADKAH_01461	CDS	372				hypothetical protein
+EFEADKAH_01462	CDS	693	yvdM_2	5.4.2.6	COG0637	Beta-phosphoglucomutase
+EFEADKAH_01463	CDS	786	lacR_2			Lactose phosphotransferase system repressor
+EFEADKAH_01464	CDS	1401	lacG_2	3.2.1.85	COG2723	6-phospho-beta-galactosidase
+EFEADKAH_01465	CDS	318	lacF_3			PTS system lactose-specific EIIA component
+EFEADKAH_01466	CDS	1674	lacE_2		COG1455	PTS system lactose-specific EIICB component
+EFEADKAH_01467	CDS	1632				hypothetical protein
+EFEADKAH_01468	CDS	1566	guaA_1	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+EFEADKAH_01469	CDS	924	coaA	2.7.1.33		Pantothenate kinase
+EFEADKAH_01470	CDS	606	rsmC	2.1.1.172	COG2813	Ribosomal RNA small subunit methyltransferase C
+EFEADKAH_01471	CDS	1017	degA_1		COG1609	HTH-type transcriptional regulator DegA
+EFEADKAH_01472	CDS	1302	pdp	2.4.2.2	COG0213	Pyrimidine-nucleoside phosphorylase
+EFEADKAH_01473	CDS	663	deoC	4.1.2.4	COG0274	Deoxyribose-phosphate aldolase
+EFEADKAH_01474	CDS	399	cdd	3.5.4.5	COG0295	Cytidine deaminase
+EFEADKAH_01475	CDS	1083	tmpC		COG1744	Membrane lipoprotein TmpC
+EFEADKAH_01476	CDS	1563	mglA	7.5.2.11	COG1129	Galactose/methyl galactoside import ATP-binding protein MglA
+EFEADKAH_01477	CDS	1134				hypothetical protein
+EFEADKAH_01478	CDS	957				hypothetical protein
+EFEADKAH_01479	CDS	1167	deoB	5.4.2.7		Phosphopentomutase
+EFEADKAH_01480	CDS	819	punA	2.4.2.1		Purine nucleoside phosphorylase 1
+EFEADKAH_01481	CDS	708	deoD	2.4.2.1	COG0813	Purine nucleoside phosphorylase DeoD-type
+EFEADKAH_01482	CDS	687	gpmA_3	5.4.2.11		2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+EFEADKAH_01483	CDS	582	hin		COG1961	DNA-invertase hin
+EFEADKAH_01484	CDS	684	rpiA	5.3.1.6	COG0120	Ribose-5-phosphate isomerase A
+EFEADKAH_01485	CDS	414	rpsL		COG0048	30S ribosomal protein S12
+EFEADKAH_01486	CDS	471	rpsG		COG0049	30S ribosomal protein S7
+EFEADKAH_01487	CDS	2088	fus			Elongation factor G
+EFEADKAH_01488	CDS	1188	tuf_2		COG0050	Elongation factor Tu
+EFEADKAH_01489	CDS	309	rpsJ		COG0051	30S ribosomal protein S10
+EFEADKAH_01490	CDS	630	rplC		COG0087	50S ribosomal protein L3
+EFEADKAH_01491	CDS	624	rplD		COG0088	50S ribosomal protein L4
+EFEADKAH_01492	CDS	291	rplW			50S ribosomal protein L23
+EFEADKAH_01493	CDS	834	rplB		COG0090	50S ribosomal protein L2
+EFEADKAH_01494	CDS	279	rpsS		COG0185	30S ribosomal protein S19
+EFEADKAH_01495	CDS	348	rplV		COG0091	50S ribosomal protein L22
+EFEADKAH_01496	CDS	657	rpsC		COG0092	30S ribosomal protein S3
+EFEADKAH_01497	CDS	435	rplP		COG0197	50S ribosomal protein L16
+EFEADKAH_01498	CDS	189	rpmC		COG0255	50S ribosomal protein L29
+EFEADKAH_01499	CDS	267	rpsQ		COG0186	30S ribosomal protein S17
+EFEADKAH_01500	CDS	369	rplN		COG0093	50S ribosomal protein L14
+EFEADKAH_01501	CDS	309	rplX			50S ribosomal protein L24
+EFEADKAH_01502	CDS	540	rplE		COG0094	50S ribosomal protein L5
+EFEADKAH_01503	CDS	186	rpsZ		COG0199	30S ribosomal protein S14 type Z
+EFEADKAH_01504	CDS	399	rpsH		COG0096	30S ribosomal protein S8
+EFEADKAH_01505	CDS	537	rplF			50S ribosomal protein L6
+EFEADKAH_01506	CDS	357	rplR		COG0256	50S ribosomal protein L18
+EFEADKAH_01507	CDS	501	rpsE		COG0098	30S ribosomal protein S5
+EFEADKAH_01508	CDS	180	rpmD		COG1841	50S ribosomal protein L30
+EFEADKAH_01509	CDS	441	rplO			50S ribosomal protein L15
+EFEADKAH_01510	CDS	1296	secY			Protein translocase subunit SecY
+EFEADKAH_01511	CDS	648	adk	2.7.4.3		Adenylate kinase
+EFEADKAH_01512	CDS	219	infA		COG0361	Translation initiation factor IF-1
+EFEADKAH_01513	CDS	117	rpmJ		COG0257	50S ribosomal protein L36
+EFEADKAH_01514	CDS	366	rpsM		COG0099	30S ribosomal protein S13
+EFEADKAH_01515	CDS	390	rpsK			30S ribosomal protein S11
+EFEADKAH_01516	CDS	939	rpoA	2.7.7.6	COG0202	DNA-directed RNA polymerase subunit alpha
+EFEADKAH_01517	CDS	381	rplQ		COG0203	50S ribosomal protein L17
+EFEADKAH_01518	CDS	840	ecfA1	7.-.-.-		Energy-coupling factor transporter ATP-binding protein EcfA1
+EFEADKAH_01519	CDS	870	ecfA2	3.6.3.-		Energy-coupling factor transporter ATP-binding protein EcfA2
+EFEADKAH_01520	CDS	798	ecfT			Energy-coupling factor transporter transmembrane protein EcfT
+EFEADKAH_01521	CDS	747	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+EFEADKAH_01522	CDS	807				hypothetical protein
+EFEADKAH_01523	CDS	369	lrpC		COG1522	HTH-type transcriptional regulator LrpC
+EFEADKAH_01524	CDS	1173				IS256 family transposase IS256
+EFEADKAH_01525	CDS	1179				IS256 family transposase ISEf1
+EFEADKAH_01526	CDS	339				hypothetical protein
+EFEADKAH_01527	CDS	549				hypothetical protein
+EFEADKAH_01528	CDS	660				hypothetical protein
+EFEADKAH_01529	CDS	909				IS982 family transposase ISEfm1
+EFEADKAH_01530	CDS	2670				hypothetical protein
+EFEADKAH_01531	CDS	189	rpmB			50S ribosomal protein L28
+EFEADKAH_01532	CDS	363				putative protein
+EFEADKAH_01533	CDS	1683				putative protein
+EFEADKAH_01534	CDS	2037	recG	3.6.4.12		ATP-dependent DNA helicase RecG
+EFEADKAH_01535	CDS	1002	plsX	2.3.1.274	COG0416	Phosphate acyltransferase
+EFEADKAH_01536	CDS	243	acpP		COG0236	Acyl carrier protein
+EFEADKAH_01537	CDS	1188				IS110 family transposase ISBth13
+EFEADKAH_01538	CDS	1005	oppD_1		COG0444	Oligopeptide transport ATP-binding protein OppD
+EFEADKAH_01539	CDS	945	oppF_1		COG4608	Oligopeptide transport ATP-binding protein OppF
+EFEADKAH_01540	CDS	963	gsiC		COG0601	Glutathione transport system permease protein GsiC
+EFEADKAH_01541	CDS	915				hypothetical protein
+EFEADKAH_01542	CDS	1782				hypothetical protein
+EFEADKAH_01543	CDS	687	rnc	3.1.26.3	COG0571	Ribonuclease 3
+EFEADKAH_01544	CDS	3582	smc_2		COG1196	Chromosome partition protein Smc
+EFEADKAH_01545	CDS	810	yidA_2	3.1.3.23	COG0561	Sugar phosphatase YidA
+EFEADKAH_01546	CDS	999	ftsY		COG0552	Signal recognition particle receptor FtsY
+EFEADKAH_01547	CDS	2268	gshAB		COG1181	Glutathione biosynthesis bifunctional protein GshAB
+EFEADKAH_01548	CDS	453	yueI		COG5506	putative protein YueI
+EFEADKAH_01549	CDS	951	yclN		COG4606	Petrobactin import system permease protein YclN
+EFEADKAH_01550	CDS	960	yclO		COG4605	Petrobactin import system permease protein YclO
+EFEADKAH_01551	CDS	756	yclP	7.2.2.-	COG4604	Petrobactin import ATP-binding protein YclP
+EFEADKAH_01552	CDS	954	yclQ		COG4607	Petrobactin-binding protein YclQ
+EFEADKAH_01553	CDS	108				hypothetical protein
+EFEADKAH_01554	CDS	954			COG2826	IS30 family transposase IS1252
+EFEADKAH_01555	CDS	189				hypothetical protein
+EFEADKAH_01556	CDS	1173				IS256 family transposase IS256
+EFEADKAH_01557	CDS	357				hypothetical protein
+EFEADKAH_01558	CDS	900				hypothetical protein
+EFEADKAH_01559	CDS	897				IS982 family transposase ISEfm1
+EFEADKAH_01560	CDS	729				hypothetical protein
+EFEADKAH_01561	CDS	1680				hypothetical protein
+EFEADKAH_01562	CDS	960			COG2826	IS30 family transposase IS6770
+EFEADKAH_01563	CDS	735	gla		COG0580	Glycerol facilitator-aquaporin gla
+EFEADKAH_01564	CDS	411	cidA			Holin-like protein CidA
+EFEADKAH_01565	CDS	702	yohK		COG1346	Inner membrane protein YohK
+EFEADKAH_01566	CDS	1584				hypothetical protein
+EFEADKAH_01567	CDS	222				hypothetical protein
+EFEADKAH_01568	CDS	762		1.1.1.391	COG1028	3-beta-hydroxycholanate 3-dehydrogenase (NAD(+)) 2
+EFEADKAH_01569	CDS	510	queT_2		COG4708	Queuosine precursor transporter QueT
+EFEADKAH_01570	CDS	540	bioY2		COG1268	Biotin transporter BioY2
+EFEADKAH_01571	CDS	612	rpsD		COG0522	30S ribosomal protein S4
+EFEADKAH_01572	CDS	834	nirC		COG2116	Nitrite transporter NirC
+EFEADKAH_01573	CDS	636				hypothetical protein
+EFEADKAH_01574	CDS	774				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+EFEADKAH_01575	CDS	798	ymdB	3.1.4.16	COG1692	2',3'-cyclic-nucleotide 2'-phosphodiesterase
+EFEADKAH_01576	CDS	375				hypothetical protein
+EFEADKAH_01577	CDS	2646	mutS_2		COG0249	DNA mismatch repair protein MutS
+EFEADKAH_01578	CDS	2109	mutL		COG0323	DNA mismatch repair protein MutL
+EFEADKAH_01579	CDS	561	maf	3.6.1.9	COG0424	dTTP/UTP pyrophosphatase
+EFEADKAH_01580	CDS	1989				hypothetical protein
+EFEADKAH_01581	CDS	714	treR		COG2188	HTH-type transcriptional regulator TreR
+EFEADKAH_01582	CDS	447	msrB	1.8.4.12		Peptide methionine sulfoxide reductase MsrB
+EFEADKAH_01583	CDS	603	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+EFEADKAH_01584	CDS	1002	ruvB	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+EFEADKAH_01585	CDS	579				hypothetical protein
+EFEADKAH_01586	CDS	483	yfkJ	3.1.3.48	COG0394	Low molecular weight protein-tyrosine-phosphatase YfkJ
+EFEADKAH_01587	CDS	375				hypothetical protein
+EFEADKAH_01588	CDS	954			COG2826	IS30 family transposase IS1252
+EFEADKAH_01589	CDS	1353	brnQ_1		COG1114	Branched-chain amino acid transport system 2 carrier protein
+EFEADKAH_01590	CDS	591				Potassium channel
+EFEADKAH_01591	CDS	1350	cycA		COG1113	D-serine/D-alanine/glycine transporter
+EFEADKAH_01592	CDS	741	artM_2		COG1126	Arginine transport ATP-binding protein ArtM
+EFEADKAH_01593	CDS	1593	mltF_2	4.2.2.-		Membrane-bound lytic murein transglycosylase F
+EFEADKAH_01594	CDS	192				hypothetical protein
+EFEADKAH_01595	CDS	297				hypothetical protein
+EFEADKAH_01596	CDS	726	cobB	2.3.1.286	COG0846	NAD-dependent protein deacetylase
+EFEADKAH_01597	CDS	843	dapH_1	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+EFEADKAH_01598	CDS	522	nadR		COG1827	Transcription repressor NadR
+EFEADKAH_01599	CDS	564	def_2	3.5.1.88	COG0242	Peptide deformylase
+EFEADKAH_01600	CDS	270	rpsO		COG0184	30S ribosomal protein S15
+EFEADKAH_01601	CDS	2127	pnp_2	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+EFEADKAH_01602	CDS	267				hypothetical protein
+EFEADKAH_01603	CDS	1992	kup			Low affinity potassium transport system protein kup
+EFEADKAH_01604	CDS	1302				hypothetical protein
+EFEADKAH_01605	CDS	1371	dinF		COG0534	DNA damage-inducible protein F
+EFEADKAH_01606	CDS	324				hypothetical protein
+EFEADKAH_01607	CDS	609	ctc		COG1825	General stress protein CTC
+EFEADKAH_01608	CDS	717	rsuA	5.4.99.19	COG1187	Ribosomal small subunit pseudouridine synthase A
+EFEADKAH_01609	CDS	696	yfnB_2	3.-.-.-	COG1011	Putative HAD-hydrolase YfnB
+EFEADKAH_01610	CDS	630	udk	2.7.1.48	COG0572	Uridine kinase
+EFEADKAH_01611	CDS	537				hypothetical protein
+EFEADKAH_01612	CDS	513				IS3 family transposase ISEnfa3
+EFEADKAH_01613	CDS	168				hypothetical protein
+EFEADKAH_01614	CDS	603				hypothetical protein
+EFEADKAH_01615	CDS	489				hypothetical protein
+EFEADKAH_01616	CDS	1374				hypothetical protein
+EFEADKAH_01617	CDS	468				hypothetical protein
+EFEADKAH_01618	CDS	1593	ubiB	2.7.-.-	COG0661	putative protein kinase UbiB
+EFEADKAH_01619	CDS	126				hypothetical protein
+EFEADKAH_01620	CDS	1077	ddl	6.3.2.4	COG1181	D-alanine--D-alanine ligase
+EFEADKAH_01621	CDS	1413	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+EFEADKAH_01622	CDS	1512	cshA	3.6.4.13	COG0513	ATP-dependent RNA helicase CshA
+EFEADKAH_01623	CDS	351	acpS	2.7.8.7	COG0736	Holo-[acyl-carrier-protein] synthase
+EFEADKAH_01624	CDS	1122	alr	5.1.1.1	COG0787	Alanine racemase
+EFEADKAH_01625	CDS	363	ndoA	3.1.27.-	COG2337	Endoribonuclease EndoA
+EFEADKAH_01626	CDS	270	rpsN2_2		COG0199	Alternate 30S ribosomal protein S14
+EFEADKAH_01627	CDS	948				Zinc-type alcohol dehydrogenase-like protein
+EFEADKAH_01628	CDS	2706				hypothetical protein
+EFEADKAH_01629	CDS	1824	kimA		COG0531	Potassium transporter KimA
+EFEADKAH_01630	CDS	264				hypothetical protein
+EFEADKAH_01631	CDS	267				hypothetical protein
+EFEADKAH_01632	CDS	489				hypothetical protein
+EFEADKAH_01633	CDS	99				hypothetical protein
+EFEADKAH_01634	CDS	672	opuCD		COG1174	Glycine betaine/carnitine/choline transport system permease protein OpuCD
+EFEADKAH_01635	CDS	918	opuCC		COG1732	Glycine betaine/carnitine/choline-binding protein OpuCC
+EFEADKAH_01636	CDS	642	opuCB		COG1174	Carnitine transport permease protein OpuCB
+EFEADKAH_01637	CDS	1176	opuCA_2	7.6.2.9	COG1125	Carnitine transport ATP-binding protein OpuCA
+EFEADKAH_01638	CDS	1032	queA	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+EFEADKAH_01639	CDS	309	yoaB	7.2.2.10	COG0474	Calcium-transporting ATPase 1
+EFEADKAH_01640	CDS	2292		7.2.2.10		Calcium-transporting ATPase 1
+EFEADKAH_01641	CDS	699				hypothetical protein
+EFEADKAH_01642	CDS	1146	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+EFEADKAH_01643	CDS	381				hypothetical protein
+EFEADKAH_01644	CDS	1320				IS1380 family transposase IS1678
+EFEADKAH_01645	CDS	2598	adhE		COG1012	Aldehyde-alcohol dehydrogenase
+EFEADKAH_01646	CDS	954			COG2826	IS30 family transposase IS1252
+EFEADKAH_01647	CDS	189				hypothetical protein
+EFEADKAH_01648	CDS	1461	rhaB	2.7.1.5		Rhamnulokinase
+EFEADKAH_01649	CDS	1257	rhaA	5.3.1.14	COG4806	L-rhamnose isomerase
+EFEADKAH_01650	CDS	846	rhaD	4.1.2.19	COG0235	Rhamnulose-1-phosphate aldolase
+EFEADKAH_01651	CDS	312	rhaM	5.1.3.32	COG3254	L-rhamnose mutarotase
+EFEADKAH_01652	CDS	1152	fucO	1.1.1.77	COG1454	Lactaldehyde reductase
+EFEADKAH_01653	CDS	759	iclR		COG1414	Transcriptional repressor IclR
+EFEADKAH_01654	CDS	645	kdgA		COG0800	KHG/KDPG aldolase
+EFEADKAH_01655	CDS	1008	kdgK	2.7.1.45		2-dehydro-3-deoxygluconokinase
+EFEADKAH_01656	CDS	843	kduI1	5.3.1.17	COG3717	4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase 1
+EFEADKAH_01657	CDS	135				hypothetical protein
+EFEADKAH_01658	CDS	675	kduD	1.1.1.127		2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase
+EFEADKAH_01659	CDS	1065	fni	5.3.3.2		Isopentenyl-diphosphate delta-isomerase
+EFEADKAH_01660	CDS	1086		2.7.4.2		Phosphomevalonate kinase
+EFEADKAH_01661	CDS	978				hypothetical protein
+EFEADKAH_01662	CDS	945	galK_1	2.7.1.6		Galactokinase
+EFEADKAH_01663	CDS	654		2.7.1.113	COG1428	Deoxyguanosine kinase
+EFEADKAH_01664	CDS	906				hypothetical protein
+EFEADKAH_01665	CDS	633				hypothetical protein
+EFEADKAH_01666	CDS	525	infC			Translation initiation factor IF-3
+EFEADKAH_01667	CDS	201	rpmI		COG0291	50S ribosomal protein L35
+EFEADKAH_01668	CDS	360	rplT		COG0292	50S ribosomal protein L20
+EFEADKAH_01669	CDS	1338				hypothetical protein
+EFEADKAH_01670	CDS	2130				hypothetical protein
+EFEADKAH_01671	CDS	690				hypothetical protein
+EFEADKAH_01672	CDS	687	rspR_2		COG1802	HTH-type transcriptional repressor RspR
+EFEADKAH_01673	CDS	168				hypothetical protein
+EFEADKAH_01674	CDS	441		3.1.2.28		1,4-dihydroxy-2-naphthoyl-CoA hydrolase
+EFEADKAH_01675	CDS	846	nnrD	4.2.1.136	COG0063	ADP-dependent (S)-NAD(P)H-hydrate dehydratase
+EFEADKAH_01676	CDS	1419	pepV	3.4.13.-		Beta-Ala-Xaa dipeptidase
+EFEADKAH_01677	CDS	291				hypothetical protein
+EFEADKAH_01678	CDS	318		1.2.1.97		3-sulfolactaldehyde dehydrogenase
+EFEADKAH_01679	CDS	957				hypothetical protein
+EFEADKAH_01680	CDS	354				hypothetical protein
+EFEADKAH_01681	CDS	1080	pepA	3.4.11.7	COG1363	Glutamyl aminopeptidase
+EFEADKAH_01682	CDS	321	ytpP			Thioredoxin-like protein YtpP
+EFEADKAH_01683	CDS	468				Putative universal stress protein
+EFEADKAH_01684	CDS	606				hypothetical protein
+EFEADKAH_01685	CDS	1284	htrA	3.4.21.107	COG0265	Serine protease Do-like HtrA
+EFEADKAH_01686	CDS	480	rlmH	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+EFEADKAH_01687	CDS	837				IS3 family transposase IS1485
+EFEADKAH_01688	CDS	291				IS3 family transposase IS1485
+EFEADKAH_01689	CDS	1131				hypothetical protein
+EFEADKAH_01690	CDS	909				IS982 family transposase ISEfm1
+EFEADKAH_01691	CDS	855	rhaR_5			HTH-type transcriptional activator RhaR
+EFEADKAH_01692	CDS	2250	agaA_2	3.2.1.22		Alpha-galactosidase AgaA
+EFEADKAH_01693	CDS	1173				hypothetical protein
+EFEADKAH_01694	CDS	1320				IS1380 family transposase IS1678
+EFEADKAH_01695	CDS	360				IS256 family transposase ISEf1
+EFEADKAH_01696	CDS	840				IS256 family transposase ISEf1
+EFEADKAH_01697	CDS	309				hypothetical protein
+EFEADKAH_01698	CDS	300				hypothetical protein
+EFEADKAH_01699	CDS	552				hypothetical protein
+EFEADKAH_01700	CDS	1320				IS1380 family transposase IS1678
+EFEADKAH_01701	CDS	294				hypothetical protein
+EFEADKAH_01702	CDS	297				hypothetical protein
+EFEADKAH_01703	CDS	210				hypothetical protein
+EFEADKAH_01704	CDS	663				hypothetical protein
+EFEADKAH_01705	CDS	903				hypothetical protein
+EFEADKAH_01706	CDS	1395				hypothetical protein
+EFEADKAH_01707	CDS	201				hypothetical protein
+EFEADKAH_01708	CDS	240				hypothetical protein
+EFEADKAH_01709	CDS	1374				hypothetical protein
+EFEADKAH_01710	CDS	1638				hypothetical protein
+EFEADKAH_01711	CDS	1089				hypothetical protein
+EFEADKAH_01712	CDS	954			COG2826	IS30 family transposase IS1252
+EFEADKAH_01713	CDS	258				hypothetical protein
+EFEADKAH_01714	CDS	405				hypothetical protein
+EFEADKAH_01715	CDS	2658	norR_1			Anaerobic nitric oxide reductase transcription regulator NorR
+EFEADKAH_01716	CDS	477	sorB_2	2.7.1.206	COG3444	PTS system sorbose-specific EIIB component
+EFEADKAH_01717	CDS	789	agaC_1		COG3715	N-acetylgalactosamine permease IIC component 1
+EFEADKAH_01718	CDS	798	manZ_2		COG3716	PTS system mannose-specific EIID component
+EFEADKAH_01719	CDS	396				hypothetical protein
+EFEADKAH_01720	CDS	1122				hypothetical protein
+EFEADKAH_01721	CDS	870	gmuE_2	2.7.1.4	COG1940	Putative fructokinase
+EFEADKAH_01722	CDS	162				hypothetical protein
+EFEADKAH_01723	CDS	954			COG2826	IS30 family transposase IS1252
+EFEADKAH_01724	CDS	513				IS630 family transposase ISBs2
+EFEADKAH_01725	CDS	393				IS630 family transposase IS642
+EFEADKAH_01726	CDS	1002				hypothetical protein
+EFEADKAH_01727	CDS	1242	sstT		COG3633	Serine/threonine transporter SstT
+EFEADKAH_01728	CDS	636				hypothetical protein
+EFEADKAH_01729	CDS	1635	manR_2		COG1762	Transcriptional regulator ManR
+EFEADKAH_01730	CDS	432				hypothetical protein
+EFEADKAH_01731	CDS	249				hypothetical protein
+EFEADKAH_01732	CDS	954			COG2826	IS30 family transposase IS1252
+EFEADKAH_01733	CDS	453				hypothetical protein
+EFEADKAH_01734	CDS	522	paiA	2.3.1.57	COG0454	Spermidine/spermine N(1)-acetyltransferase
+EFEADKAH_01735	CDS	711				hypothetical protein
+EFEADKAH_01736	CDS	369				hypothetical protein
+EFEADKAH_01737	CDS	225				hypothetical protein
+EFEADKAH_01738	CDS	1554				hypothetical protein
+EFEADKAH_01739	CDS	1314	pbuG		COG2252	Guanine/hypoxanthine permease PbuG
+EFEADKAH_01740	CDS	1638	malL_2	3.2.1.10	COG0366	Oligo-1,6-glucosidase
+EFEADKAH_01741	CDS	495				hypothetical protein
+EFEADKAH_01742	CDS	1092		1.-.-.-		putative oxidoreductase
+EFEADKAH_01743	CDS	678	hchA	3.1.2.-	COG0693	Protein/nucleic acid deglycase 1
+EFEADKAH_01744	CDS	1296	npr_1	1.11.1.1	COG0446	NADH peroxidase
+EFEADKAH_01745	CDS	1461				hypothetical protein
+EFEADKAH_01746	CDS	1497	glpK	2.7.1.30	COG0554	Glycerol kinase
+EFEADKAH_01747	CDS	1824	glpO	1.1.3.21	COG0578	Alpha-glycerophosphate oxidase
+EFEADKAH_01748	CDS	717	glpF		COG0580	Glycerol uptake facilitator protein
+EFEADKAH_01749	CDS	1929	mutS2_1	3.1.-.-		Endonuclease MutS2
+EFEADKAH_01750	CDS	555	pgsA2	2.7.8.41	COG0558	Putative cardiolipin synthase
+EFEADKAH_01751	CDS	315				hypothetical protein
+EFEADKAH_01752	CDS	261				hypothetical protein
+EFEADKAH_01753	CDS	315	glpE	2.8.1.1		Thiosulfate sulfurtransferase GlpE
+EFEADKAH_01754	CDS	1656	cdr_1	1.8.1.14		Coenzyme A disulfide reductase
+EFEADKAH_01755	CDS	1851	helD_2	3.6.4.12	COG3973	DNA helicase IV
+EFEADKAH_01756	CDS	288				hypothetical protein
+EFEADKAH_01757	CDS	348				hypothetical protein
+EFEADKAH_01758	CDS	1305	pgaC	2.4.1.-	COG1215	Poly-beta-1,6-N-acetyl-D-glucosamine synthase
+EFEADKAH_01759	CDS	858				hypothetical protein
+EFEADKAH_01760	CDS	321				hypothetical protein
+EFEADKAH_01761	CDS	396	dhaM-2	2.7.1.121	COG3412	PEP-dependent dihydroxyacetone kinase 2, phosphoryl donor subunit DhaM
+EFEADKAH_01762	CDS	1011	dhaK	2.7.1.121	COG2376	PTS-dependent dihydroxyacetone kinase, dihydroxyacetone-binding subunit DhaK
+EFEADKAH_01763	CDS	606	dhaL	2.7.1.121	COG2376	PTS-dependent dihydroxyacetone kinase, ADP-binding subunit DhaL
+EFEADKAH_01764	CDS	666				hypothetical protein
+EFEADKAH_01765	CDS	660	anr			Transcriptional activator protein Anr
+EFEADKAH_01766	CDS	1611			COG3559	Multidrug efflux system permease protein
+EFEADKAH_01767	CDS	621		7.6.2.-	COG1131	Multidrug efflux system ATP-binding protein
+EFEADKAH_01768	CDS	954			COG2826	IS30 family transposase IS1252
+EFEADKAH_01769	CDS	249	artM_3		COG1126	Arginine transport ATP-binding protein ArtM
+EFEADKAH_01770	CDS	600				hypothetical protein
+EFEADKAH_01771	CDS	1302				hypothetical protein
+EFEADKAH_01772	CDS	1257	tyrS1	6.1.1.1	COG0162	Tyrosine--tRNA ligase 1
+EFEADKAH_01773	CDS	1878				hypothetical protein
+EFEADKAH_01774	CDS	1422	gadC_2		COG0531	putative glutamate/gamma-aminobutyrate antiporter
+EFEADKAH_01775	CDS	816	nhaC_1		COG1757	Na(+)/H(+) antiporter NhaC
+EFEADKAH_01776	CDS	516	nhaC_2		COG1757	Na(+)/H(+) antiporter NhaC
+EFEADKAH_01777	CDS	1020	ccpA_1		COG1609	Catabolite control protein A
+EFEADKAH_01778	CDS	1008	mro_1	5.1.3.3	COG2017	Aldose 1-epimerase
+EFEADKAH_01779	CDS	666	pgmB	5.4.2.6	COG0637	Beta-phosphoglucomutase
+EFEADKAH_01780	CDS	2295	malP	2.4.1.8		Maltose phosphorylase
+EFEADKAH_01781	CDS	2166	ptsG_3	2.7.1.199	COG1263	PTS system glucose-specific EIICBA component
+EFEADKAH_01782	CDS	834	mapP	3.1.3.90		Maltose 6'-phosphate phosphatase
+EFEADKAH_01783	CDS	1662				hypothetical protein
+EFEADKAH_01784	CDS	1320				IS1380 family transposase IS1678
+EFEADKAH_01785	CDS	969				hypothetical protein
+EFEADKAH_01786	CDS	444	yiaC	2.3.1.-	COG0454	Peptidyl-lysine N-acetyltransferase YiaC
+EFEADKAH_01787	CDS	531	padC	4.1.1.102	COG3479	Phenolic acid decarboxylase PadC
+EFEADKAH_01788	CDS	552				hypothetical protein
+EFEADKAH_01789	CDS	474				hypothetical protein
+EFEADKAH_01790	CDS	1473	emrB			Multidrug export protein EmrB
+EFEADKAH_01791	CDS	666				hypothetical protein
+EFEADKAH_01792	CDS	285				hypothetical protein
+EFEADKAH_01793	CDS	420				hypothetical protein
+EFEADKAH_01794	CDS	585	vdcB	2.5.1.129		putative UbiX-like flavin prenyltransferase
+EFEADKAH_01795	CDS	1476	lpdC	4.1.1.59	COG0043	Gallate decarboxylase
+EFEADKAH_01796	CDS	312				hypothetical protein
+EFEADKAH_01797	CDS	2337	btuD_4	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+EFEADKAH_01798	CDS	669	hssR			Heme response regulator HssR
+EFEADKAH_01799	CDS	1044	sasA_3	2.7.-.-		Adaptive-response sensory-kinase SasA
+EFEADKAH_01800	CDS	882	gltC_2			HTH-type transcriptional regulator GltC
+EFEADKAH_01801	CDS	729	ydfK		COG1811	putative membrane protein YdfK
+EFEADKAH_01802	CDS	318				hypothetical protein
+EFEADKAH_01803	CDS	609				hypothetical protein
+EFEADKAH_01804	CDS	831				hypothetical protein
+EFEADKAH_01805	CDS	489				hypothetical protein
+EFEADKAH_01806	CDS	873				hypothetical protein
+EFEADKAH_01807	CDS	363				hypothetical protein
+EFEADKAH_01808	CDS	753	bceA_1		COG1136	Bacitracin export ATP-binding protein BceA
+EFEADKAH_01809	CDS	1803	bceB_1		COG0577	Bacitracin export permease protein BceB
+EFEADKAH_01810	CDS	1041	mro_2	5.1.3.3	COG2017	Aldose 1-epimerase
+EFEADKAH_01811	CDS	2145				hypothetical protein
+EFEADKAH_01812	CDS	1374	bglF_1		COG1263	PTS system beta-glucoside-specific EIIBCA component
+EFEADKAH_01813	CDS	396	rbsD	5.4.99.62	COG1869	D-ribose pyranase
+EFEADKAH_01814	CDS	918	rbsK	2.7.1.15		Ribokinase
+EFEADKAH_01815	CDS	1014	degA_2		COG1609	HTH-type transcriptional regulator DegA
+EFEADKAH_01816	CDS	600	yecD	3.-.-.-	COG1335	Isochorismatase family protein YecD
+EFEADKAH_01817	CDS	702			COG1136	putative ABC transporter ATP-binding protein
+EFEADKAH_01818	CDS	2712				hypothetical protein
+EFEADKAH_01819	CDS	1629	treA	3.2.1.93	COG0366	Trehalose-6-phosphate hydrolase
+EFEADKAH_01820	CDS	1182				hypothetical protein
+EFEADKAH_01821	CDS	1530				hypothetical protein
+EFEADKAH_01822	CDS	729	agrA		COG3279	Accessory gene regulator protein A
+EFEADKAH_01823	CDS	1281				hypothetical protein
+EFEADKAH_01824	CDS	111				hypothetical protein
+EFEADKAH_01825	CDS	603	agrB	3.4.-.-	COG4512	Accessory gene regulator protein B
+EFEADKAH_01826	CDS	207				hypothetical protein
+EFEADKAH_01827	CDS	708		2.7.1.113	COG1428	Deoxyguanosine kinase
+EFEADKAH_01828	CDS	684				hypothetical protein
+EFEADKAH_01829	CDS	2187	yjcD	3.6.4.12	COG0210	Putative ATP-dependent DNA helicase YjcD
+EFEADKAH_01830	CDS	411	spxA_4		COG1393	Regulatory protein Spx
+EFEADKAH_01831	CDS	357	spxA_5		COG1393	Regulatory protein Spx
+EFEADKAH_01832	rRNA	1557				16S ribosomal RNA
+EFEADKAH_01833	rRNA	2911				23S ribosomal RNA
+EFEADKAH_01834	rRNA	111				5S ribosomal RNA
+EFEADKAH_01835	CDS	471	bsaA			Glutathione peroxidase BsaA
+EFEADKAH_01836	CDS	459	luxS	4.4.1.21	COG1854	S-ribosylhomocysteine lyase
+EFEADKAH_01837	CDS	1146	metB	2.5.1.48	COG0626	Cystathionine gamma-synthase
+EFEADKAH_01838	CDS	918	cysM	2.5.1.47	COG0031	Cysteine synthase
+EFEADKAH_01839	CDS	564	efp			Elongation factor P
+EFEADKAH_01840	CDS	1260	lysA	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+EFEADKAH_01841	CDS	801	dapF	5.1.1.7	COG0253	Diaminopimelate epimerase
+EFEADKAH_01842	CDS	882	dapA	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+EFEADKAH_01843	CDS	717	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+EFEADKAH_01844	CDS	696	dapH_2	2.3.1.89	COG2171	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+EFEADKAH_01845	CDS	1002	asd	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+EFEADKAH_01846	CDS	1362	yclM	2.7.2.4	COG0527	Aspartokinase 3
+EFEADKAH_01847	CDS	1152	scmP	3.5.1.-	COG1473	N-acetylcysteine deacetylase
+EFEADKAH_01848	CDS	1170	dapX	2.6.1.-	COG0436	putative N-acetyl-LL-diaminopimelate aminotransferase
+EFEADKAH_01849	CDS	1380	npr_2	1.11.1.1	COG0446	NADH peroxidase
+EFEADKAH_01850	CDS	153				hypothetical protein
+EFEADKAH_01851	CDS	702				IS3 family transposase ISEfa10
+EFEADKAH_01852	CDS	669				hypothetical protein
+EFEADKAH_01853	CDS	321				hypothetical protein
+EFEADKAH_01854	CDS	1383	umuC_1		COG0389	Protein UmuC
+EFEADKAH_01855	CDS	1188	galK_2	2.7.1.6	COG0153	Galactokinase
+EFEADKAH_01856	CDS	1032	galM	5.1.3.3	COG2017	Aldose 1-epimerase
+EFEADKAH_01857	CDS	1467	lacS		COG2190	Lactose permease
+EFEADKAH_01858	CDS	906	rhaS_2			HTH-type transcriptional activator RhaS
+EFEADKAH_01859	CDS	678	kefG	1.6.5.2		Glutathione-regulated potassium-efflux system ancillary protein KefG
+EFEADKAH_01860	CDS	171				hypothetical protein
+EFEADKAH_01861	CDS	897				hypothetical protein
+EFEADKAH_01862	CDS	1371	yifK		COG1113	putative transport protein YifK
+EFEADKAH_01863	CDS	747	scaC_2	7.2.2.5	COG1121	Manganese import ATP-binding protein ScaC
+EFEADKAH_01864	CDS	840	mntB			Manganese transport system membrane protein MntB
+EFEADKAH_01865	CDS	951	ssaB_2		COG0803	Manganese ABC transporter substrate-binding lipoprotein
+EFEADKAH_01866	CDS	753				hypothetical protein
+EFEADKAH_01867	CDS	1152	queG	1.17.99.6	COG1600	Epoxyqueuosine reductase
+EFEADKAH_01868	CDS	609				hypothetical protein
+EFEADKAH_01869	CDS	1638	pckA	4.1.1.49		Phosphoenolpyruvate carboxykinase (ATP)
+EFEADKAH_01870	CDS	1113	thiO	1.4.3.19	COG0665	Glycine oxidase
+EFEADKAH_01871	CDS	1374	ribZ_2			Riboflavin transporter RibZ
+EFEADKAH_01872	CDS	618				hypothetical protein
+EFEADKAH_01873	CDS	456	argR_2			Arginine repressor
+EFEADKAH_01874	CDS	1503	algC	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+EFEADKAH_01875	CDS	207				hypothetical protein
+EFEADKAH_01876	CDS	402	ohrB_1		COG1764	Organic hydroperoxide resistance protein OhrB
+EFEADKAH_01877	CDS	1332	rclA		COG1249	putative pyridine nucleotide-disulfide oxidoreductase RclA
+EFEADKAH_01878	CDS	627				hypothetical protein
+EFEADKAH_01879	CDS	582	acuR			Transcriptional regulator AcuR
+EFEADKAH_01880	CDS	348				hypothetical protein
+EFEADKAH_01881	CDS	216				hypothetical protein
+EFEADKAH_01882	CDS	339				hypothetical protein
+EFEADKAH_01883	CDS	231				hypothetical protein
+EFEADKAH_01884	CDS	342	mazF	3.1.27.-	COG2337	Endoribonuclease toxin MazF
+EFEADKAH_01885	CDS	186				hypothetical protein
+EFEADKAH_01886	CDS	195				hypothetical protein
+EFEADKAH_01887	CDS	831	ydbD	1.11.1.6	COG3546	putative manganese catalase
+EFEADKAH_01888	CDS	1335	araN_1		COG1653	putative arabinose-binding protein
+EFEADKAH_01889	CDS	912	lacF_4			Lactose transport system permease protein LacF
+EFEADKAH_01890	CDS	855	araQ_4		COG0395	L-arabinose transport system permease protein AraQ
+EFEADKAH_01891	CDS	618				hypothetical protein
+EFEADKAH_01892	CDS	519				hypothetical protein
+EFEADKAH_01893	CDS	459				hypothetical protein
+EFEADKAH_01894	CDS	4038				hypothetical protein
+EFEADKAH_01895	CDS	777				hypothetical protein
+EFEADKAH_01896	CDS	534				hypothetical protein
+EFEADKAH_01897	CDS	1698				hypothetical protein
+EFEADKAH_01898	CDS	894				hypothetical protein
+EFEADKAH_01899	CDS	675	graR		COG0745	Response regulator protein GraR
+EFEADKAH_01900	CDS	1026	graS	2.7.13.3	COG0642	Sensor histidine kinase GraS
+EFEADKAH_01901	CDS	867	glcU_2		COG4975	putative glucose uptake protein GlcU
+EFEADKAH_01902	CDS	1377	yhdG		COG0531	putative amino acid permease YhdG
+EFEADKAH_01903	CDS	1197				TelA-like protein
+EFEADKAH_01904	CDS	663				hypothetical protein
+EFEADKAH_01905	CDS	564	act	3.-.-.-		Methanol dehydrogenase activator
+EFEADKAH_01906	CDS	285				hypothetical protein
+EFEADKAH_01907	CDS	693	mtnN	3.2.2.9	COG0775	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+EFEADKAH_01908	CDS	546				hypothetical protein
+EFEADKAH_01909	CDS	3279				hypothetical protein
+EFEADKAH_01910	CDS	1908	pepO	3.4.24.-	COG3590	Neutral endopeptidase
+EFEADKAH_01911	CDS	876				hypothetical protein
+EFEADKAH_01912	CDS	975	prs2	2.7.6.1		Putative ribose-phosphate pyrophosphokinase 2
+EFEADKAH_01913	CDS	1137	iscS_1	2.8.1.7		Cysteine desulfurase IscS
+EFEADKAH_01914	CDS	345				hypothetical protein
+EFEADKAH_01915	CDS	1287				hypothetical protein
+EFEADKAH_01916	CDS	600				hypothetical protein
+EFEADKAH_01917	CDS	1122	mnmA	2.8.1.13	COG0482	tRNA-specific 2-thiouridylase MnmA
+EFEADKAH_01918	CDS	1422	arcD1_1		COG0531	Arginine/ornithine antiporter ArcD1
+EFEADKAH_01919	CDS	1119	vioD	4.2.1.145		Capreomycidine synthase
+EFEADKAH_01920	CDS	1293	sbnD_2			Staphyloferrin B transporter
+EFEADKAH_01921	CDS	561				hypothetical protein
+EFEADKAH_01922	CDS	378				hypothetical protein
+EFEADKAH_01923	CDS	1971	topB_2	5.6.2.1	COG0550	DNA topoisomerase 3
+EFEADKAH_01924	CDS	948	yfdH	2.4.1.-	COG0463	Prophage bactoprenol glucosyl transferase 
+EFEADKAH_01925	CDS	465	ogt	2.1.1.63	COG0350	Methylated-DNA--protein-cysteine methyltransferase, constitutive
+EFEADKAH_01926	CDS	1044				hypothetical protein
+EFEADKAH_01927	CDS	966				hypothetical protein
+EFEADKAH_01928	CDS	846	cysL		COG0583	HTH-type transcriptional regulator CysL
+EFEADKAH_01929	CDS	1188	rodA	2.4.1.129	COG0772	Peptidoglycan glycosyltransferase RodA
+EFEADKAH_01930	CDS	357	mgsR		COG1393	Regulatory protein MgsR
+EFEADKAH_01931	CDS	339	gcvH		COG0509	Glycine cleavage system H protein
+EFEADKAH_01932	CDS	1044	metN2	3.6.3.-	COG1135	Methionine import ATP-binding protein MetN 2
+EFEADKAH_01933	CDS	687	metP_1		COG2011	Methionine import system permease protein MetP
+EFEADKAH_01934	CDS	849	metQ_1		COG1464	Methionine-binding lipoprotein MetQ
+EFEADKAH_01935	CDS	774				putative ABC transporter ATP-binding protein
+EFEADKAH_01936	CDS	1287				hypothetical protein
+EFEADKAH_01937	CDS	1236	sufS	2.8.1.7	COG0520	Cysteine desulfurase SufS
+EFEADKAH_01938	CDS	471	iscU		COG0822	Iron-sulfur cluster assembly scaffold protein IscU
+EFEADKAH_01939	CDS	1392				hypothetical protein
+EFEADKAH_01940	CDS	1143	xerC_7			Tyrosine recombinase XerC
+EFEADKAH_01941	CDS	735				hypothetical protein
+EFEADKAH_01942	CDS	276				hypothetical protein
+EFEADKAH_01943	CDS	1998				hypothetical protein
+EFEADKAH_01944	CDS	336				hypothetical protein
+EFEADKAH_01945	CDS	216				hypothetical protein
+EFEADKAH_01946	CDS	366				hypothetical protein
+EFEADKAH_01947	CDS	327				hypothetical protein
+EFEADKAH_01948	CDS	726				hypothetical protein
+EFEADKAH_01949	CDS	1593				hypothetical protein
+EFEADKAH_01950	CDS	1245				hypothetical protein
+EFEADKAH_01951	CDS	3150				hypothetical protein
+EFEADKAH_01952	CDS	1446				IS1182 family transposase ISEfa7
+EFEADKAH_01953	CDS	666				hypothetical protein
+EFEADKAH_01954	CDS	2037				hypothetical protein
+EFEADKAH_01955	CDS	639	yknY	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+EFEADKAH_01956	CDS	429				hypothetical protein
+EFEADKAH_01957	CDS	912	prsA_3	5.2.1.8		Foldase protein PrsA
+EFEADKAH_01958	CDS	438				hypothetical protein
+EFEADKAH_01959	CDS	885		2.7.1.-	COG1597	Putative lipid kinase
+EFEADKAH_01960	CDS	3168				hypothetical protein
+EFEADKAH_01961	CDS	546				hypothetical protein
+EFEADKAH_01962	CDS	456				hypothetical protein
+EFEADKAH_01963	CDS	759				hypothetical protein
+EFEADKAH_01964	CDS	741				hypothetical protein
+EFEADKAH_01965	CDS	1254				hypothetical protein
+EFEADKAH_01966	CDS	228				hypothetical protein
+EFEADKAH_01967	CDS	327				hypothetical protein
+EFEADKAH_01968	CDS	714	strA	3.4.22.-	COG3764	Sortase A
+EFEADKAH_01969	CDS	852	licT_2		COG3711	Transcription antiterminator LicT
+EFEADKAH_01970	CDS	150				hypothetical protein
+EFEADKAH_01971	CDS	1866	bglF_2		COG1263	PTS system beta-glucoside-specific EIIBCA component
+EFEADKAH_01972	CDS	1371	bglH_1	3.2.1.86	COG2723	Aryl-phospho-beta-D-glucosidase BglH
+EFEADKAH_01973	CDS	702				hypothetical protein
+EFEADKAH_01974	CDS	489	fruA_2		COG1299	PTS system fructose-specific EIIB'BC component
+EFEADKAH_01975	CDS	111				hypothetical protein
+EFEADKAH_01976	CDS	576	yvdD		COG1611	LOG family protein YvdD
+EFEADKAH_01977	CDS	441				hypothetical protein
+EFEADKAH_01978	CDS	702		2.7.1.113	COG1428	Deoxyguanosine kinase
+EFEADKAH_01979	CDS	174				hypothetical protein
+EFEADKAH_01980	CDS	426				hypothetical protein
+EFEADKAH_01981	CDS	972	rbsR		COG1609	Ribose operon repressor
+EFEADKAH_01982	CDS	1398	gmuD_2	3.2.1.86	COG2723	6-phospho-beta-glucosidase GmuD
+EFEADKAH_01983	CDS	624				hypothetical protein
+EFEADKAH_01984	CDS	2094	ltaS1_2		COG1368	Lipoteichoic acid synthase 1
+EFEADKAH_01985	CDS	867				hypothetical protein
+EFEADKAH_01986	CDS	438	ndk	2.7.4.6	COG0105	Nucleoside diphosphate kinase
+EFEADKAH_01987	CDS	2649	mgtA	7.2.2.14	COG0474	Magnesium-transporting ATPase, P-type 1
+EFEADKAH_01988	CDS	672		3.1.3.-	COG0637	Phosphorylated carbohydrates phosphatase
+EFEADKAH_01989	CDS	600				hypothetical protein
+EFEADKAH_01990	CDS	1074	metN	3.6.3.-	COG1135	Methionine import ATP-binding protein MetN
+EFEADKAH_01991	CDS	681	metP_2		COG2011	Methionine import system permease protein MetP
+EFEADKAH_01992	CDS	840	metQ_2		COG1464	D-methionine-binding lipoprotein MetQ
+EFEADKAH_01993	CDS	1224	abgB	3.5.1.-	COG1473	p-aminobenzoyl-glutamate hydrolase subunit B
+EFEADKAH_01994	CDS	1419	nhaC_3		COG1757	Na(+)/H(+) antiporter NhaC
+EFEADKAH_01995	CDS	444				hypothetical protein
+EFEADKAH_01996	CDS	1341	yvbW		COG1113	putative amino acid permease YvbW
+EFEADKAH_01997	CDS	897				hypothetical protein
+EFEADKAH_01998	CDS	942	panE	1.1.1.169	COG1893	2-dehydropantoate 2-reductase
+EFEADKAH_01999	CDS	1122	garK	2.7.1.165	COG1929	Glycerate 2-kinase
+EFEADKAH_02000	CDS	1503	eat(A)			ABC-F type ribosomal protection protein Eat(A)
+EFEADKAH_02001	CDS	528	pspB	3.1.3.3	COG0406	Putative phosphoserine phosphatase 2
+EFEADKAH_02002	CDS	1062				hypothetical protein
+EFEADKAH_02003	CDS	897	murQ	4.2.1.126	COG2103	N-acetylmuramic acid 6-phosphate etherase
+EFEADKAH_02004	CDS	1983				hypothetical protein
+EFEADKAH_02005	CDS	447			COG1780	Putative NrdI-like protein
+EFEADKAH_02006	CDS	1425	arcD1_2		COG0531	Arginine/ornithine antiporter ArcD1
+EFEADKAH_02007	CDS	774				hypothetical protein
+EFEADKAH_02008	CDS	906	bcrA_2			Bacitracin transport ATP-binding protein BcrA
+EFEADKAH_02009	CDS	321	gdx		COG2076	Guanidinium exporter
+EFEADKAH_02010	CDS	687				hypothetical protein
+EFEADKAH_02011	CDS	945				hypothetical protein
+EFEADKAH_02012	CDS	645	pcp	3.4.19.3		Pyrrolidone-carboxylate peptidase
+EFEADKAH_02013	CDS	1278				hypothetical protein
+EFEADKAH_02014	CDS	750	pnuC		COG3201	Nicotinamide riboside transporter PnuC
+EFEADKAH_02015	CDS	381				hypothetical protein
+EFEADKAH_02016	CDS	510				hypothetical protein
+EFEADKAH_02017	CDS	180				hypothetical protein
+EFEADKAH_02018	CDS	564				hypothetical protein
+EFEADKAH_02019	CDS	516				hypothetical protein
+EFEADKAH_02020	CDS	870	ywpJ_2	3.1.3.-	COG0561	Phosphatase YwpJ
+EFEADKAH_02021	CDS	681	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+EFEADKAH_02022	CDS	981	pta	2.3.1.8	COG0280	Phosphate acetyltransferase
+EFEADKAH_02023	CDS	474	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+EFEADKAH_02024	CDS	525				hypothetical protein
+EFEADKAH_02025	CDS	534	polC_2	2.7.7.7	COG2176	DNA polymerase III PolC-type
+EFEADKAH_02026	CDS	753	exoA	3.1.11.2	COG0708	Exodeoxyribonuclease
+EFEADKAH_02027	CDS	921	yceM	1.-.-.-	COG0673	Putative oxidoreductase YceM
+EFEADKAH_02028	CDS	936	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+EFEADKAH_02029	CDS	1479				hypothetical protein
+EFEADKAH_02030	CDS	2061				hypothetical protein
+EFEADKAH_02031	CDS	570				hypothetical protein
+EFEADKAH_02032	CDS	807				hypothetical protein
+EFEADKAH_02033	CDS	1515		1.3.5.4	COG1053	Fumarate reductase flavoprotein subunit
+EFEADKAH_02034	CDS	984		1.3.1.103		2-haloacrylate reductase
+EFEADKAH_02035	CDS	648	yhfK	4.-.-.-	COG0702	putative sugar epimerase YhfK
+EFEADKAH_02036	CDS	633	panT_2		COG4684	Pantothenic acid transporter PanT
+EFEADKAH_02037	CDS	552	coaBC_1		COG0452	Coenzyme A biosynthesis bifunctional protein CoaBC
+EFEADKAH_02038	CDS	738	coaBC_2	6.3.2.5		Coenzyme A biosynthesis bifunctional protein CoaBC
+EFEADKAH_02039	CDS	990	acuI	1.3.1.84	COG0604	putative acrylyl-CoA reductase AcuI
+EFEADKAH_02040	CDS	543				hypothetical protein
+EFEADKAH_02041	CDS	1086	potA	7.6.2.11		Spermidine/putrescine import ATP-binding protein PotA
+EFEADKAH_02042	CDS	807	potB		COG1176	Spermidine/putrescine transport system permease protein PotB
+EFEADKAH_02043	CDS	828	ydcV			Inner membrane ABC transporter permease protein YdcV
+EFEADKAH_02044	CDS	1074	potD		COG0687	Spermidine/putrescine-binding periplasmic protein
+EFEADKAH_02045	CDS	2619	dgaR_1			Transcriptional regulatory protein DagR
+EFEADKAH_02046	CDS	423				hypothetical protein
+EFEADKAH_02047	CDS	495		2.7.1.-		putative phosphotransferase enzyme IIB component
+EFEADKAH_02048	CDS	810				hypothetical protein
+EFEADKAH_02049	CDS	822	manZ_3		COG3716	PTS system mannose-specific EIID component
+EFEADKAH_02050	CDS	2100				hypothetical protein
+EFEADKAH_02051	CDS	1119				hypothetical protein
+EFEADKAH_02052	CDS	879	gmuE_3	2.7.1.4	COG1940	Putative fructokinase
+EFEADKAH_02053	CDS	813				hypothetical protein
+EFEADKAH_02054	CDS	108				hypothetical protein
+EFEADKAH_02055	CDS	1068				hypothetical protein
+EFEADKAH_02056	CDS	204				hypothetical protein
+EFEADKAH_02057	CDS	1203	xerC_8			Tyrosine recombinase XerC
+EFEADKAH_02058	CDS	1131	metE	2.1.1.14	COG0620	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+EFEADKAH_02059	CDS	954			COG2826	IS30 family transposase IS1252
+EFEADKAH_02060	CDS	393	glnR		COG0789	HTH-type transcriptional regulator GlnR
+EFEADKAH_02061	CDS	1341	glnA	6.3.1.2		Glutamine synthetase
+EFEADKAH_02062	CDS	246				hypothetical protein
+EFEADKAH_02063	CDS	1611	pyrG	6.3.4.2	COG0504	CTP synthase
+EFEADKAH_02064	CDS	870	fba	4.1.2.13	COG0191	Fructose-bisphosphate aldolase
+EFEADKAH_02065	CDS	1272	murA1_1	2.5.1.7		UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+EFEADKAH_02066	CDS	1296	rho	3.6.4.-	COG1158	Transcription termination factor Rho
+EFEADKAH_02067	CDS	264	rpmE2		COG0254	50S ribosomal protein L31 type B
+EFEADKAH_02068	CDS	450	fruA_3		COG1299	PTS system fructose-specific EIIABC component
+EFEADKAH_02069	CDS	1419	fruA_4		COG1299	PTS system fructose-specific EIIABC component
+EFEADKAH_02070	CDS	861	kbaY	4.1.2.40	COG0191	D-tagatose-1,6-bisphosphate aldolase subunit KbaY
+EFEADKAH_02071	CDS	738	ydjF		COG1349	putative HTH-type transcriptional regulator YdjF
+EFEADKAH_02072	CDS	366				hypothetical protein
+EFEADKAH_02073	CDS	1209	yfcJ			putative MFS-type transporter YfcJ
+EFEADKAH_02074	CDS	279				hypothetical protein
+EFEADKAH_02075	CDS	696	larR		COG0664	Lactate racemization regulatory protein
+EFEADKAH_02076	CDS	798				hypothetical protein
+EFEADKAH_02077	CDS	1185				hypothetical protein
+EFEADKAH_02078	CDS	1248				hypothetical protein
+EFEADKAH_02079	CDS	1746				hypothetical protein
+EFEADKAH_02080	CDS	315			COG0718	Nucleoid-associated protein
+EFEADKAH_02081	CDS	597	recR		COG0353	Recombination protein RecR
+EFEADKAH_02082	CDS	645	tmk	2.7.4.9	COG0125	Thymidylate kinase
+EFEADKAH_02083	CDS	330	darA		COG3870	Cyclic di-AMP receptor A
+EFEADKAH_02084	CDS	939				hypothetical protein
+EFEADKAH_02085	CDS	825				hypothetical protein
+EFEADKAH_02086	CDS	348	yabA		COG4467	Initiation-control protein YabA
+EFEADKAH_02087	CDS	873	rsmI	2.1.1.198		Ribosomal RNA small subunit methyltransferase I
+EFEADKAH_02088	CDS	1122	dinB	2.7.7.7	COG0389	DNA polymerase IV
+EFEADKAH_02089	CDS	603				hypothetical protein
+EFEADKAH_02090	CDS	2190	nrdD	1.1.98.6	COG1328	Anaerobic ribonucleoside-triphosphate reductase
+EFEADKAH_02091	CDS	768	bceA_2		COG1136	Bacitracin export ATP-binding protein BceA
+EFEADKAH_02092	CDS	2043	bceB_2		COG0577	Bacitracin export permease protein BceB
+EFEADKAH_02093	CDS	1074	dltA	6.2.1.54	COG1020	D-alanine--D-alanyl carrier protein ligase
+EFEADKAH_02094	CDS	1206				hypothetical protein
+EFEADKAH_02095	CDS	234	dltC		COG0236	D-alanyl carrier protein
+EFEADKAH_02096	CDS	921	dltD		COG3966	Protein DltD
+EFEADKAH_02097	CDS	267				hypothetical protein
+EFEADKAH_02098	CDS	1083	ysdC	3.4.11.-	COG1363	Putative aminopeptidase YsdC
+EFEADKAH_02099	CDS	804				hypothetical protein
+EFEADKAH_02100	CDS	741			COG1234	putative protein
+EFEADKAH_02101	CDS	1005	lplJ	6.3.1.20	COG0095	Lipoate-protein ligase LplJ
+EFEADKAH_02102	CDS	1845				hypothetical protein
+EFEADKAH_02103	CDS	390				hypothetical protein
+EFEADKAH_02104	CDS	684	trmR	2.1.1.-	COG4122	tRNA 5-hydroxyuridine methyltransferase
+EFEADKAH_02105	tRNA	75				tRNA-Arg(tct)
+EFEADKAH_02106	CDS	360				hypothetical protein
+EFEADKAH_02107	CDS	1632	dauA		COG0659	C4-dicarboxylic acid transporter DauA
+EFEADKAH_02108	CDS	642	udg	3.2.2.27	COG1573	Type-4 uracil-DNA glycosylase
+EFEADKAH_02109	CDS	309	rplU		COG0261	50S ribosomal protein L21
+EFEADKAH_02110	CDS	345				hypothetical protein
+EFEADKAH_02111	CDS	294	rpmA			50S ribosomal protein L27
+EFEADKAH_02112	CDS	2835	dgaR_2			Transcriptional regulatory protein DagR
+EFEADKAH_02113	CDS	492	manX_2	2.7.1.191	COG2893	PTS system mannose-specific EIIAB component
+EFEADKAH_02114	CDS	990	manX_3	2.7.1.191		PTS system mannose-specific EIIAB component
+EFEADKAH_02115	CDS	804	sorA_1		COG3715	PTS system sorbose-specific EIIC component
+EFEADKAH_02116	CDS	915	manZ_4		COG3716	PTS system mannose-specific EIID component
+EFEADKAH_02117	CDS	375				hypothetical protein
+EFEADKAH_02118	CDS	246				hypothetical protein
+EFEADKAH_02119	CDS	1065	ypdF	3.4.11.-	COG0006	Aminopeptidase YpdF
+EFEADKAH_02120	CDS	426				putative protein
+EFEADKAH_02121	CDS	450	nusB		COG0781	Transcription antitermination protein NusB
+EFEADKAH_02122	CDS	855	folD		COG0190	Bifunctional protein FolD protein
+EFEADKAH_02123	CDS	1338	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+EFEADKAH_02124	CDS	225	xseB	3.1.11.6		Exodeoxyribonuclease 7 small subunit
+EFEADKAH_02125	CDS	891		2.5.1.10		Farnesyl diphosphate synthase
+EFEADKAH_02126	CDS	819	tlyA		COG1189	Hemolysin A
+EFEADKAH_02127	CDS	450	argR_3		COG1438	Arginine repressor
+EFEADKAH_02128	CDS	1683	recN		COG0497	DNA repair protein RecN
+EFEADKAH_02129	CDS	117				hypothetical protein
+EFEADKAH_02130	CDS	957				hypothetical protein
+EFEADKAH_02131	CDS	369				hypothetical protein
+EFEADKAH_02132	CDS	432	mraZ			Transcriptional regulator MraZ
+EFEADKAH_02133	CDS	960	rsmH	2.1.1.199		Ribosomal RNA small subunit methyltransferase H
+EFEADKAH_02134	CDS	402	ftsL			Cell division protein FtsL
+EFEADKAH_02135	CDS	2193	pbpX_2		COG0768	Penicillin-binding protein 2X
+EFEADKAH_02136	CDS	963	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+EFEADKAH_02137	CDS	1362	murD	6.3.2.9		UDP-N-acetylmuramoylalanine--D-glutamate ligase
+EFEADKAH_02138	CDS	1089	murG	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+EFEADKAH_02139	CDS	1221	divIB			Cell division protein DivIB
+EFEADKAH_02140	CDS	1326	ftsA		COG0849	Cell division protein FtsA
+EFEADKAH_02141	CDS	1242	ftsZ		COG0206	Cell division protein FtsZ
+EFEADKAH_02142	CDS	678	yggS		COG0325	Pyridoxal phosphate homeostasis protein
+EFEADKAH_02143	CDS	600	sepF			Cell division protein SepF
+EFEADKAH_02144	CDS	783				hypothetical protein
+EFEADKAH_02145	CDS	708	divIVA		COG3599	Cell division protein DivIVA
+EFEADKAH_02146	CDS	2799	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+EFEADKAH_02147	CDS	1527	zwf	1.1.1.49	COG0364	Glucose-6-phosphate 1-dehydrogenase
+EFEADKAH_02148	CDS	648	dtxR			Diphtheria toxin repressor
+EFEADKAH_02149	CDS	342				hypothetical protein
+EFEADKAH_02150	CDS	729	sfsA		COG1489	Sugar fermentation stimulation protein A
+EFEADKAH_02151	CDS	1014	iolU_2	1.1.1.371	COG0673	scyllo-inositol 2-dehydrogenase (NADP(+)) IolU
+EFEADKAH_02152	CDS	1278	yfmL	3.6.4.13	COG0513	putative ATP-dependent RNA helicase YfmL
+EFEADKAH_02153	CDS	2703	dgaR_3			Transcriptional regulatory protein DagR
+EFEADKAH_02154	CDS	318	ptcB_1	2.7.1.204	COG1440	PTS system galactose-specific EIIB component
+EFEADKAH_02155	CDS	321	licA_2		COG1447	Lichenan-specific phosphotransferase enzyme IIA component
+EFEADKAH_02156	CDS	1461	celB		COG1455	PTS system cellobiose-specific EIIC component
+EFEADKAH_02157	CDS	222				hypothetical protein
+EFEADKAH_02158	CDS	183				hypothetical protein
+EFEADKAH_02159	CDS	414				hypothetical protein
+EFEADKAH_02160	CDS	1182	eis_2	2.3.1.-		N-acetyltransferase Eis
+EFEADKAH_02161	CDS	165				hypothetical protein
+EFEADKAH_02162	tRNA	76				tRNA-Arg(cct)
+EFEADKAH_02163	CDS	1140	xerC_9			Tyrosine recombinase XerC
+EFEADKAH_02164	CDS	135				hypothetical protein
+EFEADKAH_02165	CDS	636				hypothetical protein
+EFEADKAH_02166	CDS	636				hypothetical protein
+EFEADKAH_02167	CDS	462				hypothetical protein
+EFEADKAH_02168	CDS	432				hypothetical protein
+EFEADKAH_02169	CDS	321				hypothetical protein
+EFEADKAH_02170	CDS	777				hypothetical protein
+EFEADKAH_02171	CDS	204				hypothetical protein
+EFEADKAH_02172	CDS	339				hypothetical protein
+EFEADKAH_02173	CDS	180				hypothetical protein
+EFEADKAH_02174	CDS	504				hypothetical protein
+EFEADKAH_02175	CDS	699				hypothetical protein
+EFEADKAH_02176	CDS	342				hypothetical protein
+EFEADKAH_02177	CDS	672				hypothetical protein
+EFEADKAH_02178	CDS	687				hypothetical protein
+EFEADKAH_02179	CDS	750				hypothetical protein
+EFEADKAH_02180	CDS	270				hypothetical protein
+EFEADKAH_02181	CDS	165				hypothetical protein
+EFEADKAH_02182	CDS	303				hypothetical protein
+EFEADKAH_02183	CDS	162				hypothetical protein
+EFEADKAH_02184	CDS	300				hypothetical protein
+EFEADKAH_02185	CDS	357				hypothetical protein
+EFEADKAH_02186	CDS	246				hypothetical protein
+EFEADKAH_02187	CDS	420				hypothetical protein
+EFEADKAH_02188	CDS	558				hypothetical protein
+EFEADKAH_02189	CDS	297				hypothetical protein
+EFEADKAH_02190	CDS	414				hypothetical protein
+EFEADKAH_02191	CDS	153				hypothetical protein
+EFEADKAH_02192	CDS	276				hypothetical protein
+EFEADKAH_02193	CDS	168				hypothetical protein
+EFEADKAH_02194	CDS	345				hypothetical protein
+EFEADKAH_02195	CDS	282				hypothetical protein
+EFEADKAH_02196	CDS	315				hypothetical protein
+EFEADKAH_02197	CDS	1695				hypothetical protein
+EFEADKAH_02198	CDS	1179				hypothetical protein
+EFEADKAH_02199	CDS	687	clpP_1	3.4.21.92		ATP-dependent Clp protease proteolytic subunit
+EFEADKAH_02200	CDS	1161				hypothetical protein
+EFEADKAH_02201	CDS	876				hypothetical protein
+EFEADKAH_02202	CDS	312				hypothetical protein
+EFEADKAH_02203	CDS	354				hypothetical protein
+EFEADKAH_02204	CDS	402				hypothetical protein
+EFEADKAH_02205	CDS	414				hypothetical protein
+EFEADKAH_02206	CDS	609				hypothetical protein
+EFEADKAH_02207	CDS	363				hypothetical protein
+EFEADKAH_02208	CDS	3432	smc_3			Chromosome partition protein Smc
+EFEADKAH_02209	CDS	1296				ISL3 family transposase ISEfa11
+EFEADKAH_02210	CDS	738				hypothetical protein
+EFEADKAH_02211	CDS	2292				hypothetical protein
+EFEADKAH_02212	CDS	2127				hypothetical protein
+EFEADKAH_02213	CDS	447				hypothetical protein
+EFEADKAH_02214	CDS	138				hypothetical protein
+EFEADKAH_02215	CDS	294				hypothetical protein
+EFEADKAH_02216	CDS	225				hypothetical protein
+EFEADKAH_02217	CDS	579				hypothetical protein
+EFEADKAH_02218	CDS	483				hypothetical protein
+EFEADKAH_02219	tRNA	74				tRNA-Met(cat)
+EFEADKAH_02220	CDS	291				IS3 family transposase ISEfa8
+EFEADKAH_02221	CDS	837				IS3 family transposase ISEfa8
+EFEADKAH_02222	CDS	495				IS3 family transposase ISEnfa3
+EFEADKAH_02223	CDS	408				hypothetical protein
+EFEADKAH_02224	CDS	402				hypothetical protein
+EFEADKAH_02225	CDS	372				hypothetical protein
+EFEADKAH_02226	CDS	300				hypothetical protein
+EFEADKAH_02227	CDS	222				hypothetical protein
+EFEADKAH_02228	CDS	1188				IS256 family transposase IS16
+EFEADKAH_02229	CDS	273				hypothetical protein
+EFEADKAH_02230	CDS	924	ccpB			Catabolite control protein B
+EFEADKAH_02231	CDS	753	mta		COG0789	HTH-type transcriptional activator mta
+EFEADKAH_02232	CDS	363				hypothetical protein
+EFEADKAH_02233	CDS	1473	pncB2	6.3.4.21	COG1488	Nicotinate phosphoribosyltransferase pncB2
+EFEADKAH_02234	CDS	825	nadE	6.3.1.5	COG0171	NH(3)-dependent NAD(+) synthetase
+EFEADKAH_02235	CDS	891				hypothetical protein
+EFEADKAH_02236	CDS	1518	abfA_1	3.2.1.55		Intracellular exo-alpha-(1->5)-L-arabinofuranosidase
+EFEADKAH_02237	CDS	1272	ugpB		COG1653	sn-glycerol-3-phosphate-binding periplasmic protein UgpB
+EFEADKAH_02238	CDS	897	melD		COG1175	Melibiose/raffinose/stachyose import permease protein MelD
+EFEADKAH_02239	CDS	864	araQ_5		COG0395	L-arabinose transport system permease protein AraQ
+EFEADKAH_02240	CDS	564				hypothetical protein
+EFEADKAH_02241	CDS	1512	abfA_2	3.2.1.55	COG3534	Intracellular exo-alpha-(1->5)-L-arabinofuranosidase 1
+EFEADKAH_02242	CDS	960		3.2.1.55	COG3940	Extracellular exo-alpha-(1->5)-L-arabinofuranosidase
+EFEADKAH_02243	CDS	1080	araR_2		COG1609	Arabinose metabolism transcriptional repressor
+EFEADKAH_02244	CDS	1401	xylT			D-xylose transporter
+EFEADKAH_02245	CDS	1662	xylB_3	2.7.1.17		Xylulose kinase
+EFEADKAH_02246	CDS	699	sgbE	5.1.3.4	COG0235	L-ribulose-5-phosphate 4-epimerase SgbE
+EFEADKAH_02247	CDS	1425	araA	5.3.1.4		L-arabinose isomerase
+EFEADKAH_02248	CDS	1161	ghrB_2	1.1.1.81		Glyoxylate/hydroxypyruvate reductase B
+EFEADKAH_02249	CDS	1860				hypothetical protein
+EFEADKAH_02250	CDS	435				hypothetical protein
+EFEADKAH_02251	CDS	162				hypothetical protein
+EFEADKAH_02252	CDS	1023	pgl	3.1.1.31	COG2706	6-phosphogluconolactonase
+EFEADKAH_02253	CDS	354				hypothetical protein
+EFEADKAH_02254	CDS	1167				hypothetical protein
+EFEADKAH_02255	CDS	621	azoR	1.7.1.17	COG1182	FMN-dependent NADH-azoreductase
+EFEADKAH_02256	CDS	297				hypothetical protein
+EFEADKAH_02257	CDS	651				hypothetical protein
+EFEADKAH_02258	CDS	1728			COG1132	putative ABC transporter ATP-binding protein
+EFEADKAH_02259	CDS	255				hypothetical protein
+EFEADKAH_02260	CDS	1638		7.6.2.-	COG1132	Fatty acid ABC transporter ATP-binding/permease protein
+EFEADKAH_02261	CDS	870	catE	1.13.11.2	COG2514	Catechol-2,3-dioxygenase
+EFEADKAH_02262	CDS	1026	amiE	3.5.1.28		N-acetylmuramyl-L-alanine amidase
+EFEADKAH_02263	CDS	951	gmuF	5.3.1.8	COG1482	putative mannose-6-phosphate isomerase GmuF
+EFEADKAH_02264	CDS	393	mtlA		COG2213	PTS system mannitol-specific EIICB component
+EFEADKAH_02265	CDS	1320				hypothetical protein
+EFEADKAH_02266	CDS	2034	mtlR			Transcriptional regulator MtlR
+EFEADKAH_02267	CDS	441	mtlF_1		COG2213	Mannitol-specific phosphotransferase enzyme IIA component
+EFEADKAH_02268	CDS	1128				hypothetical protein
+EFEADKAH_02269	CDS	678	natA_1	7.2.2.4	COG4555	ABC transporter ATP-binding protein NatA
+EFEADKAH_02270	CDS	1767				hypothetical protein
+EFEADKAH_02271	CDS	438	mtlF_2		COG2213	Mannitol-specific phosphotransferase enzyme IIA component
+EFEADKAH_02272	CDS	1152	mtlD	1.1.1.17	COG0246	Mannitol-1-phosphate 5-dehydrogenase
+EFEADKAH_02273	CDS	699	gatD	6.3.5.13	COG3442	Lipid II isoglutaminyl synthase (glutamine-hydrolyzing) subunit GatD
+EFEADKAH_02274	CDS	1353	murT	6.3.5.13	COG0769	Lipid II isoglutaminyl synthase (glutamine-hydrolyzing) subunit MurT
+EFEADKAH_02275	CDS	1401	ntpJ_1			Potassium/sodium uptake protein NtpJ
+EFEADKAH_02276	CDS	738	queH	1.17.99.6		Epoxyqueuosine reductase QueH
+EFEADKAH_02277	CDS	480				hypothetical protein
+EFEADKAH_02278	CDS	768				hypothetical protein
+EFEADKAH_02279	CDS	213				hypothetical protein
+EFEADKAH_02280	CDS	360	spsB	3.4.21.89		Signal peptidase IB
+EFEADKAH_02281	CDS	603	COQ5_2	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+EFEADKAH_02282	CDS	231				hypothetical protein
+EFEADKAH_02283	CDS	249				hypothetical protein
+EFEADKAH_02284	CDS	597	tdk	2.7.1.21		Thymidine kinase
+EFEADKAH_02285	CDS	1074	prfA		COG0216	Peptide chain release factor 1
+EFEADKAH_02286	CDS	840	prmC	2.1.1.297	COG2890	Release factor glutamine methyltransferase
+EFEADKAH_02287	CDS	1026	ywlC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+EFEADKAH_02288	CDS	162				hypothetical protein
+EFEADKAH_02289	CDS	1245	glyA	2.1.2.1		Serine hydroxymethyltransferase
+EFEADKAH_02290	CDS	948	nlhH	3.1.1.1	COG0657	Carboxylesterase NlhH
+EFEADKAH_02291	CDS	630	upp	2.4.2.9		Uracil phosphoribosyltransferase
+EFEADKAH_02292	CDS	243				hypothetical protein
+EFEADKAH_02293	tRNA	73				tRNA-Thr(cgt)
+EFEADKAH_02294	CDS	639				hypothetical protein
+EFEADKAH_02295	CDS	633				hypothetical protein
+EFEADKAH_02296	CDS	300				hypothetical protein
+EFEADKAH_02297	CDS	2166	cna			Collagen adhesin
+EFEADKAH_02298	CDS	486	proX		COG3760	Prolyl-tRNA editing protein ProX
+EFEADKAH_02299	CDS	642	yecS_2		COG0765	L-cystine transport system permease protein YecS
+EFEADKAH_02300	CDS	636	glnQ_2		COG1126	Glutamine transport ATP-binding protein GlnQ
+EFEADKAH_02301	CDS	816	fliY		COG0834	L-cystine-binding protein FliY
+EFEADKAH_02302	CDS	1437	bglC	3.2.1.86	COG2723	Aryl-phospho-beta-D-glucosidase BglC
+EFEADKAH_02303	CDS	2448	spoIIIE		COG1674	DNA translocase SpoIIIE
+EFEADKAH_02304	CDS	1068	rlmN	2.1.1.192		putative dual-specificity RNA methyltransferase RlmN
+EFEADKAH_02305	CDS	1104				hypothetical protein
+EFEADKAH_02306	CDS	549				hypothetical protein
+EFEADKAH_02307	CDS	1662	dppE		COG4166	Dipeptide-binding protein DppE
+EFEADKAH_02308	CDS	348				hypothetical protein
+EFEADKAH_02309	CDS	942	oppB		COG0601	Oligopeptide transport system permease protein OppB
+EFEADKAH_02310	CDS	1044	dppC		COG1173	Dipeptide transport system permease protein DppC
+EFEADKAH_02311	CDS	1071	oppD_2		COG0444	Oligopeptide transport ATP-binding protein OppD
+EFEADKAH_02312	CDS	954	oppF_2		COG4608	Oligopeptide transport ATP-binding protein OppF
+EFEADKAH_02313	CDS	1011				IS200/IS605 family transposase ISEfa4
+EFEADKAH_02314	CDS	822				hypothetical protein
+EFEADKAH_02315	CDS	279				hypothetical protein
+EFEADKAH_02316	CDS	2010	metG	6.1.1.10		Methionine--tRNA ligase
+EFEADKAH_02317	CDS	588				hypothetical protein
+EFEADKAH_02318	CDS	1323	steT_2		COG0531	Serine/threonine exchanger SteT
+EFEADKAH_02319	CDS	777	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+EFEADKAH_02320	CDS	561	rnmV	3.1.26.8	COG1658	Ribonuclease M5
+EFEADKAH_02321	CDS	885	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+EFEADKAH_02322	CDS	630	niaX			Niacin transporter NiaX
+EFEADKAH_02323	CDS	1110	msmX	7.5.2.-	COG3839	Oligosaccharides import ATP-binding protein MsmX
+EFEADKAH_02324	CDS	423	mgsA	4.2.3.3	COG1803	Methylglyoxal synthase
+EFEADKAH_02325	CDS	537	folT_2			Folate transporter FolT
+EFEADKAH_02326	CDS	1764			COG1132	putative ABC transporter ATP-binding protein
+EFEADKAH_02327	CDS	1716			COG1132	putative ABC transporter ATP-binding protein
+EFEADKAH_02328	CDS	225				hypothetical protein
+EFEADKAH_02329	CDS	2769	dgaR_4			Transcriptional regulatory protein DagR
+EFEADKAH_02330	CDS	420	manX_4	2.7.1.191		PTS system mannose-specific EIIAB component
+EFEADKAH_02331	CDS	471		2.7.1.-		putative phosphotransferase enzyme IIB component
+EFEADKAH_02332	CDS	780	sorA_2		COG3715	PTS system sorbose-specific EIIC component
+EFEADKAH_02333	CDS	822	manZ_5		COG3716	PTS system mannose-specific EIID component
+EFEADKAH_02334	CDS	1050	nodM	2.6.1.16		Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+EFEADKAH_02335	CDS	1005	frlB_1	3.5.-.-	COG2222	Fructosamine deglycase FrlB
+EFEADKAH_02336	CDS	1020	gpsA_1	1.1.1.94	COG0240	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+EFEADKAH_02337	CDS	1251				IS110 family transposase ISSpn10
+EFEADKAH_02338	CDS	882	gtaB_1	2.7.7.9	COG1210	UTP--glucose-1-phosphate uridylyltransferase
+EFEADKAH_02339	CDS	378				hypothetical protein
+EFEADKAH_02340	CDS	615				hypothetical protein
+EFEADKAH_02341	CDS	1740				hypothetical protein
+EFEADKAH_02342	CDS	1185	iadA	3.4.19.-		Isoaspartyl dipeptidase
+EFEADKAH_02343	CDS	204				hypothetical protein
+EFEADKAH_02344	CDS	663	lolD_2	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+EFEADKAH_02345	CDS	1503				hypothetical protein
+EFEADKAH_02346	CDS	1680	rnj2	3.1.-.-		Ribonuclease J 2
+EFEADKAH_02347	CDS	477	ybaK_2	4.2.-.-	COG2606	Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK
+EFEADKAH_02348	CDS	681				hypothetical protein
+EFEADKAH_02349	CDS	1332	IMPDH	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+EFEADKAH_02350	CDS	963	nrnA	3.1.-.-	COG0618	putative bifunctional oligoribonuclease and PAP phosphatase NrnA
+EFEADKAH_02351	CDS	339				hypothetical protein
+EFEADKAH_02352	CDS	708				hypothetical protein
+EFEADKAH_02353	CDS	1482				hypothetical protein
+EFEADKAH_02354	CDS	534				hypothetical protein
+EFEADKAH_02355	CDS	1371	rsmF	2.1.1.-	COG0144	Ribosomal RNA small subunit methyltransferase F
+EFEADKAH_02356	CDS	336				hypothetical protein
+EFEADKAH_02357	CDS	858	lrp			Leucine-rich protein
+EFEADKAH_02358	CDS	516	tadA_2	3.5.4.33	COG0590	tRNA-specific adenosine deaminase
+EFEADKAH_02359	CDS	255				hypothetical protein
+EFEADKAH_02360	CDS	1386				hypothetical protein
+EFEADKAH_02361	CDS	678				hypothetical protein
+EFEADKAH_02362	CDS	765	yutF	3.1.3.-	COG0647	Acid sugar phosphatase
+EFEADKAH_02363	CDS	660				hypothetical protein
+EFEADKAH_02364	CDS	510	ypjQ		COG1267	putative protein YpjQ
+EFEADKAH_02365	CDS	999	yumC	1.18.1.2	COG0492	Ferredoxin--NADP reductase 2
+EFEADKAH_02366	CDS	585		5.2.1.8		Putative peptidyl-prolyl cis-trans isomerase
+EFEADKAH_02367	CDS	1176	patB	4.4.1.13	COG1168	Cystathionine beta-lyase PatB
+EFEADKAH_02368	CDS	381	yugI		COG1098	General stress protein 13
+EFEADKAH_02369	CDS	363				hypothetical protein
+EFEADKAH_02370	rRNA	1556				16S ribosomal RNA
+EFEADKAH_02371	rRNA	2911				23S ribosomal RNA
+EFEADKAH_02372	rRNA	111				5S ribosomal RNA
+EFEADKAH_02373	tRNA	76				tRNA-Asn(gtt)
+EFEADKAH_02374	CDS	837				IS3 family transposase IS1485
+EFEADKAH_02375	CDS	291				IS3 family transposase IS1485
+EFEADKAH_02376	CDS	375				hypothetical protein
+EFEADKAH_02377	CDS	630	menH_2	4.2.99.20		2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+EFEADKAH_02378	tRNA	73				tRNA-Thr(ggt)
+EFEADKAH_02379	tRNA	76				tRNA-Asn(gtt)
+EFEADKAH_02380	CDS	165				hypothetical protein
+EFEADKAH_02381	CDS	1329	pepC	3.4.22.40	COG3579	Aminopeptidase C
+EFEADKAH_02382	CDS	834		2.7.1.-		putative ketoamine kinase
+EFEADKAH_02383	CDS	738				hypothetical protein
+EFEADKAH_02384	CDS	969	ansA	3.5.1.1	COG0252	L-asparaginase
+EFEADKAH_02385	CDS	834				hypothetical protein
+EFEADKAH_02386	CDS	840	yhaX		COG0561	Stress response protein YhaX
+EFEADKAH_02387	CDS	561				hypothetical protein
+EFEADKAH_02388	CDS	1722	ezrA		COG4477	Septation ring formation regulator EzrA
+EFEADKAH_02389	CDS	1143	iscS_2	2.8.1.7	COG1104	Cysteine desulfurase IscS
+EFEADKAH_02390	CDS	576	thiI_1	2.8.1.4	COG0301	putative tRNA sulfurtransferase
+EFEADKAH_02391	CDS	621	thiI_2	2.8.1.4	COG0301	putative tRNA sulfurtransferase
+EFEADKAH_02392	CDS	648	rex_1		COG2344	Redox-sensing transcriptional repressor Rex
+EFEADKAH_02393	CDS	2646	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+EFEADKAH_02394	CDS	1314	fpgS	6.3.2.17		Folylpolyglutamate synthase
+EFEADKAH_02395	CDS	654		3.1.3.-	COG0637	Phosphorylated carbohydrates phosphatase
+EFEADKAH_02396	CDS	693				hypothetical protein
+EFEADKAH_02397	CDS	201	cspLA_1		COG1278	Cold shock-like protein CspLA
+EFEADKAH_02398	CDS	1680	rnj1	3.1.-.-		Ribonuclease J 1
+EFEADKAH_02399	CDS	213				hypothetical protein
+EFEADKAH_02400	CDS	1731			COG1132	putative ABC transporter ATP-binding protein
+EFEADKAH_02401	CDS	1761			COG1132	putative ABC transporter ATP-binding protein
+EFEADKAH_02402	CDS	198				hypothetical protein
+EFEADKAH_02403	CDS	486	yrdA		COG0663	Protein YrdA
+EFEADKAH_02404	CDS	594	clpP_2	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+EFEADKAH_02405	CDS	528				hypothetical protein
+EFEADKAH_02406	CDS	738	glpQ	3.1.4.46	COG0584	Glycerophosphodiester phosphodiesterase
+EFEADKAH_02407	CDS	918	miaA	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+EFEADKAH_02408	CDS	1230	hflX		COG2262	GTPase HflX
+EFEADKAH_02409	CDS	954			COG2826	IS30 family transposase IS1252
+EFEADKAH_02410	CDS	408				hypothetical protein
+EFEADKAH_02411	CDS	1224	cdr_2	1.8.1.14		Coenzyme A disulfide reductase
+EFEADKAH_02412	CDS	900	rhaR_6			HTH-type transcriptional activator RhaR
+EFEADKAH_02413	CDS	1125	araN_2		COG1653	putative arabinose-binding protein
+EFEADKAH_02414	CDS	918	lacF_5			Lactose transport system permease protein LacF
+EFEADKAH_02415	CDS	834	lacG_3			Lactose transport system permease protein LacG
+EFEADKAH_02416	CDS	1119	ugl_1	3.2.1.179		Unsaturated glucuronyl hydrolase
+EFEADKAH_02417	CDS	1872				hypothetical protein
+EFEADKAH_02418	CDS	1224	ugl_2	3.2.1.180		Unsaturated chondroitin disaccharide hydrolase
+EFEADKAH_02419	CDS	1935	yheS		COG0488	putative ABC transporter ATP-binding protein YheS
+EFEADKAH_02420	CDS	657	rex_2		COG2344	Redox-sensing transcriptional repressor Rex
+EFEADKAH_02421	CDS	354				hypothetical protein
+EFEADKAH_02422	CDS	930			COG0701	Putative two-component membrane permease complex subunit SMU_747c
+EFEADKAH_02423	CDS	837			COG3689	Putative two-component membrane permease complex subunit SMU_746c
+EFEADKAH_02424	CDS	777				hypothetical protein
+EFEADKAH_02425	CDS	744	natA_2	7.2.2.4	COG4555	ABC transporter ATP-binding protein NatA
+EFEADKAH_02426	CDS	1581				hypothetical protein
+EFEADKAH_02427	CDS	480				hypothetical protein
+EFEADKAH_02428	CDS	753				hypothetical protein
+EFEADKAH_02429	tRNA	71				tRNA-Gly(ccc)
+EFEADKAH_02430	CDS	726	endA	3.1.30.-		DNA-entry nuclease
+EFEADKAH_02431	CDS	267				hypothetical protein
+EFEADKAH_02432	CDS	432	yrrK	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+EFEADKAH_02433	CDS	306				hypothetical protein
+EFEADKAH_02434	CDS	1146	xerC_10			Tyrosine recombinase XerC
+EFEADKAH_02435	CDS	648				hypothetical protein
+EFEADKAH_02436	CDS	294				hypothetical protein
+EFEADKAH_02437	CDS	312				hypothetical protein
+EFEADKAH_02438	CDS	240				hypothetical protein
+EFEADKAH_02439	CDS	405				hypothetical protein
+EFEADKAH_02440	CDS	159				hypothetical protein
+EFEADKAH_02441	CDS	363				hypothetical protein
+EFEADKAH_02442	CDS	849				hypothetical protein
+EFEADKAH_02443	CDS	1476				hypothetical protein
+EFEADKAH_02444	CDS	408				hypothetical protein
+EFEADKAH_02445	CDS	216				hypothetical protein
+EFEADKAH_02446	CDS	474				hypothetical protein
+EFEADKAH_02447	CDS	1695				hypothetical protein
+EFEADKAH_02448	CDS	186				hypothetical protein
+EFEADKAH_02449	CDS	1176				hypothetical protein
+EFEADKAH_02450	CDS	1392				hypothetical protein
+EFEADKAH_02451	CDS	285				hypothetical protein
+EFEADKAH_02452	CDS	336				hypothetical protein
+EFEADKAH_02453	CDS	627				hypothetical protein
+EFEADKAH_02454	CDS	837				hypothetical protein
+EFEADKAH_02455	CDS	423				hypothetical protein
+EFEADKAH_02456	CDS	1323	citS		COG3493	Citrate-sodium symporter
+EFEADKAH_02457	CDS	1641	mleS	4.1.1.101	COG0281	Malolactic enzyme
+EFEADKAH_02458	CDS	471				hypothetical protein
+EFEADKAH_02459	CDS	1104	hmo	1.1.3.46		4-hydroxymandelate oxidase
+EFEADKAH_02460	CDS	681				hypothetical protein
+EFEADKAH_02461	CDS	1035				hypothetical protein
+EFEADKAH_02462	CDS	336				hypothetical protein
+EFEADKAH_02463	CDS	2481				hypothetical protein
+EFEADKAH_02464	CDS	1509				hypothetical protein
+EFEADKAH_02465	CDS	1356	nox_2	1.6.99.3	COG0446	NADH oxidase
+EFEADKAH_02466	CDS	1071			COG0577	putative ABC transporter permease
+EFEADKAH_02467	CDS	669	hrtA_2	3.6.3.-	COG1136	Putative hemin import ATP-binding protein HrtA
+EFEADKAH_02468	CDS	579				hypothetical protein
+EFEADKAH_02469	CDS	912				hypothetical protein
+EFEADKAH_02470	CDS	918	rnhC	3.1.26.4	COG1039	Ribonuclease HIII
+EFEADKAH_02471	CDS	438	zapA			Cell division protein ZapA
+EFEADKAH_02472	CDS	549				hypothetical protein
+EFEADKAH_02473	CDS	2361	mutS2_2	3.1.-.-		Endonuclease MutS2
+EFEADKAH_02474	CDS	315	trxA		COG0526	Thioredoxin
+EFEADKAH_02475	CDS	1779	uvrC_2		COG0322	UvrABC system protein C
+EFEADKAH_02476	CDS	900	btuD_5	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+EFEADKAH_02477	CDS	1263	yhaP		COG1668	putative protein YhaP
+EFEADKAH_02478	CDS	1899	fbp	3.1.3.11	COG3855	Fructose-1,6-bisphosphatase class 3
+EFEADKAH_02479	CDS	720	puuD	3.5.1.94	COG2071	Gamma-glutamyl-gamma-aminobutyrate hydrolase PuuD
+EFEADKAH_02480	CDS	324				hypothetical protein
+EFEADKAH_02481	CDS	2004				hypothetical protein
+EFEADKAH_02482	CDS	471	ntpK			V-type sodium ATPase subunit K
+EFEADKAH_02483	CDS	585	atpE_1			V-type proton ATPase subunit E
+EFEADKAH_02484	CDS	987	ntpC			V-type sodium ATPase subunit C
+EFEADKAH_02485	CDS	312	ntpG			V-type sodium ATPase subunit G
+EFEADKAH_02486	CDS	1782	ntpA	7.2.2.1		V-type sodium ATPase catalytic subunit A
+EFEADKAH_02487	CDS	1377	ntpB			V-type sodium ATPase subunit B
+EFEADKAH_02488	CDS	636	ntpD			V-type sodium ATPase subunit D
+EFEADKAH_02489	CDS	1356	ntpJ_2			Potassium/sodium uptake protein NtpJ
+EFEADKAH_02490	CDS	1395	hisC	2.6.1.9		Histidinol-phosphate aminotransferase
+EFEADKAH_02491	CDS	972	lhpI	1.5.1.49	COG2423	Delta(1)-pyrroline-2-carboxylate reductase
+EFEADKAH_02492	CDS	783	yddE	5.1.-.-	COG0384	putative isomerase YddE
+EFEADKAH_02493	CDS	372	gloA	4.4.1.5	COG0346	Lactoylglutathione lyase
+EFEADKAH_02494	CDS	444				hypothetical protein
+EFEADKAH_02495	CDS	810	yidA_3	3.1.3.23	COG0561	Sugar phosphatase YidA
+EFEADKAH_02496	CDS	1368				hypothetical protein
+EFEADKAH_02497	CDS	831	lipL	2.3.1.204	COG0095	Octanoyl-[GcvH]:protein N-octanoyltransferase
+EFEADKAH_02498	CDS	438				hypothetical protein
+EFEADKAH_02499	CDS	621	rpoE			putative DNA-directed RNA polymerase subunit delta
+EFEADKAH_02500	CDS	507	sigV		COG1595	RNA polymerase sigma factor SigV
+EFEADKAH_02501	CDS	900	rsiV			Anti-sigma-V factor RsiV
+EFEADKAH_02502	CDS	885				hypothetical protein
+EFEADKAH_02503	tRNA	74				tRNA-Arg(ccg)
+EFEADKAH_02504	CDS	1335	rpoN1		COG1508	RNA polymerase sigma-54 factor 1
+EFEADKAH_02505	CDS	1038	cggR		COG2390	Central glycolytic genes regulator
+EFEADKAH_02506	CDS	1002	gap_2	1.2.1.12		Glyceraldehyde-3-phosphate dehydrogenase
+EFEADKAH_02507	CDS	1191	pgk	2.7.2.3		Phosphoglycerate kinase
+EFEADKAH_02508	CDS	756	tpiA	5.3.1.1	COG0149	Triosephosphate isomerase
+EFEADKAH_02509	CDS	1299	eno	4.2.1.11		Enolase
+EFEADKAH_02510	CDS	537				hypothetical protein
+EFEADKAH_02511	CDS	807				IS3 family transposase ISEnfa3
+EFEADKAH_02512	CDS	1014				ISL3 family transposase ISEfa11
+EFEADKAH_02513	CDS	1140	dapE	3.5.1.18		putative succinyl-diaminopimelate desuccinylase
+EFEADKAH_02514	CDS	576				hypothetical protein
+EFEADKAH_02515	CDS	975	rihB	3.2.2.8	COG1957	Pyrimidine-specific ribonucleoside hydrolase RihB
+EFEADKAH_02516	CDS	969	menH_3	4.2.99.20		2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+EFEADKAH_02517	CDS	279	yjdJ		COG2388	putative protein YjdJ
+EFEADKAH_02518	CDS	237	secG		COG1314	putative protein-export membrane protein SecG
+EFEADKAH_02519	CDS	756	est	3.1.1.1		Carboxylesterase
+EFEADKAH_02520	CDS	2358	rnr	3.1.13.1	COG0557	Ribonuclease R
+EFEADKAH_02521	CDS	465	smpB		COG0691	SsrA-binding protein
+EFEADKAH_02522	CDS	720	atpB			ATP synthase subunit a
+EFEADKAH_02523	CDS	216	atpE_2			ATP synthase subunit c
+EFEADKAH_02524	CDS	525	atpF		COG0711	ATP synthase subunit b
+EFEADKAH_02525	CDS	543	atpH		COG0712	ATP synthase subunit delta
+EFEADKAH_02526	CDS	1557	atpA	7.1.2.2	COG0056	ATP synthase subunit alpha
+EFEADKAH_02527	CDS	903	atpG		COG0224	ATP synthase gamma chain
+EFEADKAH_02528	CDS	1407	atpD	7.1.2.2	COG0055	ATP synthase subunit beta
+EFEADKAH_02529	CDS	423	atpC		COG0355	ATP synthase epsilon chain
+EFEADKAH_02530	CDS	231				hypothetical protein
+EFEADKAH_02531	CDS	1302	murA1_2	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 1
+EFEADKAH_02532	CDS	177				hypothetical protein
+EFEADKAH_02533	CDS	297			COG0759	Putative membrane protein insertion efficiency factor
+EFEADKAH_02534	CDS	468	yvbK	2.3.1.-		putative N-acetyltransferase YvbK
+EFEADKAH_02535	CDS	885	bglK	2.7.1.85	COG1940	Beta-glucoside kinase
+EFEADKAH_02536	CDS	237				hypothetical protein
+EFEADKAH_02537	tRNA	81				tRNA-Tyr(gta)
+EFEADKAH_02538	tRNA	74				tRNA-Gln(ttg)
+EFEADKAH_02539	CDS	171				hypothetical protein
+EFEADKAH_02540	CDS	708	nagR_1		COG2188	HTH-type transcriptional repressor NagR
+EFEADKAH_02541	CDS	645	yigZ		COG1739	IMPACT family member YigZ
+EFEADKAH_02542	CDS	288				hypothetical protein
+EFEADKAH_02543	CDS	321	ptcB_2	2.7.1.204	COG1440	PTS system galactose-specific EIIB component
+EFEADKAH_02544	CDS	1314	comFA	3.6.4.12	COG4098	ComF operon protein 1
+EFEADKAH_02545	CDS	720				hypothetical protein
+EFEADKAH_02546	CDS	552	hpf			Ribosome hibernation promotion factor
+EFEADKAH_02547	CDS	2535	secA		COG0653	Protein translocase subunit SecA
+EFEADKAH_02548	CDS	984	prfB			Peptide chain release factor 2
+EFEADKAH_02549	CDS	687	ftsE		COG2884	Cell division ATP-binding protein FtsE
+EFEADKAH_02550	CDS	894	ftsX		COG2177	Cell division protein FtsX
+EFEADKAH_02551	CDS	1449	clsA_2	2.7.8.-	COG1502	Major cardiolipin synthase ClsA
+EFEADKAH_02552	CDS	858	pstS1_1		COG0226	Phosphate-binding protein PstS 1
+EFEADKAH_02553	CDS	921				hypothetical protein
+EFEADKAH_02554	CDS	885				hypothetical protein
+EFEADKAH_02555	CDS	807	pstB3_1	7.3.2.1	COG1117	Phosphate import ATP-binding protein PstB 3
+EFEADKAH_02556	CDS	759	pstB3_2	7.3.2.1	COG1117	Phosphate import ATP-binding protein PstB 3
+EFEADKAH_02557	CDS	678	phoU		COG0704	Phosphate-specific transport system accessory protein PhoU 
+EFEADKAH_02558	CDS	1032				hypothetical protein
+EFEADKAH_02559	CDS	768				hypothetical protein
+EFEADKAH_02560	CDS	1569				hypothetical protein
+EFEADKAH_02561	CDS	321				hypothetical protein
+EFEADKAH_02562	CDS	351				hypothetical protein
+EFEADKAH_02563	CDS	1296				ISL3 family transposase ISEfa5
+EFEADKAH_02564	CDS	939	hprK	2.7.11.-	COG1493	HPr kinase/phosphorylase
+EFEADKAH_02565	CDS	831	lgt	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+EFEADKAH_02566	CDS	1026	gpsA_2	1.1.1.94	COG0240	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+EFEADKAH_02567	CDS	939	gtaB_2	2.7.7.9	COG1210	UTP--glucose-1-phosphate uridylyltransferase
+EFEADKAH_02568	CDS	441				hypothetical protein
+EFEADKAH_02569	CDS	603				hypothetical protein
+EFEADKAH_02570	CDS	1107	pepQ	3.4.13.9	COG0006	Xaa-Pro dipeptidase
+EFEADKAH_02571	CDS	1002	ccpA_2		COG1609	Catabolite control protein A
+EFEADKAH_02572	CDS	2346	ponA_2		COG0744	Penicillin-binding protein 1A/1B
+EFEADKAH_02573	CDS	903	nfo	3.1.21.2	COG0648	putative endonuclease 4
+EFEADKAH_02574	CDS	1188				IS110 family transposase ISBth13
+EFEADKAH_02575	CDS	1776				hypothetical protein
+EFEADKAH_02576	CDS	1587	mntH			Divalent metal cation transporter MntH
+EFEADKAH_02577	CDS	225				hypothetical protein
+EFEADKAH_02578	CDS	1752	yheI	3.6.3.-	COG1132	putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+EFEADKAH_02579	CDS	1785	yheH	3.6.3.-	COG1132	putative multidrug resistance ABC transporter ATP-binding/permease protein YheH
+EFEADKAH_02580	CDS	852	licT_3		COG3711	Transcription antiterminator LicT
+EFEADKAH_02581	CDS	1887	bglF_3		COG1263	PTS system beta-glucoside-specific EIIBCA component
+EFEADKAH_02582	CDS	903	murR_2			HTH-type transcriptional regulator MurR
+EFEADKAH_02583	CDS	1404	licH	3.2.1.86	COG1486	putative 6-phospho-beta-glucosidase
+EFEADKAH_02584	CDS	1434	bglH_2	3.2.1.86	COG2723	Aryl-phospho-beta-D-glucosidase BglH
+EFEADKAH_02585	CDS	927	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+EFEADKAH_02586	CDS	1728	pgcA	5.4.2.2		Phosphoglucomutase
+EFEADKAH_02587	CDS	294	czrA		COG0640	HTH-type transcriptional repressor CzrA
+EFEADKAH_02588	CDS	861	yqfL	2.7.11.32	COG1806	Putative pyruvate, phosphate dikinase regulatory protein
+EFEADKAH_02589	CDS	429	zur		COG0735	Zinc-specific metallo-regulatory protein
+EFEADKAH_02590	CDS	177	rpsU		COG0828	30S ribosomal protein S21
+EFEADKAH_02591	CDS	447	yqeY		COG1610	putative protein YqeY
+EFEADKAH_02592	CDS	1380	brnQ_2		COG1114	Branched-chain amino acid transport system 2 carrier protein
+EFEADKAH_02593	CDS	972			COG1702	PhoH-like protein
+EFEADKAH_02594	CDS	2193	pgpH	3.1.4.59		Cyclic-di-AMP phosphodiesterase PgpH
+EFEADKAH_02595	CDS	462	ybeY	3.1.-.-	COG0319	Endoribonuclease YbeY
+EFEADKAH_02596	CDS	396	dgkA	2.7.1.66	COG0818	Undecaprenol kinase
+EFEADKAH_02597	CDS	900	era		COG1159	GTPase Era
+EFEADKAH_02598	CDS	813	recO		COG1381	DNA repair protein RecO
+EFEADKAH_02599	CDS	918	glyQ	6.1.1.14	COG0752	Glycine--tRNA ligase alpha subunit
+EFEADKAH_02600	CDS	2076	glyS	6.1.1.14	COG0751	Glycine--tRNA ligase beta subunit
+EFEADKAH_02601	CDS	780				hypothetical protein
+EFEADKAH_02602	CDS	945	tagU_3	2.7.8.-	COG1316	Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+EFEADKAH_02603	CDS	780	ywqC		COG3944	putative capsular polysaccharide biosynthesis protein YwqC
+EFEADKAH_02604	CDS	699	ywqD	2.7.10.2	COG0489	Tyrosine-protein kinase YwqD
+EFEADKAH_02605	CDS	765	ywqE	3.1.3.48	COG4464	Tyrosine-protein phosphatase YwqE
+EFEADKAH_02606	CDS	1818	pglF	4.2.1.135	COG1086	UDP-N-acetyl-alpha-D-glucosamine C6 dehydratase
+EFEADKAH_02607	CDS	966				hypothetical protein
+EFEADKAH_02608	CDS	696	gph_2	3.1.3.18		Phosphoglycolate phosphatase
+EFEADKAH_02609	CDS	1119	epsN	2.6.1.-	COG0399	Putative pyridoxal phosphate-dependent aminotransferase EpsN
+EFEADKAH_02610	CDS	621	epsL	2.-.-.-	COG2148	putative sugar transferase EpsL
+EFEADKAH_02611	CDS	1101	pglA	2.4.1.290		N,N'-diacetylbacillosaminyl-diphospho-undecaprenol alpha-1,3-N-acetylgalactosaminyltransferase
+EFEADKAH_02612	CDS	246				hypothetical protein
+EFEADKAH_02613	CDS	1002				hypothetical protein
+EFEADKAH_02614	CDS	975				hypothetical protein
+EFEADKAH_02615	CDS	1080	pglH_2	2.4.1.292	COG0438	GalNAc-alpha-(1->4)-GalNAc-alpha-(1->3)-diNAcBac-PP-undecaprenol alpha-1,4-N-acetyl-D-galactosaminyltransferase
+EFEADKAH_02616	CDS	699				hypothetical protein
+EFEADKAH_02617	CDS	696				hypothetical protein
+EFEADKAH_02618	CDS	1494				hypothetical protein
+EFEADKAH_02619	CDS	1173				IS256 family transposase IS256
+EFEADKAH_02620	CDS	1092	wbgU_2	5.1.3.7		UDP-N-acetylglucosamine 4-epimerase
+EFEADKAH_02621	CDS	1479	ugd	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase
+EFEADKAH_02622	CDS	750	glvR		COG1737	HTH-type transcriptional regulator GlvR
+EFEADKAH_02623	CDS	951	pfkB	2.7.1.11	COG1105	ATP-dependent 6-phosphofructokinase isozyme 2
+EFEADKAH_02624	CDS	1464	fruA_5		COG1299	PTS system fructose-specific EIIABC component
+EFEADKAH_02625	CDS	459	mngA		COG1299	PTS system 2-O-alpha-mannosyl-D-glycerate-specific EIIABC component
+EFEADKAH_02626	CDS	975	lacD2	4.1.2.40	COG3684	Tagatose 1,6-diphosphate aldolase 2
+EFEADKAH_02627	CDS	951	yidC			Membrane protein insertase YidC
+EFEADKAH_02628	CDS	276	acyP	3.6.1.7	COG1254	Acylphosphatase
+EFEADKAH_02629	CDS	765		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+EFEADKAH_02630	CDS	504				hypothetical protein
+EFEADKAH_02631	CDS	642				hypothetical protein
+EFEADKAH_02632	CDS	1269	eriC		COG0038	Chloride/fluoride channel protein
+EFEADKAH_02633	CDS	1200				hypothetical protein
+EFEADKAH_02634	CDS	1308	dacA	3.4.16.4	COG1686	D-alanyl-D-alanine carboxypeptidase DacA
+EFEADKAH_02635	CDS	123				hypothetical protein
+EFEADKAH_02636	CDS	1119				hypothetical protein
+EFEADKAH_02637	CDS	321				hypothetical protein
+EFEADKAH_02638	CDS	165				hypothetical protein
+EFEADKAH_02639	CDS	201	cspLA_2		COG1278	Cold shock-like protein CspLA
+EFEADKAH_02640	CDS	2790	dinG_2	3.1.-.-		3'-5' exonuclease DinG
+EFEADKAH_02641	CDS	504				hypothetical protein
+EFEADKAH_02642	CDS	1191	aspB	2.6.1.14	COG0436	Asparagine--oxo-acid transaminase
+EFEADKAH_02643	CDS	1299	asnS	6.1.1.22		Asparagine--tRNA ligase
+EFEADKAH_02644	CDS	675	axe2	3.1.1.72		Acetylxylan esterase
+EFEADKAH_02645	CDS	342				hypothetical protein
+EFEADKAH_02646	CDS	360	yccF		COG3304	Inner membrane protein YccF
+EFEADKAH_02647	CDS	2085	cadA	3.6.3.3	COG2217	Cadmium, zinc and cobalt-transporting ATPase
+EFEADKAH_02648	CDS	1467	ycaM		COG0531	Inner membrane transporter YcaM
+EFEADKAH_02649	CDS	1296				ISL3 family transposase ISEfa5
+EFEADKAH_02650	CDS	540				hypothetical protein
+EFEADKAH_02651	CDS	441	copY			Transcriptional repressor CopY
+EFEADKAH_02652	CDS	210	copZ			Copper chaperone CopZ
+EFEADKAH_02653	CDS	2187	copA	7.2.2.8		putative copper-importing P-type ATPase A
+EFEADKAH_02654	CDS	2172	copB	7.2.2.8		Copper-exporting P-type ATPase B
+EFEADKAH_02655	CDS	741				hypothetical protein
+EFEADKAH_02656	CDS	1299				hypothetical protein
+EFEADKAH_02657	CDS	753				hypothetical protein
+EFEADKAH_02658	CDS	324				hypothetical protein
+EFEADKAH_02659	CDS	849				hypothetical protein
+EFEADKAH_02660	CDS	813				hypothetical protein
+EFEADKAH_02661	CDS	324				hypothetical protein
+EFEADKAH_02662	CDS	570				hypothetical protein
+EFEADKAH_02663	CDS	297	lytA	3.5.1.28		Autolysin
+EFEADKAH_02664	CDS	246				hypothetical protein
+EFEADKAH_02665	CDS	570				IS3 family transposase ISEnfa3
+EFEADKAH_02666	CDS	537				hypothetical protein
+EFEADKAH_02667	CDS	1179				IS256 family transposase ISEf1
+EFEADKAH_02668	CDS	537				hypothetical protein
+EFEADKAH_02669	CDS	807				IS3 family transposase ISEnfa3
+EFEADKAH_02670	CDS	417				hypothetical protein
+EFEADKAH_02671	CDS	261				hypothetical protein
+EFEADKAH_02672	CDS	1251				IS110 family transposase ISSpn10
+EFEADKAH_02673	CDS	975	cbh_3	3.5.1.24		Choloylglycine hydrolase
+EFEADKAH_02674	CDS	1296				ISL3 family transposase ISEfa5
+EFEADKAH_02675	CDS	1188				IS256 family transposase IS16
+EFEADKAH_02676	CDS	318				hypothetical protein
+EFEADKAH_02677	CDS	366				hypothetical protein
+EFEADKAH_02678	CDS	483				hypothetical protein
+EFEADKAH_02679	CDS	891	pstS1_2		COG0226	Phosphate-binding protein PstS 1
+EFEADKAH_02680	CDS	1296				ISL3 family transposase IS1251
+EFEADKAH_02681	CDS	1269				ISL3 family transposase IS1476
+EFEADKAH_02682	CDS	2472	ctpE_2	7.2.2.10	COG0474	Calcium-transporting ATPase CtpE
+EFEADKAH_02683	CDS	1737	phoR_3	2.7.13.3	COG0642	Alkaline phosphatase synthesis sensor protein PhoR
+EFEADKAH_02684	CDS	705	phoP		COG0745	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+EFEADKAH_02685	CDS	417				hypothetical protein
+EFEADKAH_02686	CDS	339				hypothetical protein
+EFEADKAH_02687	CDS	1419	ffh		COG0541	Signal recognition particle protein
+EFEADKAH_02688	CDS	579	tag	3.2.2.20	COG2818	DNA-3-methyladenine glycosylase 1
+EFEADKAH_02689	CDS	522				IS1595 family transposase ISCac2
+EFEADKAH_02690	CDS	555	chrR	1.6.5.2	COG0431	Quinone reductase
+EFEADKAH_02691	CDS	276	rpsP		COG0228	30S ribosomal protein S16
+EFEADKAH_02692	CDS	252				hypothetical protein
+EFEADKAH_02693	CDS	792				hypothetical protein
+EFEADKAH_02694	CDS	522	rimM			Ribosome maturation factor RimM
+EFEADKAH_02695	CDS	762	trmD	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+EFEADKAH_02696	CDS	348	rplS		COG0335	50S ribosomal protein L19
+EFEADKAH_02697	CDS	663				hypothetical protein
+EFEADKAH_02698	CDS	3228				hypothetical protein
+EFEADKAH_02699	CDS	315				hypothetical protein
+EFEADKAH_02700	CDS	375				hypothetical protein
+EFEADKAH_02701	CDS	345				hypothetical protein
+EFEADKAH_02702	CDS	1146				hypothetical protein
+EFEADKAH_02703	CDS	1860				hypothetical protein
+EFEADKAH_02704	CDS	252				hypothetical protein
+EFEADKAH_02705	CDS	1143				IS1595 family transposase ISCco3
+EFEADKAH_02706	CDS	255				hypothetical protein
+EFEADKAH_02707	CDS	1185				hypothetical protein
+EFEADKAH_02708	CDS	138				hypothetical protein
+EFEADKAH_02709	CDS	1911				hypothetical protein
+EFEADKAH_02710	CDS	501				hypothetical protein
+EFEADKAH_02711	CDS	1848				hypothetical protein
+EFEADKAH_02712	CDS	897				hypothetical protein
+EFEADKAH_02713	CDS	390				hypothetical protein
+EFEADKAH_02714	CDS	2346				hypothetical protein
+EFEADKAH_02715	CDS	1188				IS256 family transposase IS16
+EFEADKAH_02716	CDS	2130				hypothetical protein
+EFEADKAH_02717	CDS	1008				hypothetical protein
+EFEADKAH_02718	CDS	912				hypothetical protein
+EFEADKAH_02719	CDS	729				IS21 family transposase ISCth15
+EFEADKAH_02720	CDS	1419				hypothetical protein
+EFEADKAH_02721	CDS	1122			COG3385	IS4 family transposase IS4Bsu1
+EFEADKAH_02722	CDS	954			COG2826	IS30 family transposase IS1252
+EFEADKAH_02723	CDS	480				hypothetical protein
+EFEADKAH_02724	CDS	291				IS3 family transposase ISEfa8
+EFEADKAH_02725	CDS	837				IS3 family transposase ISEfa8
+EFEADKAH_02726	CDS	981	degA_3		COG1609	HTH-type transcriptional regulator DegA
+EFEADKAH_02727	CDS	1419	bfrA	3.2.1.26	COG1621	Beta-fructosidase
+EFEADKAH_02728	CDS	1470	treP_1		COG1263	PTS system trehalose-specific EIIBC component
+EFEADKAH_02729	CDS	468				hypothetical protein
+EFEADKAH_02730	CDS	873	gmuE_4	2.7.1.4	COG1940	Putative fructokinase
+EFEADKAH_02731	CDS	2535	dgaR_5			Transcriptional regulatory protein DagR
+EFEADKAH_02732	CDS	108				hypothetical protein
+EFEADKAH_02733	CDS	654	agaC_2		COG3715	N-acetylgalactosamine permease IIC component 1
+EFEADKAH_02734	CDS	792	manZ_6		COG3716	PTS system mannose-specific EIID component
+EFEADKAH_02735	CDS	492	manX_5	2.7.1.191	COG2893	PTS system mannose-specific EIIAB component
+EFEADKAH_02736	CDS	411				hypothetical protein
+EFEADKAH_02737	CDS	1401				hypothetical protein
+EFEADKAH_02738	CDS	375				hypothetical protein
+EFEADKAH_02739	CDS	195				hypothetical protein
+EFEADKAH_02740	CDS	354				hypothetical protein
+EFEADKAH_02741	CDS	1548				IS66 family transposase ISRob1
+EFEADKAH_02742	CDS	429				hypothetical protein
+EFEADKAH_02743	CDS	252				hypothetical protein
+EFEADKAH_02744	CDS	216				hypothetical protein
+EFEADKAH_02745	CDS	309				hypothetical protein
+EFEADKAH_02746	CDS	1179	xerC_11			Tyrosine recombinase XerC
+EFEADKAH_02747	CDS	294				hypothetical protein
+EFEADKAH_02748	CDS	2322				hypothetical protein
+EFEADKAH_02749	CDS	459				hypothetical protein
+EFEADKAH_02750	CDS	1014				hypothetical protein
+EFEADKAH_02751	CDS	447				hypothetical protein
+EFEADKAH_02752	CDS	816				hypothetical protein
+EFEADKAH_02753	CDS	1173				hypothetical protein
+EFEADKAH_02754	CDS	198				hypothetical protein
+EFEADKAH_02755	CDS	495				hypothetical protein
+EFEADKAH_02756	CDS	423				hypothetical protein
+EFEADKAH_02757	CDS	1194	yjhB			Putative metabolite transport protein YjhB
+EFEADKAH_02758	CDS	378	adhR		COG0789	HTH-type transcriptional regulator AdhR
+EFEADKAH_02759	CDS	306	hdfR_3			HTH-type transcriptional regulator HdfR
+EFEADKAH_02760	CDS	444				hypothetical protein
+EFEADKAH_02761	CDS	1296				ISL3 family transposase ISEfa11
+EFEADKAH_02762	CDS	816	araQ_6		COG0395	L-arabinose transport system permease protein AraQ
+EFEADKAH_02763	CDS	216				hypothetical protein
+EFEADKAH_02764	CDS	1179				IS256 family transposase ISEf1
+EFEADKAH_02765	CDS	1356	alsS_1	2.2.1.6	COG0028	Acetolactate synthase
+EFEADKAH_02766	CDS	246	alsS_2	2.2.1.6	COG0028	Acetolactate synthase
+EFEADKAH_02767	CDS	711	aldC	4.1.1.5	COG3527	Alpha-acetolactate decarboxylase
+EFEADKAH_02768	CDS	498				hypothetical protein
+EFEADKAH_02769	CDS	261				hypothetical protein
+EFEADKAH_02770	CDS	240				hypothetical protein
+EFEADKAH_02771	CDS	810				IS256 family transposase ISEf1
+EFEADKAH_02772	CDS	417				hypothetical protein
+EFEADKAH_02773	tRNA	74				tRNA-Met(cat)
+EFEADKAH_02774	CDS	705				ISL3 family transposase ISEfa5
+EFEADKAH_02775	CDS	1296				ISL3 family transposase ISEfa5
+EFEADKAH_02776	CDS	252				hypothetical protein
+EFEADKAH_02777	CDS	741				hypothetical protein
+EFEADKAH_02778	CDS	333				hypothetical protein
+EFEADKAH_02779	CDS	156				hypothetical protein
+EFEADKAH_02780	CDS	123				hypothetical protein
+EFEADKAH_02781	CDS	240				hypothetical protein
+EFEADKAH_02782	CDS	690				hypothetical protein
+EFEADKAH_02783	CDS	1074				hypothetical protein
+EFEADKAH_02784	CDS	675				hypothetical protein
+EFEADKAH_02785	CDS	1977				hypothetical protein
+EFEADKAH_02786	CDS	753	srtA_1	3.4.22.-		Sortase A
+EFEADKAH_02787	CDS	756				hypothetical protein
+EFEADKAH_02788	CDS	261				hypothetical protein
+EFEADKAH_02789	CDS	2091				hypothetical protein
+EFEADKAH_02790	CDS	435				hypothetical protein
+EFEADKAH_02791	CDS	243				hypothetical protein
+EFEADKAH_02792	CDS	303				hypothetical protein
+EFEADKAH_02793	CDS	2064				hypothetical protein
+EFEADKAH_02794	CDS	1830				hypothetical protein
+EFEADKAH_02795	CDS	1899				hypothetical protein
+EFEADKAH_02796	CDS	792				hypothetical protein
+EFEADKAH_02797	CDS	2373				hypothetical protein
+EFEADKAH_02798	CDS	333				hypothetical protein
+EFEADKAH_02799	CDS	594				hypothetical protein
+EFEADKAH_02800	CDS	153				hypothetical protein
+EFEADKAH_02801	CDS	2025				hypothetical protein
+EFEADKAH_02802	CDS	1206				hypothetical protein
+EFEADKAH_02803	CDS	645				hypothetical protein
+EFEADKAH_02804	CDS	807				hypothetical protein
+EFEADKAH_02805	CDS	135				hypothetical protein
+EFEADKAH_02806	CDS	1074				hypothetical protein
+EFEADKAH_02807	CDS	270				hypothetical protein
+EFEADKAH_02808	CDS	297				hypothetical protein
+EFEADKAH_02809	CDS	423				hypothetical protein
+EFEADKAH_02810	CDS	1593				hypothetical protein
+EFEADKAH_02811	CDS	336				hypothetical protein
+EFEADKAH_02812	CDS	195				hypothetical protein
+EFEADKAH_02813	CDS	1251				IS110 family transposase ISSpn10
+EFEADKAH_02814	CDS	2373				hypothetical protein
+EFEADKAH_02815	CDS	1470				hypothetical protein
+EFEADKAH_02816	CDS	2010	topB_3	5.6.2.1	COG0550	DNA topoisomerase 3
+EFEADKAH_02817	CDS	150				hypothetical protein
+EFEADKAH_02818	CDS	597				hypothetical protein
+EFEADKAH_02819	CDS	900				hypothetical protein
+EFEADKAH_02820	CDS	132	ssbA		COG0629	Single-stranded DNA-binding protein A
+EFEADKAH_02821	CDS	306	ssb_2		COG0629	Single-stranded DNA-binding protein
+EFEADKAH_02822	CDS	258				hypothetical protein
+EFEADKAH_02823	CDS	207				hypothetical protein
+EFEADKAH_02824	CDS	252				hypothetical protein
+EFEADKAH_02825	CDS	156				hypothetical protein
+EFEADKAH_02826	CDS	273				hypothetical protein
+EFEADKAH_02827	CDS	180				hypothetical protein
+EFEADKAH_02828	CDS	357				hypothetical protein
+EFEADKAH_02829	CDS	282				hypothetical protein
+EFEADKAH_02830	CDS	954			COG2826	IS30 family transposase IS1252
+EFEADKAH_02831	CDS	264				hypothetical protein
+EFEADKAH_02832	CDS	291				hypothetical protein
+EFEADKAH_02833	CDS	1179				IS256 family transposase ISEf1
+EFEADKAH_02834	CDS	1947	manR_3		COG1762	Transcriptional regulator ManR
+EFEADKAH_02835	CDS	456				hypothetical protein
+EFEADKAH_02836	CDS	1329	gatC_3		COG3775	PTS system galactitol-specific EIIC component
+EFEADKAH_02837	CDS	285				hypothetical protein
+EFEADKAH_02838	CDS	516				hypothetical protein
+EFEADKAH_02839	CDS	663	rpe_2	5.1.3.1		Ribulose-phosphate 3-epimerase
+EFEADKAH_02840	CDS	573	hxlB	5.3.1.27	COG0794	3-hexulose-6-phosphate isomerase
+EFEADKAH_02841	CDS	1521				IS66 family transposase ISCth11
+EFEADKAH_02842	CDS	180				hypothetical protein
+EFEADKAH_02843	CDS	183				hypothetical protein
+EFEADKAH_02844	CDS	600	xerC_12			Tyrosine recombinase XerC
+EFEADKAH_02845	CDS	600				hypothetical protein
+EFEADKAH_02846	CDS	420				IS6 family transposase IS1216V
+EFEADKAH_02847	CDS	285				hypothetical protein
+EFEADKAH_02848	CDS	873	gmuE_5	2.7.1.4	COG1940	Putative fructokinase
+EFEADKAH_02849	CDS	1173				IS256 family transposase IS256
+EFEADKAH_02850	CDS	1947				hypothetical protein
+EFEADKAH_02851	CDS	1440	scrB_1	3.2.1.26		Sucrose-6-phosphate hydrolase
+EFEADKAH_02852	CDS	831	degA_4		COG1609	HTH-type transcriptional regulator DegA
+EFEADKAH_02853	CDS	804				IS3 family transposase ISEfa10
+EFEADKAH_02854	CDS	582				IS3 family transposase ISEfa10
+EFEADKAH_02855	CDS	456				IS200/IS605 family transposase ISAac3
+EFEADKAH_02856	CDS	234				hypothetical protein
+EFEADKAH_02857	CDS	1320				IS1380 family transposase IS1678
+EFEADKAH_02858	CDS	219				hypothetical protein
+EFEADKAH_02859	CDS	819	rpiR		COG1737	HTH-type transcriptional regulator RpiR
+EFEADKAH_02860	CDS	690	nanE_2	5.1.3.9	COG3010	Putative N-acetylmannosamine-6-phosphate 2-epimerase
+EFEADKAH_02861	CDS	1503	glcB		COG2190	PTS system glucoside-specific EIICBA component
+EFEADKAH_02862	CDS	1251				IS110 family transposase ISSpn10
+EFEADKAH_02863	CDS	477				hypothetical protein
+EFEADKAH_02864	CDS	837				IS3 family transposase IS1485
+EFEADKAH_02865	CDS	519				hypothetical protein
+EFEADKAH_02866	CDS	1086	xerS		COG0582	Tyrosine recombinase XerS
+EFEADKAH_02867	CDS	954			COG2826	IS30 family transposase IS1252
+EFEADKAH_02868	CDS	1251	licC_3		COG1455	Lichenan permease IIC component
+EFEADKAH_02869	CDS	927				hypothetical protein
+EFEADKAH_02870	CDS	996	lacD	4.1.2.40		Tagatose 1,6-diphosphate aldolase
+EFEADKAH_02871	CDS	1170	agaS	3.5.99.-	COG2222	D-galactosamine-6-phosphate deaminase AgaS
+EFEADKAH_02872	CDS	735	nagR_2		COG2188	HTH-type transcriptional repressor NagR
+EFEADKAH_02873	CDS	837				IS3 family transposase IS1485
+EFEADKAH_02874	CDS	1428				IS1182 family transposase ISEfa12
+EFEADKAH_02875	CDS	405				hypothetical protein
+EFEADKAH_02876	CDS	1149				IS200/IS605 family transposase ISEfa4
+EFEADKAH_02877	CDS	1386	treP_2		COG1263	PTS system trehalose-specific EIIBC component
+EFEADKAH_02878	CDS	1341	scrB_2	3.2.1.26	COG1621	Sucrose-6-phosphate hydrolase
+EFEADKAH_02879	CDS	855	rhaS_3			HTH-type transcriptional activator RhaS
+EFEADKAH_02880	CDS	2193	agaA_3	3.2.1.22		Alpha-galactosidase AgaA
+EFEADKAH_02881	CDS	456	crr			PTS system glucose-specific EIIA component
+EFEADKAH_02882	CDS	837				IS3 family transposase IS1485
+EFEADKAH_02883	CDS	291				IS3 family transposase IS1485
+EFEADKAH_02884	CDS	537				hypothetical protein
+EFEADKAH_02885	CDS	570				IS3 family transposase ISEnfa3
+EFEADKAH_02886	CDS	864				IS256 family transposase ISBsu2
+EFEADKAH_02887	CDS	378				IS256 family transposase ISBsu2
+EFEADKAH_02888	CDS	1296				ISL3 family transposase ISEfa5
+EFEADKAH_02889	CDS	405				hypothetical protein
+EFEADKAH_02890	CDS	1149				IS200/IS605 family transposase ISEfa4
+EFEADKAH_02891	CDS	261				hypothetical protein
+EFEADKAH_02892	CDS	1179				IS256 family transposase ISEf1
+EFEADKAH_02893	CDS	1320				hypothetical protein
+EFEADKAH_02894	CDS	654	qseB			Transcriptional regulatory protein QseB
+EFEADKAH_02895	CDS	1275				ISL3 family transposase IS1476
+EFEADKAH_02896	CDS	1614	guaA_2	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+EFEADKAH_02897	CDS	933				hypothetical protein
+EFEADKAH_02898	CDS	1662				hypothetical protein
+EFEADKAH_02899	CDS	2982	ebgA	3.2.1.23	COG3250	Evolved beta-galactosidase subunit alpha
+EFEADKAH_02900	CDS	1914				hypothetical protein
+EFEADKAH_02901	CDS	612				hypothetical protein
+EFEADKAH_02902	CDS	1473				hypothetical protein
+EFEADKAH_02903	CDS	912	araQ_7		COG0395	L-arabinose transport system permease protein AraQ
+EFEADKAH_02904	CDS	939	yteP_3		COG4209	putative multiple-sugar transport system permease YteP
+EFEADKAH_02905	CDS	1575				hypothetical protein
+EFEADKAH_02906	CDS	729			COG4753	putative response regulatory protein
+EFEADKAH_02907	CDS	1275				ISL3 family transposase IS1476
+EFEADKAH_02908	CDS	1032	btuD_6	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+EFEADKAH_02909	CDS	831				hypothetical protein
+EFEADKAH_02910	CDS	816				hypothetical protein
+EFEADKAH_02911	CDS	825				hypothetical protein
+EFEADKAH_02912	CDS	1101				hypothetical protein
+EFEADKAH_02913	CDS	786	hisK	3.1.3.15	COG1387	Histidinol-phosphatase
+EFEADKAH_02914	CDS	288				hypothetical protein
+EFEADKAH_02915	CDS	237				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+EFEADKAH_02916	CDS	816	cutD	1.97.1.-		Choline trimethylamine-lyase activating enzyme
+EFEADKAH_02917	CDS	696				IS1182 family transposase ISEfa7
+EFEADKAH_02918	CDS	492				hypothetical protein
+EFEADKAH_02919	CDS	1296				ISL3 family transposase ISEfa5
+EFEADKAH_02920	CDS	1548				IS66 family transposase ISRob1
+EFEADKAH_02921	CDS	195				hypothetical protein
+EFEADKAH_02922	CDS	102				hypothetical protein
+EFEADKAH_02923	CDS	1377				hypothetical protein
+EFEADKAH_02924	CDS	657			COG1136	putative ABC transporter ATP-binding protein
+EFEADKAH_02925	CDS	1278				hypothetical protein
+EFEADKAH_02926	CDS	291				IS3 family transposase ISEfa8
+EFEADKAH_02927	CDS	837				IS3 family transposase ISEfa8
+EFEADKAH_02928	CDS	588	resA			Thiol-disulfide oxidoreductase ResA
+EFEADKAH_02929	CDS	534				hypothetical protein
+EFEADKAH_02930	CDS	291				IS3 family transposase ISEfa8
+EFEADKAH_02931	CDS	837				IS3 family transposase ISEfa8
+EFEADKAH_02932	CDS	321				hypothetical protein
+EFEADKAH_02933	CDS	960			COG2826	IS30 family transposase IS1062
+EFEADKAH_02934	CDS	606				hypothetical protein
+EFEADKAH_02935	CDS	1149				IS200/IS605 family transposase ISEfa4
+EFEADKAH_02936	CDS	405				hypothetical protein
+EFEADKAH_02937	CDS	555	xerC_13			Tyrosine recombinase XerC
+EFEADKAH_02938	CDS	909				IS982 family transposase ISEfm1
+EFEADKAH_02939	CDS	606		2.7.7.-	COG2184	Protein adenylyltransferase NmFic
+EFEADKAH_02940	CDS	300				hypothetical protein
+EFEADKAH_02941	CDS	954			COG2826	IS30 family transposase IS1252
+EFEADKAH_02942	CDS	651				hypothetical protein
+EFEADKAH_02943	CDS	510				hypothetical protein
+EFEADKAH_02944	CDS	564	hsdS		COG0732	Type-1 restriction enzyme EcoKI specificity protein
+EFEADKAH_02945	CDS	1044				hypothetical protein
+EFEADKAH_02946	CDS	405	ohrB_2		COG1764	Organic hydroperoxide resistance protein OhrB
+EFEADKAH_02947	CDS	249				hypothetical protein
+EFEADKAH_02948	CDS	1179				IS256 family transposase ISEf1
+EFEADKAH_02949	CDS	612			COG2826	IS30 family transposase IS6770
+EFEADKAH_02950	CDS	1179				IS256 family transposase ISEf1
+EFEADKAH_02951	CDS	297				hypothetical protein
+EFEADKAH_02952	CDS	879				hypothetical protein
+EFEADKAH_02953	CDS	960			COG2826	IS30 family transposase IS6770
+EFEADKAH_02954	CDS	672			COG2826	IS30 family transposase IS1062
+EFEADKAH_02955	CDS	1431	bglF_4		COG1263	PTS system beta-glucoside-specific EIIBCA component
+EFEADKAH_02956	CDS	1296				ISL3 family transposase IS1251
+EFEADKAH_02957	CDS	843	licT_4		COG3711	Transcription antiterminator LicT
+EFEADKAH_02958	CDS	1467	bglH_3	3.2.1.86	COG2723	Aryl-phospho-beta-D-glucosidase BglH
+EFEADKAH_02959	CDS	1845	bglF_5		COG1263	PTS system beta-glucoside-specific EIIBCA component
+EFEADKAH_02960	CDS	681				IS6 family transposase IS1216E
+EFEADKAH_02961	CDS	810	manZ_7		COG3716	PTS system mannose-specific EIID component
+EFEADKAH_02962	CDS	636	sorA_3		COG3715	PTS system sorbose-specific EIIC component
+EFEADKAH_02963	CDS	114				hypothetical protein
+EFEADKAH_02964	CDS	468		2.7.1.-		putative phosphotransferase enzyme IIB component
+EFEADKAH_02965	CDS	258				hypothetical protein
+EFEADKAH_02966	CDS	1014	frlB_2	3.5.-.-	COG2222	Fructosamine deglycase FrlB
+EFEADKAH_02967	CDS	1236	fadR			Fatty acid metabolism regulator protein
+EFEADKAH_02968	CDS	156				IS6 family transposase IS1216V
+EFEADKAH_02969	CDS	459				IS6 family transposase IS1216V
+EFEADKAH_02970	CDS	561	hxpB	3.1.3.68	COG0637	Hexitol phosphatase B
+EFEADKAH_02971	CDS	285				hypothetical protein
+EFEADKAH_02972	CDS	2106	norR_2			Anaerobic nitric oxide reductase transcription regulator NorR
+EFEADKAH_02973	CDS	285				hypothetical protein
+EFEADKAH_02974	CDS	870	frlB_3	3.5.-.-	COG2222	Fructosamine deglycase FrlB
+EFEADKAH_02975	CDS	309				hypothetical protein
+EFEADKAH_02976	CDS	525	manZ_8		COG3716	PTS system mannose-specific EIID component
+EFEADKAH_02977	CDS	774	sorA_4		COG3715	PTS system sorbose-specific EIIC component
+EFEADKAH_02978	CDS	471	manX_6	2.7.1.191	COG2893	PTS system mannose-specific EIIAB component
+EFEADKAH_02979	CDS	417				hypothetical protein
+EFEADKAH_02980	CDS	825				hypothetical protein
+EFEADKAH_02981	CDS	1149				IS200/IS605 family transposase ISEfa4
+EFEADKAH_02982	CDS	405				hypothetical protein
+EFEADKAH_02983	CDS	1170				hypothetical protein
+EFEADKAH_02984	CDS	555				hypothetical protein
+EFEADKAH_02985	CDS	327				hypothetical protein
+EFEADKAH_02986	CDS	360				IS6 family transposase IS1297
+EFEADKAH_02987	CDS	1428				IS1182 family transposase ISEfa12
+EFEADKAH_02988	CDS	492				hypothetical protein
+EFEADKAH_02989	CDS	249				hypothetical protein
+EFEADKAH_02990	CDS	669				hypothetical protein
+EFEADKAH_02991	CDS	627	srtA_2	3.4.22.-		Sortase A
+EFEADKAH_02992	CDS	1230				hypothetical protein
+EFEADKAH_02993	CDS	696				hypothetical protein
+EFEADKAH_02994	CDS	618				hypothetical protein
+EFEADKAH_02995	CDS	240				hypothetical protein
+EFEADKAH_02996	CDS	240				hypothetical protein
+EFEADKAH_02997	CDS	342				hypothetical protein
+EFEADKAH_02998	CDS	309				hypothetical protein
+EFEADKAH_02999	CDS	333				hypothetical protein
+EFEADKAH_03000	CDS	954				hypothetical protein
+EFEADKAH_03001	CDS	102				hypothetical protein
+EFEADKAH_03002	CDS	555				hypothetical protein
+EFEADKAH_03003	CDS	693				hypothetical protein
+EFEADKAH_03004	CDS	117				hypothetical protein
+EFEADKAH_03005	CDS	294				hypothetical protein
+EFEADKAH_03006	CDS	105				hypothetical protein
+EFEADKAH_03007	CDS	351				hypothetical protein
+EFEADKAH_03008	CDS	1326	umuC_2		COG0389	Protein UmuC
+EFEADKAH_03009	CDS	615	bin3_1			Putative transposon Tn552 DNA-invertase bin3
+EFEADKAH_03010	CDS	351	pemK	3.1.-.-		Endoribonuclease PemK
+EFEADKAH_03011	CDS	264				hypothetical protein
+EFEADKAH_03012	CDS	150				hypothetical protein
+EFEADKAH_03013	CDS	180				hypothetical protein
+EFEADKAH_03014	CDS	201				hypothetical protein
+EFEADKAH_03015	CDS	708				hypothetical protein
+EFEADKAH_03016	CDS	438				hypothetical protein
+EFEADKAH_03017	CDS	252				hypothetical protein
+EFEADKAH_03018	CDS	207				hypothetical protein
+EFEADKAH_03019	CDS	261				hypothetical protein
+EFEADKAH_03020	CDS	486	ssb_3		COG0629	Single-stranded DNA-binding protein
+EFEADKAH_03021	CDS	900				hypothetical protein
+EFEADKAH_03022	CDS	594				hypothetical protein
+EFEADKAH_03023	CDS	150				hypothetical protein
+EFEADKAH_03024	CDS	2205	topB_4	5.6.2.1	COG0550	DNA topoisomerase 3
+EFEADKAH_03025	CDS	1461				hypothetical protein
+EFEADKAH_03026	CDS	2178				hypothetical protein
+EFEADKAH_03027	CDS	138				hypothetical protein
+EFEADKAH_03028	CDS	456				hypothetical protein
+EFEADKAH_03029	CDS	402				hypothetical protein
+EFEADKAH_03030	CDS	738				hypothetical protein
+EFEADKAH_03031	CDS	1251				IS110 family transposase ISSpn10
+EFEADKAH_03032	CDS	195				hypothetical protein
+EFEADKAH_03033	CDS	657				hypothetical protein
+EFEADKAH_03034	CDS	330				hypothetical protein
+EFEADKAH_03035	CDS	480				hypothetical protein
+EFEADKAH_03036	CDS	243				hypothetical protein
+EFEADKAH_03037	CDS	153				hypothetical protein
+EFEADKAH_03038	CDS	309				hypothetical protein
+EFEADKAH_03039	CDS	231				hypothetical protein
+EFEADKAH_03040	CDS	363				hypothetical protein
+EFEADKAH_03041	CDS	465				hypothetical protein
+EFEADKAH_03042	CDS	645				hypothetical protein
+EFEADKAH_03043	CDS	525				hypothetical protein
+EFEADKAH_03044	CDS	549				hypothetical protein
+EFEADKAH_03045	CDS	321				hypothetical protein
+EFEADKAH_03046	CDS	207				hypothetical protein
+EFEADKAH_03047	CDS	351				hypothetical protein
+EFEADKAH_03048	CDS	120				hypothetical protein
+EFEADKAH_03049	CDS	492				hypothetical protein
+EFEADKAH_03050	CDS	141				hypothetical protein
+EFEADKAH_03051	CDS	189				hypothetical protein
+EFEADKAH_03052	CDS	324				hypothetical protein
+EFEADKAH_03053	CDS	225				hypothetical protein
+EFEADKAH_03054	CDS	267				hypothetical protein
+EFEADKAH_03055	CDS	213				hypothetical protein
+EFEADKAH_03056	CDS	225				hypothetical protein
+EFEADKAH_03057	CDS	288				hypothetical protein
+EFEADKAH_03058	CDS	885				hypothetical protein
+EFEADKAH_03059	CDS	297				hypothetical protein
+EFEADKAH_03060	CDS	681				IS6 family transposase IS1216E
+EFEADKAH_03061	CDS	696	walR_2		COG0745	Transcriptional regulatory protein WalR
+EFEADKAH_03062	CDS	1143	sasA_4	2.7.-.-		Adaptive-response sensory-kinase SasA
+EFEADKAH_03063	CDS	969	vanH_1	1.1.1.-		D-specific alpha-keto acid dehydrogenase
+EFEADKAH_03064	CDS	1032	vanA_1	6.1.2.1		Vancomycin/teicoplanin A-type resistance protein VanA
+EFEADKAH_03065	CDS	609	vanX	3.4.13.22		D-alanyl-D-alanine dipeptidase
+EFEADKAH_03066	CDS	681				IS6 family transposase IS1216E
+EFEADKAH_03067	CDS	399				hypothetical protein
+EFEADKAH_03068	CDS	285				hypothetical protein
+EFEADKAH_03069	CDS	300				hypothetical protein
+EFEADKAH_03070	CDS	1491				hypothetical protein
+EFEADKAH_03071	CDS	171				hypothetical protein
+EFEADKAH_03072	CDS	618	bin3_2			Putative transposon Tn552 DNA-invertase bin3
+EFEADKAH_03073	CDS	93				hypothetical protein
+EFEADKAH_03074	CDS	681				IS6 family transposase IS1216E
+EFEADKAH_03075	CDS	453				hypothetical protein
+EFEADKAH_03076	CDS	690				hypothetical protein
+EFEADKAH_03077	CDS	2352				hypothetical protein
+EFEADKAH_03078	CDS	387				hypothetical protein
+EFEADKAH_03079	CDS	618	bin3_3			Putative transposon Tn552 DNA-invertase bin3
+EFEADKAH_03080	CDS	300	ligA_2	6.5.1.2		DNA ligase
+EFEADKAH_03081	CDS	168				hypothetical protein
+EFEADKAH_03082	CDS	606	bin3_4			Putative transposon Tn552 DNA-invertase bin3
+EFEADKAH_03083	CDS	1371				Tn3 family transposase TnBth1
+EFEADKAH_03084	CDS	681				IS6 family transposase IS1216E
+EFEADKAH_03085	CDS	318				hypothetical protein
+EFEADKAH_03086	CDS	594	repD			Replication initiation protein
+EFEADKAH_03087	CDS	681				IS6 family transposase IS1216E
+EFEADKAH_03088	CDS	525				hypothetical protein
+EFEADKAH_03089	CDS	1416				hypothetical protein
+EFEADKAH_03090	CDS	363				hypothetical protein
+EFEADKAH_03091	CDS	318				hypothetical protein
+EFEADKAH_03092	CDS	420				hypothetical protein
+EFEADKAH_03093	CDS	492	repN			Replication initiation protein
+EFEADKAH_03094	CDS	681				IS6 family transposase IS1216E
+EFEADKAH_03095	CDS	237				hypothetical protein
+EFEADKAH_03096	CDS	276				hypothetical protein
+EFEADKAH_03097	CDS	954	soj_2	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+EFEADKAH_03098	CDS	1494				hypothetical protein
+EFEADKAH_03099	CDS	297				hypothetical protein
+EFEADKAH_03100	CDS	681				IS6 family transposase IS1216E
+EFEADKAH_03101	CDS	1458	rssB			Regulator of RpoS
+EFEADKAH_03102	CDS	366	walK_2	2.7.13.3		Sensor protein kinase WalK
+EFEADKAH_03103	CDS	969	vanH_2	1.1.1.-		D-specific alpha-keto acid dehydrogenase
+EFEADKAH_03104	CDS	1032	vanA_2	6.1.2.1		Vancomycin/teicoplanin A-type resistance protein VanA
+EFEADKAH_03105	CDS	114				hypothetical protein
+EFEADKAH_03106	CDS	399				hypothetical protein
+EFEADKAH_03107	CDS	537				hypothetical protein
+EFEADKAH_03108	CDS	261				hypothetical protein
+EFEADKAH_03109	CDS	2025				hypothetical protein
+EFEADKAH_03110	CDS	153				hypothetical protein
+EFEADKAH_03111	CDS	594				hypothetical protein
+EFEADKAH_03112	CDS	333				hypothetical protein
+EFEADKAH_03113	CDS	2373				hypothetical protein
+EFEADKAH_03114	CDS	744				hypothetical protein
+EFEADKAH_03115	CDS	684				hypothetical protein
+EFEADKAH_03116	CDS	1203	ltrA		COG3344	Group II intron-encoded protein LtrA
+EFEADKAH_03117	CDS	333				hypothetical protein
+EFEADKAH_03118	CDS	885				hypothetical protein
+EFEADKAH_03119	CDS	360				hypothetical protein
+EFEADKAH_03120	CDS	285				hypothetical protein
+EFEADKAH_03121	CDS	516				hypothetical protein
+EFEADKAH_03122	CDS	186				hypothetical protein
+EFEADKAH_03123	CDS	258				hypothetical protein
+EFEADKAH_03124	CDS	582				hypothetical protein
+EFEADKAH_03125	CDS	144				hypothetical protein
+EFEADKAH_03126	CDS	369				hypothetical protein
+EFEADKAH_03127	CDS	183				hypothetical protein
+EFEADKAH_03128	CDS	417				IS6 family transposase IS1216V
+EFEADKAH_03129	CDS	294				hypothetical protein
+EFEADKAH_03130	CDS	696				hypothetical protein
+EFEADKAH_03131	CDS	201				hypothetical protein
+EFEADKAH_03132	CDS	180				hypothetical protein
+EFEADKAH_03133	CDS	234				hypothetical protein
+EFEADKAH_03134	CDS	105				hypothetical protein
+EFEADKAH_03135	CDS	291				hypothetical protein
+EFEADKAH_03136	CDS	423				hypothetical protein
+EFEADKAH_03137	CDS	615	bin3_5			Putative transposon Tn552 DNA-invertase bin3
+EFEADKAH_03138	CDS	1326	umuC_3		COG0389	Protein UmuC
+EFEADKAH_03139	CDS	351				hypothetical protein
+EFEADKAH_03140	CDS	180				hypothetical protein
+EFEADKAH_03141	CDS	342				hypothetical protein
+EFEADKAH_03142	CDS	789	soj_3	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+EFEADKAH_03143	CDS	327				hypothetical protein
+EFEADKAH_03144	CDS	1041				hypothetical protein
+EFEADKAH_03145	CDS	321				IS6 family transposase IS1216V
+EFEADKAH_03146	CDS	228				hypothetical protein
+EFEADKAH_03147	CDS	696				hypothetical protein
+EFEADKAH_03148	CDS	201				hypothetical protein
+EFEADKAH_03149	CDS	180				hypothetical protein
+EFEADKAH_03150	CDS	138				hypothetical protein
+EFEADKAH_03151	CDS	258	yoeB	3.1.-.-	COG4115	Toxin YoeB
+EFEADKAH_03152	CDS	156				hypothetical protein
+EFEADKAH_03153	CDS	291				hypothetical protein
+EFEADKAH_03154	CDS	693				hypothetical protein
+EFEADKAH_03155	CDS	636				hypothetical protein
+EFEADKAH_03156	CDS	153				hypothetical protein
+EFEADKAH_03157	CDS	330				hypothetical protein
+EFEADKAH_03158	CDS	153				hypothetical protein
+EFEADKAH_03159	CDS	420				hypothetical protein
+EFEADKAH_03160	CDS	516				hypothetical protein
+EFEADKAH_03161	CDS	831				hypothetical protein
+EFEADKAH_03162	CDS	429				hypothetical protein
+EFEADKAH_03163	CDS	324				hypothetical protein
+EFEADKAH_03164	CDS	363				hypothetical protein
+EFEADKAH_03165	CDS	147				hypothetical protein
+EFEADKAH_03166	CDS	222				hypothetical protein
+EFEADKAH_03167	CDS	276				hypothetical protein
+EFEADKAH_03168	CDS	111				hypothetical protein
+EFEADKAH_03169	CDS	1671				hypothetical protein
+EFEADKAH_03170	CDS	717				hypothetical protein
+EFEADKAH_03171	CDS	1818				hypothetical protein
+EFEADKAH_03172	CDS	1899				hypothetical protein
+EFEADKAH_03173	CDS	1008				hypothetical protein
+EFEADKAH_03174	CDS	2541				hypothetical protein
+EFEADKAH_03175	CDS	222				hypothetical protein
+EFEADKAH_03176	CDS	618				hypothetical protein
+EFEADKAH_03177	CDS	468				hypothetical protein
+EFEADKAH_03178	CDS	903				hypothetical protein
+EFEADKAH_03179	CDS	504				hypothetical protein
+EFEADKAH_03180	CDS	165				hypothetical protein
+EFEADKAH_03181	CDS	99				hypothetical protein
+EFEADKAH_03182	CDS	1014				hypothetical protein
+EFEADKAH_03183	CDS	651				hypothetical protein
+EFEADKAH_03184	CDS	897				hypothetical protein
+EFEADKAH_03185	CDS	231				hypothetical protein
+EFEADKAH_03186	CDS	135				hypothetical protein
+EFEADKAH_03187	CDS	516	yxdL_2		COG1136	ABC transporter ATP-binding protein YxdL
+EFEADKAH_03188	CDS	105				hypothetical protein
+EFEADKAH_03189	CDS	138				hypothetical protein
+EFEADKAH_03190	CDS	381				hypothetical protein
+EFEADKAH_03191	CDS	915				hypothetical protein
+EFEADKAH_03192	CDS	690				hypothetical protein
+EFEADKAH_03193	CDS	738				hypothetical protein
+EFEADKAH_03194	CDS	540				hypothetical protein
+EFEADKAH_03195	CDS	171				hypothetical protein
+EFEADKAH_03196	CDS	462				hypothetical protein
+EFEADKAH_03197	CDS	375				hypothetical protein
+EFEADKAH_03198	CDS	2127				hypothetical protein
+EFEADKAH_03199	CDS	621	yxdL_3		COG1136	ABC transporter ATP-binding protein YxdL
+EFEADKAH_03200	CDS	138				hypothetical protein
+EFEADKAH_03201	CDS	381				hypothetical protein
+EFEADKAH_03202	CDS	915				hypothetical protein
+EFEADKAH_03203	CDS	702				hypothetical protein
+EFEADKAH_03204	CDS	738				hypothetical protein
+EFEADKAH_03205	CDS	558				hypothetical protein
+EFEADKAH_03206	CDS	171				hypothetical protein
+EFEADKAH_03207	CDS	135				hypothetical protein
