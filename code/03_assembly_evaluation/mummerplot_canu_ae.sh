@@ -1,4 +1,3 @@
-
 #!/bin/bash -l
 #SBATCH -A uppmax2023-2-8
 #SBATCH -M snowy
@@ -6,7 +5,7 @@
 #SBATCH -n 2
 #SBATCH -t 05:00:00
 #SBATCH -J mummerplot_ae_Canu
-#SBATCH -o /home/xandri/GenomeAnalysis_Paper1/logs/mummer_ae_canu_job.log
+#SBATCH -o /home/xandri/GenomeAnalysis_Paper1/logs/assembly_evaluation_mummerplot_canu_job.log
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user bernat.xandri@gmail.com
 

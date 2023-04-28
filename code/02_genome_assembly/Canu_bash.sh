@@ -5,7 +5,7 @@
 #SBATCH -n 2
 #SBATCH -t 05:00:00
 #SBATCH -J Canu
-#SBATCH -o /home/xandri/GenomeAnalysis_Paper1/logs/canu_job.log
+#SBATCH -o /home/xandri/GenomeAnalysis_Paper1/logs/genome_assambly_canu_packbio
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user bernat.xandri@gmail.com
 

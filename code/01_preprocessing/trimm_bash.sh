@@ -5,7 +5,7 @@
 #SBATCH -n 2
 #SBATCH -t 01:00:00
 #SBATCH -J trimm_job
-#SBATCH -o /domus/h1/xandri/GenomeAnalysis_Paper1/logs/trimm_job.log
+#SBATCH -o /domus/h1/xandri/GenomeAnalysis_Paper1/logs/trimming_Illuina_data.log
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user bernat.xandri@gmail.com
 
