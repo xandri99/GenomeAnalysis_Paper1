@@ -7,9 +7,10 @@ System information:
   Python version: 3.7.2
   CPUs number: 16
 
-Started: 2023-04-24 20:47:16
+Started: 2023-05-14 15:12:19
 
 Logging to /home/xandri/GenomeAnalysis_Paper1/analysis/03_assembly_evaluation/quast_canu_assembly_evaluation/quast.log
+NOTICE: Output directory already exists and looks like a QUAST output dir. Existing results can be reused (e.g. previously generated alignments)!
 NOTICE: Maximum number of threads is set to 4 (use --threads option to set it manually)
 
 CWD: /domus/h1/xandri/GenomeAnalysis_Paper1
@@ -24,7 +25,7 @@ Contigs:
   Pre-processing...
   /home/xandri/GenomeAnalysis_Paper1/analysis/02_genome_assembly/canu/pacbio.contigs.fasta ==> pacbio.contigs
 
-2023-04-24 20:47:18
+2023-05-14 15:12:20
 Running Basic statistics processor...
   Reference genome:
     Enterococcus_faecium_reference_genome.fasta, length = 2919198, num fragments = 2, GC % = 37.88
@@ -44,17 +45,11 @@ Running Basic statistics processor...
     saved to /home/xandri/GenomeAnalysis_Paper1/analysis/03_assembly_evaluation/quast_canu_assembly_evaluation/basic_stats/pacbio.contigs_GC_content_plot.pdf
 Done.
 
-2023-04-24 20:47:20
+2023-05-14 15:12:22
 Running Contig analyzer...
   pacbio.contigs
   Logging to files /home/xandri/GenomeAnalysis_Paper1/analysis/03_assembly_evaluation/quast_canu_assembly_evaluation/contigs_reports/contigs_report_pacbio-contigs.stdout and contigs_report_pacbio-contigs.stderr...
-  Aligning contigs to the reference
-  /sw/bioinfo/quast/5.0.2/rackham/lib/python3.7/site-packages/quast_libs/minimap2/minimap2 \
-  -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 --min-occ \
-  200 -g 2500 --score-N 2 --cs -t 4 /home/xandri/GenomeAnalysis_Paper1/analysis/03_assembly_evaluation/quast_canu_assembly_evaluation/quast_corrected_input/Enterococcus_faecium_reference_genome.fasta \
-  /home/xandri/GenomeAnalysis_Paper1/analysis/03_assembly_evaluation/quast_canu_assembly_evaluation/quast_corrected_input/pacbio_contigs.fasta \
-  > /home/xandri/GenomeAnalysis_Paper1/analysis/03_assembly_evaluation/quast_canu_assembly_evaluation/contigs_reports/minimap_output/pacbio-contigs.coords_tmp \
-  2>> /home/xandri/GenomeAnalysis_Paper1/analysis/03_assembly_evaluation/quast_canu_assembly_evaluation/contigs_reports/contigs_report_pacbio-contigs.stderr
+  Using existing alignments... 
   Analysis is finished.
 
   Creating total report...
@@ -69,7 +64,7 @@ Running Contig analyzer...
     saved to /home/xandri/GenomeAnalysis_Paper1/analysis/03_assembly_evaluation/quast_canu_assembly_evaluation/contigs_reports/misassemblies_frcurve_plot.pdf
 Done.
 
-2023-04-24 20:47:24
+2023-05-14 15:12:24
 Running NA-NGA calculation...
   pacbio.contigs, Largest alignment = 137654, NA50 = 24552, NGA50 = 29113, LA50 = 31, LGA50 = 27
   Drawing cumulative plot...
@@ -80,7 +75,7 @@ Running NA-NGA calculation...
     saved to /home/xandri/GenomeAnalysis_Paper1/analysis/03_assembly_evaluation/quast_canu_assembly_evaluation/aligned_stats/NGAx_plot.pdf
 Done.
 
-2023-04-24 20:47:25
+2023-05-14 15:12:25
 Running Genome analyzer...
   NOTICE: No file with genomic features were provided. Use the --features option if you want to specify it.
 
@@ -92,14 +87,14 @@ Done.
 
 NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
 
-2023-04-24 20:47:27
+2023-05-14 15:12:26
 Creating large visual summaries...
 This may take a while: press Ctrl-C to skip this step..
   1 of 2: Creating Icarus viewers...
   2 of 2: Creating PDF with all tables and plots...
 Done
 
-2023-04-24 20:47:29
+2023-05-14 15:12:28
 RESULTS:
   Text versions of total report are saved to /home/xandri/GenomeAnalysis_Paper1/analysis/03_assembly_evaluation/quast_canu_assembly_evaluation/report.txt, report.tsv, and report.tex
   Text versions of transposed total report are saved to /home/xandri/GenomeAnalysis_Paper1/analysis/03_assembly_evaluation/quast_canu_assembly_evaluation/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
@@ -108,8 +103,8 @@ RESULTS:
   Icarus (contig browser) is saved to /home/xandri/GenomeAnalysis_Paper1/analysis/03_assembly_evaluation/quast_canu_assembly_evaluation/icarus.html
   Log is saved to /home/xandri/GenomeAnalysis_Paper1/analysis/03_assembly_evaluation/quast_canu_assembly_evaluation/quast.log
 
-Finished: 2023-04-24 20:47:29
-Elapsed time: 0:00:13.270958
-NOTICEs: 4; WARNINGs: 0; non-fatal ERRORs: 0
+Finished: 2023-05-14 15:12:28
+Elapsed time: 0:00:09.349053
+NOTICEs: 5; WARNINGs: 0; non-fatal ERRORs: 0
 
 Thank you for using QUAST!
