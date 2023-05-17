@@ -9,7 +9,7 @@ Basic analysis:
 - [x] Structural and functional annotation.
 - [x] RNA-Seq reads alignment against the assembled genome.
 - [x] Synteny comparison with a closely related genome.
-- [ ] Differential expression analysis between rich medium and heat-inactivated serum conditions.
+- [x] Differential expression analysis between rich medium and heat-inactivated serum conditions.
 
 
 Extra analysis:
