@@ -19,10 +19,14 @@ dds <- DESeq(ddsHTSeq)
 
 res <- results(dds)
 resFilt <- res[which(res$padj < 0.05 & abs(res$log2FoldChange) > 1),]
-# Sort genes based on absolute log2 fold change
 
-top_genes <- head(resFilt[order(abs(resFilt$log2FoldChange), decreasing = TRUE),], n = 20)
-write.csv(top_genes, file = "/domus/h1/xandri/GenomeAnalysis_Paper1/analysis/07_expression_analysis/top_genes.csv")
+
+downreg_genes <- res[order(res$log2FoldChange, decreasing = TRUE),]
+write.table(downreg_genes, file = "/domus/h1/xandri/GenomeAnalysis_Paper1/analysis/07_expression_analysis/downreg_genes.txt", sep = "\t", quote = FALSE, row.names = TRUE)
+upreg_genes <- res[ order(res$log2FoldChange), ]
+write.table(upreg_genes, file = "/domus/h1/xandri/GenomeAnalysis_Paper1/analysis/07_expression_analysis/upreg_genes.txt", sep = "\t", quote = FALSE, row.names = TRUE)
+
+
 
 
 ## MA plot
@@ -41,12 +45,17 @@ dev.off()
 png("/domus/h1/xandri/GenomeAnalysis_Paper1/analysis/07_expression_analysis/heatmap.png")
 
 ass <- assay(rlog(dds))
-topVarGenes <- head(order(rowVars(ass), decreasing = TRUE), 20)
+topVarGenes <- head(order(rowVars(ass), decreasing = TRUE), 50)
+
 mat <- ass[ topVarGenes, ]
 mat <- mat - rowMeans(mat)
+write.table(mat, file = "/domus/h1/xandri/GenomeAnalysis_Paper1/analysis/07_expression_analysis/mat.txt", sep = "\t", quote = FALSE)
+
 anno <- as.data.frame(colData(rlog(dds))[, c("condition","sizeFactor")])
 
 pheatmap(mat, annotation_col = anno)
 
 dev.off()
+
+
 
