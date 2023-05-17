@@ -19,8 +19,9 @@ dds <- DESeq(ddsHTSeq)
 
 res <- results(dds)
 resFilt <- res[which(res$padj < 0.05 & abs(res$log2FoldChange) > 1),]
+# Sort genes based on absolute log2 fold change
 
-top_genes <- head(resFilt[order(resFilt$padj),], n=20)
+top_genes <- head(resFilt[order(abs(resFilt$log2FoldChange), decreasing = TRUE),], n = 20)
 write.csv(top_genes, file = "/domus/h1/xandri/GenomeAnalysis_Paper1/analysis/07_expression_analysis/top_genes.csv")
 
 
